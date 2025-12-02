@@ -1,0 +1,35 @@
+{
+  "Name": "炼狱真火",
+  "Description": [
+    "火系高级法术，",
+    "攻击敌方全体。"
+  ],
+  "CostMP": 49,
+  "BaseDamage": 320,
+  "SoundId": 117,
+  "Type": 4,
+  "ActionType": 1,
+  "Effect": {
+    "EffectId": 17,
+    "XOffset": -2,
+    "YOffset": -10,
+    "LayerOffset": 99,
+    "Speed": 1,
+    "KeepEffect": 0,
+    "SoundDelay": 0,
+    "EffectTimes": 0,
+    "Shake": 0,
+    "Wave": 0
+  },
+  "Script": {
+    "SuccessTag": "",
+    "UseTag": "Magic_00034_Use",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "UsableOutsideBattle": false,
+    "UsableInBattle": true,
+    "UsableToEnemy": true,
+    "NeedSelectTarget": false
+  }
+}

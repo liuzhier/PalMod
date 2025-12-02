@@ -1,0 +1,8 @@
+{
+  "Name": "忆往昔·扬州夜月如幽叹",
+  "MapId": 90,
+  "Script": {
+    "EnterTag": "Scene_00198_Enter",
+    "TeleportTag": ""
+  }
+}

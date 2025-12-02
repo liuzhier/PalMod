@@ -1,0 +1,22 @@
+{
+  "Name": "南蛮王",
+  "VanishTime": 0,
+  "X": 1280,
+  "Y": 736,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 1,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 24,
+    "SpriteFrames": 3,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "",
+    "AutoTag": ""
+  }
+}

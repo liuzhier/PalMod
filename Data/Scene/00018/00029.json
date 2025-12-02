@@ -1,0 +1,22 @@
+{
+  "Name": "石板.发亮石板",
+  "VanishTime": 0,
+  "X": 1024,
+  "Y": 912,
+  "Layer": -3,
+  "Trigger": {
+    "StateCode": 0,
+    "IsAutoTrigger": true,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 233,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00018_00029_Trigger",
+    "AutoTag": "Event_00018_00029_Auto"
+  }
+}

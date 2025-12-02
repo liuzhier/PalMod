@@ -1,0 +1,11 @@
+{
+  "Name": "蜀山云海",
+  "ScreenWave": 0,
+  "ElementalEffect": {
+    "Wind": 3,
+    "Thunder": 2,
+    "Water": 5,
+    "Fire": -5,
+    "Earth": 0
+  }
+}

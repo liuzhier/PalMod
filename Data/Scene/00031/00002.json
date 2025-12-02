@@ -1,0 +1,22 @@
+{
+  "Name": "原地商人",
+  "VanishTime": 0,
+  "X": 1008,
+  "Y": 568,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 3
+  },
+  "Sprite": {
+    "SpriteId": 92,
+    "SpriteFrames": 1,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00031_00002_Trigger",
+    "AutoTag": "Event_00023_00016_Auto"
+  }
+}

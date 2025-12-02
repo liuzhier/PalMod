@@ -1,0 +1,22 @@
+{
+  "Name": "阿桃",
+  "VanishTime": 0,
+  "X": 752,
+  "Y": 1704,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 0,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 22,
+    "SpriteFrames": 3,
+    "Direction": 1,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "",
+    "AutoTag": "Event_00182_00005_Auto"
+  }
+}

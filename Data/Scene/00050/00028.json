@@ -1,0 +1,22 @@
+{
+  "Name": "公鸡",
+  "VanishTime": 0,
+  "X": 1136,
+  "Y": 1576,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 45,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "",
+    "AutoTag": "Event_00005_00015_Auto"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "Name": "杀红眼南绍兵1",
+  "VanishTime": 0,
+  "X": 1184,
+  "Y": 1440,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": true,
+    "Range": 1
+  },
+  "Sprite": {
+    "SpriteId": 549,
+    "SpriteFrames": 3,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00077_00006_Trigger",
+    "AutoTag": "Event_00060_00069_Auto"
+  }
+}

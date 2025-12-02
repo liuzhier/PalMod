@@ -1,0 +1,8 @@
+{
+  "Name": "大理·女娲神殿·灵儿拜母",
+  "MapId": 175,
+  "Script": {
+    "EnterTag": "Scene_00234_Enter",
+    "TeleportTag": ""
+  }
+}

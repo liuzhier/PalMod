@@ -1,0 +1,22 @@
+{
+  "Name": "酒剑仙",
+  "VanishTime": 0,
+  "X": 1552,
+  "Y": 1336,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": true,
+    "Range": 4
+  },
+  "Sprite": {
+    "SpriteId": 16,
+    "SpriteFrames": 3,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00156_00002_Trigger",
+    "AutoTag": ""
+  }
+}

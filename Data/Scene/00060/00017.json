@@ -1,0 +1,22 @@
+{
+  "Name": "血池机关",
+  "VanishTime": 0,
+  "X": 848,
+  "Y": 1544,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 1,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 298,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 4
+  },
+  "Script": {
+    "TriggerTag": "",
+    "AutoTag": ""
+  }
+}

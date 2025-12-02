@@ -1,0 +1,25 @@
+{
+  "Name": "鬼牙刀",
+  "Description": [
+    "苗刀的一种，刀尖倒钩，",
+    "又称「勾魂刀」。",
+    "武术+90　身法+26　吉运-9"
+  ],
+  "BitmapId": 65,
+  "Price": 13000,
+  "Script": {
+    "UseTag": "",
+    "EquipTag": "Item_00125_Equip",
+    "ThrowTag": "Item_00125_Throw",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": false,
+    "Throwable": true,
+    "Consuming": true,
+    "ApplyToAll": false,
+    "Sellable": true,
+    "WhoCanEquip": "5"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "Name": "锁妖塔·底层·剑柱·妖议出塔之策",
+  "MapId": 74,
+  "Script": {
+    "EnterTag": "Scene_00154_Enter",
+    "TeleportTag": ""
+  }
+}

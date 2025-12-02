@@ -1,0 +1,8 @@
+{
+  "Name": "大理·祭坛·载歌载舞",
+  "MapId": 176,
+  "Script": {
+    "EnterTag": "Scene_00232_Enter",
+    "TeleportTag": ""
+  }
+}

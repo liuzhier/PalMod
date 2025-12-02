@@ -1,0 +1,22 @@
+{
+  "Name": "鹿",
+  "VanishTime": 0,
+  "X": 768,
+  "Y": 992,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": true,
+    "Range": 3
+  },
+  "Sprite": {
+    "SpriteId": 266,
+    "SpriteFrames": 4,
+    "Direction": 2,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00049_00008_Trigger",
+    "AutoTag": ""
+  }
+}

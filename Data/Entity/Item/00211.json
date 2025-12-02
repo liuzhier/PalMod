@@ -1,0 +1,23 @@
+{
+  "Name": "布包",
+  "Description": [
+    "长安富商的行李。"
+  ],
+  "BitmapId": 242,
+  "Price": 0,
+  "Script": {
+    "UseTag": "Item_00211_Use",
+    "EquipTag": "",
+    "ThrowTag": "",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": true,
+    "Throwable": false,
+    "Consuming": false,
+    "ApplyToAll": true,
+    "Sellable": false,
+    "WhoCanEquip": ""
+  }
+}

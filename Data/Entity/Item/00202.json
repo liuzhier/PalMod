@@ -1,0 +1,24 @@
+{
+  "Name": "五毒珠",
+  "Description": [
+    "成精蟾怪的内丹，",
+    "佩戴后百毒不侵。"
+  ],
+  "BitmapId": 3,
+  "Price": 10000,
+  "Script": {
+    "UseTag": "",
+    "EquipTag": "Item_00202_Equip",
+    "ThrowTag": "",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": false,
+    "Throwable": false,
+    "Consuming": false,
+    "ApplyToAll": false,
+    "Sellable": true,
+    "WhoCanEquip": "1235"
+  }
+}

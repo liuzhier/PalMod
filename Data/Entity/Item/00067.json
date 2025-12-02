@@ -1,0 +1,25 @@
+{
+  "Name": "忘魂花",
+  "Description": [
+    "青蓝色小花，散发淡淡香气，",
+    "闻到香气，便会浑然忘我、",
+    "昏睡三回合。"
+  ],
+  "BitmapId": 171,
+  "Price": 0,
+  "Script": {
+    "UseTag": "Item_00067_Use",
+    "EquipTag": "",
+    "ThrowTag": "Item_00067_Throw",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": true,
+    "Throwable": true,
+    "Consuming": true,
+    "ApplyToAll": false,
+    "Sellable": false,
+    "WhoCanEquip": ""
+  }
+}

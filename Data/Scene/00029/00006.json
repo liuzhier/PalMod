@@ -1,0 +1,22 @@
+{
+  "Name": "原地棕衣扑扇刘晋元",
+  "VanishTime": 0,
+  "X": 736,
+  "Y": 704,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 407,
+    "SpriteFrames": 1,
+    "Direction": 1,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00029_00006_Trigger",
+    "AutoTag": ""
+  }
+}

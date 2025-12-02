@@ -1,0 +1,24 @@
+{
+  "Name": "孟婆汤",
+  "Description": [
+    "消除死者罪孽业障，使死者复活",
+    "HP恢复50%"
+  ],
+  "BitmapId": 42,
+  "Price": 2800,
+  "Script": {
+    "UseTag": "Item_00037_Use",
+    "EquipTag": "",
+    "ThrowTag": "",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": true,
+    "Throwable": false,
+    "Consuming": true,
+    "ApplyToAll": false,
+    "Sellable": true,
+    "WhoCanEquip": ""
+  }
+}

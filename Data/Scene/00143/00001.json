@@ -1,0 +1,22 @@
+{
+  "Name": "蝴蝶4",
+  "VanishTime": 0,
+  "X": 512,
+  "Y": 768,
+  "Layer": 10,
+  "Trigger": {
+    "StateCode": 1,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 166,
+    "SpriteFrames": 2,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "",
+    "AutoTag": "Event_00143_00001_Auto"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "Name": "透骨钉",
+  "Description": [
+    "精铁打造、三寸长的铁针",
+    "是很锋利的暗器。",
+    "敌人HP-250"
+  ],
+  "BitmapId": 73,
+  "Price": 1100,
+  "Script": {
+    "UseTag": "",
+    "EquipTag": "",
+    "ThrowTag": "Item_00095_Throw",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": false,
+    "Throwable": true,
+    "Consuming": true,
+    "ApplyToAll": false,
+    "Sellable": true,
+    "WhoCanEquip": ""
+  }
+}

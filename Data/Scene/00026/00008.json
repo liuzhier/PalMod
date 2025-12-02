@@ -1,0 +1,22 @@
+{
+  "Name": "右半身公子",
+  "VanishTime": 0,
+  "X": 832,
+  "Y": 848,
+  "Layer": 1,
+  "Trigger": {
+    "StateCode": 1,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 173,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00026_00005_Trigger",
+    "AutoTag": ""
+  }
+}

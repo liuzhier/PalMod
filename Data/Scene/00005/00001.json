@@ -1,0 +1,22 @@
+{
+  "Name": "王小虎",
+  "VanishTime": 0,
+  "X": 1152,
+  "Y": 1664,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": true,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 32,
+    "SpriteFrames": 3,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00005_00001_Trigger",
+    "AutoTag": "Event_00005_00001_Auto"
+  }
+}

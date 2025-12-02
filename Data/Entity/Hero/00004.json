@@ -1,0 +1,90 @@
+{
+  "AvatarId": 73,
+  "SpriteIdInBattle": 3,
+  "SpriteId": 3,
+  "Name": "巫后",
+  "CanAttackAll": false,
+  "Level": 48,
+  "MaxHP": 810,
+  "HP": 810,
+  "MaxMP": 790,
+  "MP": 790,
+  "CoveredBy": 0,
+  "WalkFrames": 0,
+  "Equipment": {
+    "Head": 202,
+    "Cloak": 234,
+    "Body": 210,
+    "Hand": 195,
+    "Foot": 243,
+    "Ornament": 260
+  },
+  "BaseAttribute": {
+    "AttackStrength": 168,
+    "MagicStrength": 256,
+    "Defense": 136,
+    "Dexterity": 132,
+    "FleeRate": 60
+  },
+  "Resistance": {
+    "Poison": 0,
+    "Elemental": {
+      "Wind": 0,
+      "Thunder": 0,
+      "Water": 0,
+      "Fire": 0,
+      "Earth": 0
+    }
+  },
+  "Sound": {
+    "Death": 24,
+    "Attack": 38,
+    "Weapon": 2,
+    "Critical": 6,
+    "Magic": 10,
+    "Cover": 16,
+    "Dying": 20
+  },
+  "Script": {
+    "FriendDeathTag": "",
+    "DyingTag": ""
+  },
+  "Magic": {
+    "CooperativeMagicId": 374,
+    "Magic": [
+      295,
+      304,
+      299,
+      315,
+      320,
+      325,
+      389,
+      336,
+      302,
+      308,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "MagicLearnable": []
+  }
+}

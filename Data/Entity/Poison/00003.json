@@ -1,0 +1,9 @@
+{
+  "Name": "瘴毒",
+  "Level": 1,
+  "Color": 33,
+  "Script": {
+    "PlayerTag": "Poison_00003_Player",
+    "EnemyTag": "Poison_00003_Enemy"
+  }
+}

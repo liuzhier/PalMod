@@ -1,0 +1,22 @@
+{
+  "Name": "跃阿奴",
+  "VanishTime": 0,
+  "X": 1008,
+  "Y": 600,
+  "Layer": 10,
+  "Trigger": {
+    "StateCode": 0,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 448,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 28
+  },
+  "Script": {
+    "TriggerTag": "",
+    "AutoTag": ""
+  }
+}

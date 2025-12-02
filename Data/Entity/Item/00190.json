@@ -1,0 +1,24 @@
+{
+  "Name": "铁护腕",
+  "Description": [
+    "精钢打造之腕部护环。",
+    "防御+5"
+  ],
+  "BitmapId": 10,
+  "Price": 360,
+  "Script": {
+    "UseTag": "",
+    "EquipTag": "Item_00190_Equip",
+    "ThrowTag": "",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": false,
+    "Throwable": false,
+    "Consuming": true,
+    "ApplyToAll": false,
+    "Sellable": true,
+    "WhoCanEquip": "1235"
+  }
+}

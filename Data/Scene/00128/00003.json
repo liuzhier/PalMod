@@ -1,0 +1,22 @@
+{
+  "Name": "托盘小二",
+  "VanishTime": 0,
+  "X": 1008,
+  "Y": 536,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 410,
+    "SpriteFrames": 3,
+    "Direction": 3,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00128_00003_Trigger",
+    "AutoTag": "Event_00128_00003_Auto"
+  }
+}

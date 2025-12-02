@@ -1,0 +1,22 @@
+{
+  "Name": "人蛇",
+  "VanishTime": 0,
+  "X": 1184,
+  "Y": 768,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 479,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "",
+    "AutoTag": ""
+  }
+}

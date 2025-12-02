@@ -1,0 +1,22 @@
+{
+  "Name": "公背婆.怪老儿",
+  "VanishTime": 0,
+  "X": 1552,
+  "Y": 776,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": true,
+    "Range": 1
+  },
+  "Sprite": {
+    "SpriteId": 470,
+    "SpriteFrames": 4,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00149_00016_Trigger",
+    "AutoTag": "Event_00055_00005_Auto"
+  }
+}

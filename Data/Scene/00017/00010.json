@@ -1,0 +1,22 @@
+{
+  "Name": "御风灵儿",
+  "VanishTime": 0,
+  "X": 896,
+  "Y": 1232,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 0,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 363,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "",
+    "AutoTag": "Event_00017_00010_Auto"
+  }
+}

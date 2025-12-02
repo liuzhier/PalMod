@@ -1,0 +1,8 @@
+{
+  "Name": "扬州·府衙·痛揍（不招？再打！）",
+  "MapId": 84,
+  "Script": {
+    "EnterTag": "Scene_00082_Enter",
+    "TeleportTag": ""
+  }
+}

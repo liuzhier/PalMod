@@ -1,0 +1,8 @@
+{
+  "Name": "蜀山·前山·酒剑仙吩咐不许叫师父",
+  "MapId": 132,
+  "Script": {
+    "EnterTag": "Scene_00156_Enter",
+    "TeleportTag": ""
+  }
+}

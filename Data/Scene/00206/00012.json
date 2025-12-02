@@ -1,0 +1,22 @@
+{
+  "Name": "原地唐钰",
+  "VanishTime": 0,
+  "X": 1200,
+  "Y": 1080,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 412,
+    "SpriteFrames": 1,
+    "Direction": 1,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00206_00012_Trigger",
+    "AutoTag": ""
+  }
+}

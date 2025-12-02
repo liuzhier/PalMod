@@ -1,0 +1,22 @@
+{
+  "Name": "猎户",
+  "VanishTime": 0,
+  "X": 1136,
+  "Y": 792,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 342,
+    "SpriteFrames": 1,
+    "Direction": 1,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00033_00014_Trigger",
+    "AutoTag": "Event_00002_00026_Auto"
+  }
+}

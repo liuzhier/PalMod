@@ -1,0 +1,25 @@
+{
+  "Name": "鹤顶红",
+  "Description": [
+    "七大毒蛊，中毒后每回合损血，",
+    "至死方休。",
+    "解药∶血海棠  致命药引∶孔雀胆"
+  ],
+  "BitmapId": 158,
+  "Price": 0,
+  "Script": {
+    "UseTag": "Item_00062_Use",
+    "EquipTag": "",
+    "ThrowTag": "Item_00062_Throw",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": true,
+    "Throwable": true,
+    "Consuming": true,
+    "ApplyToAll": false,
+    "Sellable": false,
+    "WhoCanEquip": ""
+  }
+}

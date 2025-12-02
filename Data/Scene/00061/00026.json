@@ -1,0 +1,22 @@
+{
+  "Name": "将军冢活门机关",
+  "VanishTime": 0,
+  "X": 1040,
+  "Y": 1496,
+  "Layer": -9,
+  "Trigger": {
+    "StateCode": 1,
+    "IsAutoTrigger": true,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 271,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00061_00026_Trigger",
+    "AutoTag": ""
+  }
+}

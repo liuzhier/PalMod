@@ -1,0 +1,33 @@
+{
+  "Name": "雷神",
+  "Description": [
+    "召唤雷神，最强的雷系法术。"
+  ],
+  "CostMP": 68,
+  "BaseDamage": 460,
+  "SoundId": 322,
+  "Type": 2,
+  "Effect": {
+    "SpiritId": 6,
+    "EffectId": 77,
+    "XOffset": 0,
+    "YOffset": 10,
+    "IdleFrames": 1,
+    "MagicFrames": 1,
+    "AttackFrames": 1,
+    "ColorShift": 0,
+    "Shake": 0,
+    "Wave": 0
+  },
+  "Script": {
+    "SuccessTag": "",
+    "UseTag": "",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "UsableOutsideBattle": false,
+    "UsableInBattle": true,
+    "UsableToEnemy": true,
+    "NeedSelectTarget": false
+  }
+}

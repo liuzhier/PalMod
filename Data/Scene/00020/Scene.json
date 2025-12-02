@@ -1,0 +1,8 @@
+{
+  "Name": "仙灵岛·洞天·水月宫外",
+  "MapId": 8,
+  "Script": {
+    "EnterTag": "Scene_00020_Enter",
+    "TeleportTag": ""
+  }
+}

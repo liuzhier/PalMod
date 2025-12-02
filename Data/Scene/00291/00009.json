@@ -1,0 +1,22 @@
+{
+  "Name": "大宝箱",
+  "VanishTime": 0,
+  "X": 1504,
+  "Y": 640,
+  "Layer": 3,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 389,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00291_00009_Trigger",
+    "AutoTag": ""
+  }
+}

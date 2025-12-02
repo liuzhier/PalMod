@@ -1,0 +1,24 @@
+{
+  "Name": "腌肉",
+  "Description": [
+    "用盐巴腌渍的猪肉。",
+    "HP+85"
+  ],
+  "BitmapId": 155,
+  "Price": 170,
+  "Script": {
+    "UseTag": "Item_00034_Use",
+    "EquipTag": "",
+    "ThrowTag": "",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": true,
+    "Throwable": true,
+    "Consuming": true,
+    "ApplyToAll": false,
+    "Sellable": true,
+    "WhoCanEquip": ""
+  }
+}

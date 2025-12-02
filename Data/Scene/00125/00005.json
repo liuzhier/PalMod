@@ -1,0 +1,22 @@
+{
+  "Name": "卧病刘晋元",
+  "VanishTime": 0,
+  "X": 912,
+  "Y": 552,
+  "Layer": -1,
+  "Trigger": {
+    "StateCode": 0,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 449,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 2
+  },
+  "Script": {
+    "TriggerTag": "Event_00120_00002_Trigger",
+    "AutoTag": ""
+  }
+}

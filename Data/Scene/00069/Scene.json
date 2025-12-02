@@ -1,0 +1,8 @@
+{
+  "Name": "鬼阴山·各洞口外山路",
+  "MapId": 61,
+  "Script": {
+    "EnterTag": "Scene_00069_Enter",
+    "TeleportTag": ""
+  }
+}

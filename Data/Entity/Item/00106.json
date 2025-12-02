@@ -1,0 +1,24 @@
+{
+  "Name": "木剑",
+  "Description": [
+    "用木材雕刻的剑，小孩玩具。",
+    "武术+2　身法+3"
+  ],
+  "BitmapId": 56,
+  "Price": 50,
+  "Script": {
+    "UseTag": "",
+    "EquipTag": "Item_00106_Equip",
+    "ThrowTag": "Item_00106_Throw",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": false,
+    "Throwable": true,
+    "Consuming": true,
+    "ApplyToAll": false,
+    "Sellable": true,
+    "WhoCanEquip": "13"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "Name": "原地恶少",
+  "VanishTime": 0,
+  "X": 1152,
+  "Y": 480,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 102,
+    "SpriteFrames": 1,
+    "Direction": 2,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00028_00008_Trigger",
+    "AutoTag": ""
+  }
+}

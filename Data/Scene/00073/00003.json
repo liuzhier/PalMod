@@ -1,0 +1,22 @@
+{
+  "Name": "蜂群",
+  "VanishTime": 0,
+  "X": 1008,
+  "Y": 1576,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": true,
+    "Range": 1
+  },
+  "Sprite": {
+    "SpriteId": 473,
+    "SpriteFrames": 2,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00007_00018_Trigger",
+    "AutoTag": "Event_00007_00007_Auto"
+  }
+}

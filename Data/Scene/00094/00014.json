@@ -1,0 +1,22 @@
+{
+  "Name": "迷昏无赖",
+  "VanishTime": 0,
+  "X": 688,
+  "Y": 584,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 0,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 377,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "",
+    "AutoTag": "Event_00094_00014_Auto"
+  }
+}

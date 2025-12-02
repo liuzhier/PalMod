@@ -1,0 +1,22 @@
+{
+  "Name": "伏案灵儿",
+  "VanishTime": 0,
+  "X": 608,
+  "Y": 368,
+  "Layer": 5,
+  "Trigger": {
+    "StateCode": 0,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 235,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "",
+    "AutoTag": "Event_00027_00006_Auto"
+  }
+}

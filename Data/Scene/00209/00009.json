@@ -1,0 +1,22 @@
+{
+  "Name": "跳绳小孩2",
+  "VanishTime": 0,
+  "X": 1088,
+  "Y": 592,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 78,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00209_00009_Trigger",
+    "AutoTag": "Event_00005_00002_Auto"
+  }
+}

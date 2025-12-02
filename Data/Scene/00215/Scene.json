@@ -1,0 +1,8 @@
+{
+  "Name": "试炼窟外·土路1·巨蝎挡路无法通过",
+  "MapId": 212,
+  "Script": {
+    "EnterTag": "Scene_00215_Enter",
+    "TeleportTag": "Scene_00215_Enter"
+  }
+}

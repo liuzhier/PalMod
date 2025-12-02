@@ -1,0 +1,8 @@
+{
+  "Name": "大理·祭坛·已摆满·动画前",
+  "MapId": 176,
+  "Script": {
+    "EnterTag": "Scene_00228_Enter",
+    "TeleportTag": ""
+  }
+}

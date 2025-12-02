@@ -1,0 +1,23 @@
+{
+  "Name": "风灵符",
+  "Description": [
+    "产生风系法术的符咒。"
+  ],
+  "BitmapId": 192,
+  "Price": 1000,
+  "Script": {
+    "UseTag": "",
+    "EquipTag": "",
+    "ThrowTag": "Item_00007_Throw",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": false,
+    "Throwable": true,
+    "Consuming": true,
+    "ApplyToAll": true,
+    "Sellable": true,
+    "WhoCanEquip": ""
+  }
+}

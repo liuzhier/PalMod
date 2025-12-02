@@ -1,0 +1,24 @@
+{
+  "Name": "虎皮靴",
+  "Description": [
+    "取自东北虎的皮毛缝制。",
+    "防御+21　身法+16"
+  ],
+  "BitmapId": 106,
+  "Price": 9000,
+  "Script": {
+    "UseTag": "",
+    "EquipTag": "Item_00184_Equip",
+    "ThrowTag": "",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": false,
+    "Throwable": false,
+    "Consuming": true,
+    "ApplyToAll": false,
+    "Sellable": true,
+    "WhoCanEquip": "123"
+  }
+}

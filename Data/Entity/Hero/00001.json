@@ -1,0 +1,127 @@
+{
+  "AvatarId": 1,
+  "SpriteIdInBattle": 0,
+  "SpriteId": 0,
+  "Name": "李逍遥",
+  "CanAttackAll": false,
+  "Level": 1,
+  "MaxHP": 150,
+  "HP": 150,
+  "MaxMP": 100,
+  "MP": 100,
+  "CoveredBy": 2,
+  "WalkFrames": 0,
+  "Equipment": {
+    "Head": 196,
+    "Cloak": 225,
+    "Body": 208,
+    "Hand": 166,
+    "Foot": 235,
+    "Ornament": 249
+  },
+  "BaseAttribute": {
+    "AttackStrength": 33,
+    "MagicStrength": 20,
+    "Defense": 32,
+    "Dexterity": 28,
+    "FleeRate": 32
+  },
+  "Resistance": {
+    "Poison": 0,
+    "Elemental": {
+      "Wind": 0,
+      "Thunder": 0,
+      "Water": 0,
+      "Fire": 0,
+      "Earth": 0
+    }
+  },
+  "Sound": {
+    "Death": 23,
+    "Attack": 37,
+    "Weapon": 1,
+    "Critical": 5,
+    "Magic": 9,
+    "Cover": 15,
+    "Dying": 19
+  },
+  "Script": {
+    "FriendDeathTag": "Hero_00001_Death",
+    "DyingTag": ""
+  },
+  "Magic": {
+    "CooperativeMagicId": 386,
+    "Magic": [
+      296,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "MagicLearnable": [
+      {
+        "Level": 7,
+        "MagicId": 349
+      },
+      {
+        "Level": 8,
+        "MagicId": 311
+      },
+      {
+        "Level": 10,
+        "MagicId": 298
+      },
+      {
+        "Level": 12,
+        "MagicId": 346
+      },
+      {
+        "Level": 17,
+        "MagicId": 299
+      },
+      {
+        "Level": 20,
+        "MagicId": 310
+      },
+      {
+        "Level": 22,
+        "MagicId": 348
+      },
+      {
+        "Level": 26,
+        "MagicId": 392
+      },
+      {
+        "Level": 34,
+        "MagicId": 363
+      }
+    ]
+  }
+}

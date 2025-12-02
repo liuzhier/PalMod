@@ -1,0 +1,22 @@
+{
+  "Name": "行巫后",
+  "VanishTime": 0,
+  "X": 1376,
+  "Y": 976,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 0,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 575,
+    "SpriteFrames": 3,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "",
+    "AutoTag": "Event_00248_00005_Auto"
+  }
+}

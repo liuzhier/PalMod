@@ -1,0 +1,8 @@
+{
+  "Name": "乱葬岗·荒野",
+  "MapId": 53,
+  "Script": {
+    "EnterTag": "Scene_00064_Enter",
+    "TeleportTag": "Scene_00064_Teleport"
+  }
+}

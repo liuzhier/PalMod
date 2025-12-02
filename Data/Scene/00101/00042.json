@@ -1,0 +1,22 @@
+{
+  "Name": "前向伏案商旅",
+  "VanishTime": 0,
+  "X": 1184,
+  "Y": 688,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 1,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 622,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00101_00042_Trigger",
+    "AutoTag": ""
+  }
+}

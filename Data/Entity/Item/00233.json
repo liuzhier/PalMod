@@ -1,0 +1,24 @@
+{
+  "Name": "手卷",
+  "Description": [
+    "李逍遥的父母亲所留下",
+    "的武功秘笈。"
+  ],
+  "BitmapId": 231,
+  "Price": 0,
+  "Script": {
+    "UseTag": "Item_00233_Use",
+    "EquipTag": "",
+    "ThrowTag": "",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": true,
+    "Throwable": false,
+    "Consuming": true,
+    "ApplyToAll": true,
+    "Sellable": false,
+    "WhoCanEquip": ""
+  }
+}

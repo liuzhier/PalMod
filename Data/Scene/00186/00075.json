@@ -1,0 +1,22 @@
+{
+  "Name": "逍遥跌死",
+  "VanishTime": 0,
+  "X": 304,
+  "Y": 536,
+  "Layer": 10,
+  "Trigger": {
+    "StateCode": 0,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 520,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "",
+    "AutoTag": "Event_00186_00075_Auto"
+  }
+}

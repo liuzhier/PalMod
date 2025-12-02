@@ -1,0 +1,22 @@
+{
+  "Name": "火来",
+  "VanishTime": 0,
+  "X": 784,
+  "Y": 376,
+  "Layer": -1,
+  "Trigger": {
+    "StateCode": 0,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 587,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "",
+    "AutoTag": "Event_00005_00002_Auto"
+  }
+}

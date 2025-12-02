@@ -1,0 +1,23 @@
+{
+  "Name": "芦苇漂",
+  "Description": [
+    "可载人漂浮水面的草席。"
+  ],
+  "BitmapId": 240,
+  "Price": 0,
+  "Script": {
+    "UseTag": "Item_00234_Use",
+    "EquipTag": "",
+    "ThrowTag": "",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": true,
+    "Throwable": false,
+    "Consuming": true,
+    "ApplyToAll": true,
+    "Sellable": false,
+    "WhoCanEquip": ""
+  }
+}

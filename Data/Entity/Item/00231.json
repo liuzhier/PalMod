@@ -1,0 +1,23 @@
+{
+  "Name": "香蕉",
+  "Description": [
+    "谁喜欢吃香蕉？"
+  ],
+  "BitmapId": 235,
+  "Price": 0,
+  "Script": {
+    "UseTag": "Item_00231_Use",
+    "EquipTag": "",
+    "ThrowTag": "",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": true,
+    "Throwable": false,
+    "Consuming": false,
+    "ApplyToAll": true,
+    "Sellable": false,
+    "WhoCanEquip": ""
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "Name": "柳月刀",
+  "Description": [
+    "细长铁制双刀，形如柳叶新月，",
+    "可发出两次攻击。",
+    "武术+28　身法+12　防御+3"
+  ],
+  "BitmapId": 77,
+  "Price": 2600,
+  "Script": {
+    "UseTag": "",
+    "EquipTag": "Item_00117_Equip",
+    "ThrowTag": "Item_00117_Throw",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": false,
+    "Throwable": true,
+    "Consuming": true,
+    "ApplyToAll": false,
+    "Sellable": true,
+    "WhoCanEquip": "2"
+  }
+}

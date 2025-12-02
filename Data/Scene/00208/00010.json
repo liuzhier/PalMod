@@ -1,0 +1,22 @@
+{
+  "Name": "白苗男",
+  "VanishTime": 0,
+  "X": 496,
+  "Y": 728,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 206,
+    "SpriteFrames": 3,
+    "Direction": 2,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00208_00010_Trigger",
+    "AutoTag": "Event_00023_00003_Auto"
+  }
+}

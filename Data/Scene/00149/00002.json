@@ -1,0 +1,22 @@
+{
+  "Name": "锁妖塔巨铜门",
+  "VanishTime": 0,
+  "X": 368,
+  "Y": 600,
+  "Layer": -2,
+  "Trigger": {
+    "StateCode": 1,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 491,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "",
+    "AutoTag": ""
+  }
+}

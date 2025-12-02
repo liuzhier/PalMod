@@ -1,0 +1,22 @@
+{
+  "Name": "南绍校刀手",
+  "VanishTime": 0,
+  "X": 1008,
+  "Y": 1416,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 554,
+    "SpriteFrames": 3,
+    "Direction": 2,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00256_00039_Trigger",
+    "AutoTag": "Event_00002_00020_Auto"
+  }
+}

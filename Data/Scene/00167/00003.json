@@ -1,0 +1,22 @@
+{
+  "Name": "铁锤魔兵",
+  "VanishTime": 0,
+  "X": 1232,
+  "Y": 1688,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": true,
+    "Range": 1
+  },
+  "Sprite": {
+    "SpriteId": 621,
+    "SpriteFrames": 3,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00148_00008_Trigger",
+    "AutoTag": "Event_00005_00002_Auto"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "Name": "叫狗",
+  "VanishTime": 0,
+  "X": 384,
+  "Y": 768,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": true,
+    "Range": 3
+  },
+  "Sprite": {
+    "SpriteId": 374,
+    "SpriteFrames": 3,
+    "Direction": 3,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00024_00038_Trigger",
+    "AutoTag": "Event_00024_00038_Auto"
+  }
+}

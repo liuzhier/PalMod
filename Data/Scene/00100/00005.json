@@ -1,0 +1,22 @@
+{
+  "Name": "左半身姑娘",
+  "VanishTime": 0,
+  "X": 1424,
+  "Y": 456,
+  "Layer": 4,
+  "Trigger": {
+    "StateCode": 1,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 171,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00100_00004_Trigger",
+    "AutoTag": ""
+  }
+}

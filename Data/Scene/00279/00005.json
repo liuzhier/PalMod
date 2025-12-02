@@ -1,0 +1,22 @@
+{
+  "Name": "巫王",
+  "VanishTime": 0,
+  "X": 1488,
+  "Y": 1048,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 0,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 564,
+    "SpriteFrames": 3,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "",
+    "AutoTag": "Event_00279_00005_Auto"
+  }
+}

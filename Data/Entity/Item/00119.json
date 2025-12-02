@@ -1,0 +1,24 @@
+{
+  "Name": "苗刀",
+  "Description": [
+    "苗族战士所惯用的佩刀。",
+    "武术+70　身法+32"
+  ],
+  "BitmapId": 51,
+  "Price": 5000,
+  "Script": {
+    "UseTag": "",
+    "EquipTag": "Item_00119_Equip",
+    "ThrowTag": "Item_00119_Throw",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": false,
+    "Throwable": true,
+    "Consuming": true,
+    "ApplyToAll": false,
+    "Sellable": true,
+    "WhoCanEquip": "5"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "Name": "无赖",
+  "VanishTime": 0,
+  "X": 1616,
+  "Y": 328,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 95,
+    "SpriteFrames": 3,
+    "Direction": 2,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00027_00011_Trigger",
+    "AutoTag": "Event_00002_00020_Auto"
+  }
+}

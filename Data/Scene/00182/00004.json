@@ -1,0 +1,22 @@
+{
+  "Name": "老丈",
+  "VanishTime": 0,
+  "X": 640,
+  "Y": 1632,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 596,
+    "SpriteFrames": 1,
+    "Direction": 3,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "",
+    "AutoTag": ""
+  }
+}

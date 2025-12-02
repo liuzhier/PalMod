@@ -1,0 +1,22 @@
+{
+  "Name": "大轿",
+  "VanishTime": 0,
+  "X": 992,
+  "Y": 1088,
+  "Layer": -2,
+  "Trigger": {
+    "StateCode": 0,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 436,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "",
+    "AutoTag": ""
+  }
+}

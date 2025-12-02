@@ -1,0 +1,8 @@
+{
+  "Name": "大理·城内·雨后·停止厮杀",
+  "MapId": 165,
+  "Script": {
+    "EnterTag": "Scene_00245_Enter",
+    "TeleportTag": ""
+  }
+}

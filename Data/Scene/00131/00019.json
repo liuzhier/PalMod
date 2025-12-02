@@ -1,0 +1,22 @@
+{
+  "Name": "舞娘",
+  "VanishTime": 0,
+  "X": 1104,
+  "Y": 1112,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 439,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "",
+    "AutoTag": "Event_00131_00017_Auto"
+  }
+}

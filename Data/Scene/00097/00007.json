@@ -1,0 +1,22 @@
+{
+  "Name": "原地捕快",
+  "VanishTime": 0,
+  "X": 704,
+  "Y": 624,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 98,
+    "SpriteFrames": 1,
+    "Direction": 1,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00097_00007_Trigger",
+    "AutoTag": ""
+  }
+}

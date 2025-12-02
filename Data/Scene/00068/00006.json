@@ -1,0 +1,22 @@
+{
+  "Name": "持棍苗兵",
+  "VanishTime": 0,
+  "X": 1184,
+  "Y": 880,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 0,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 30,
+    "SpriteFrames": 3,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "",
+    "AutoTag": "Event_00068_00006_Auto"
+  }
+}

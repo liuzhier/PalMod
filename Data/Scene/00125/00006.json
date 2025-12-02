@@ -1,0 +1,22 @@
+{
+  "Name": "侍夫彩依",
+  "VanishTime": 0,
+  "X": 912,
+  "Y": 584,
+  "Layer": -4,
+  "Trigger": {
+    "StateCode": 0,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 450,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "",
+    "AutoTag": ""
+  }
+}

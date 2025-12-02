@@ -1,0 +1,23 @@
+{
+  "Name": "破天锤",
+  "Description": [
+    "用来敲碎仙灵岛石像的法宝。"
+  ],
+  "BitmapId": 238,
+  "Price": 0,
+  "Script": {
+    "UseTag": "Item_00219_Use",
+    "EquipTag": "",
+    "ThrowTag": "",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": true,
+    "Throwable": false,
+    "Consuming": false,
+    "ApplyToAll": true,
+    "Sellable": false,
+    "WhoCanEquip": ""
+  }
+}

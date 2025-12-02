@@ -1,0 +1,24 @@
+{
+  "Name": "八仙石",
+  "Description": [
+    "八仙石洞中所采集之丹矿。",
+    "防御最大值+2"
+  ],
+  "BitmapId": 108,
+  "Price": 0,
+  "Script": {
+    "UseTag": "Item_00054_Use",
+    "EquipTag": "",
+    "ThrowTag": "",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": true,
+    "Throwable": false,
+    "Consuming": true,
+    "ApplyToAll": false,
+    "Sellable": false,
+    "WhoCanEquip": ""
+  }
+}

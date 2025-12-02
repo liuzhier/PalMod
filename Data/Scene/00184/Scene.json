@@ -1,0 +1,8 @@
+{
+  "Name": "桃源村·众桃妖化林（褒奖寿葫芦）",
+  "MapId": 158,
+  "Script": {
+    "EnterTag": "Scene_00184_Enter",
+    "TeleportTag": ""
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "Name": "木鞋",
+  "Description": [
+    "以木材削制而成，",
+    "鞋面刻有吉祥图案。",
+    "防御+2"
+  ],
+  "BitmapId": 98,
+  "Price": 80,
+  "Script": {
+    "UseTag": "",
+    "EquipTag": "Item_00176_Equip",
+    "ThrowTag": "",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": false,
+    "Throwable": false,
+    "Consuming": true,
+    "ApplyToAll": false,
+    "Sellable": true,
+    "WhoCanEquip": "123"
+  }
+}

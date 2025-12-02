@@ -1,0 +1,8 @@
+{
+  "Name": "长安·尚书府内·大门小院",
+  "MapId": 106,
+  "Script": {
+    "EnterTag": "Scene_00115_Enter",
+    "TeleportTag": ""
+  }
+}

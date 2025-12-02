@@ -1,0 +1,8 @@
+{
+  "Name": "扬州·飞贼之家·密道打开",
+  "MapId": 120,
+  "Script": {
+    "EnterTag": "Scene_00091_Enter",
+    "TeleportTag": ""
+  }
+}

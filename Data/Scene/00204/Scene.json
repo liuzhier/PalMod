@@ -1,0 +1,8 @@
+{
+  "Name": "大理·女娲神殿·逍遥进入巫后石像",
+  "MapId": 175,
+  "Script": {
+    "EnterTag": "Scene_00204_Enter",
+    "TeleportTag": ""
+  }
+}

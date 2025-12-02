@@ -1,0 +1,22 @@
+{
+  "Name": "群殴刘晋元",
+  "VanishTime": 0,
+  "X": 944,
+  "Y": 792,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 1,
+    "IsAutoTrigger": true,
+    "Range": 3
+  },
+  "Sprite": {
+    "SpriteId": 234,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00029_00002_Trigger",
+    "AutoTag": "Event_00029_00002_Auto"
+  }
+}

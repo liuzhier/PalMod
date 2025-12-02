@@ -1,0 +1,23 @@
+{
+  "Name": "蜡烛",
+  "Description": [
+    "用蜡制的点火照明的东西。"
+  ],
+  "BitmapId": 12,
+  "Price": 50,
+  "Script": {
+    "UseTag": "",
+    "EquipTag": "",
+    "ThrowTag": "",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": false,
+    "Throwable": false,
+    "Consuming": false,
+    "ApplyToAll": false,
+    "Sellable": false,
+    "WhoCanEquip": ""
+  }
+}

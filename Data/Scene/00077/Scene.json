@@ -1,0 +1,8 @@
+{
+  "Name": "鬼阴山·鬼阴坛石室",
+  "MapId": 72,
+  "Script": {
+    "EnterTag": "Scene_00068_Enter",
+    "TeleportTag": "Scene_00068_Teleport"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "Name": "黑苗男1",
+  "VanishTime": 0,
+  "X": 304,
+  "Y": 1672,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 205,
+    "SpriteFrames": 3,
+    "Direction": 2,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00207_00021_Trigger",
+    "AutoTag": "Event_00002_00020_Auto"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "Name": "小丁秀兰",
+  "VanishTime": 0,
+  "X": 1008,
+  "Y": 712,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 0,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 537,
+    "SpriteFrames": 3,
+    "Direction": 2,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00267_00007_Trigger",
+    "AutoTag": "Event_00267_00007_Auto"
+  }
+}

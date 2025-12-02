@@ -1,0 +1,8 @@
+{
+  "Name": "忆往昔·尚书府二人谐心",
+  "MapId": 109,
+  "Script": {
+    "EnterTag": "Scene_00199_Enter",
+    "TeleportTag": ""
+  }
+}

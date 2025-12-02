@@ -1,0 +1,22 @@
+{
+  "Name": "蜡烛",
+  "VanishTime": 0,
+  "X": 624,
+  "Y": 1288,
+  "Layer": 6,
+  "Trigger": {
+    "StateCode": 1,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 8,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "",
+    "AutoTag": "Event_00021_00024_Auto"
+  }
+}

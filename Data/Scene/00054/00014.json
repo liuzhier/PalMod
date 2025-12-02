@@ -1,0 +1,22 @@
+{
+  "Name": "躺男",
+  "VanishTime": 0,
+  "X": 1088,
+  "Y": 544,
+  "Layer": 4,
+  "Trigger": {
+    "StateCode": 1,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 189,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00054_00014_Trigger",
+    "AutoTag": ""
+  }
+}

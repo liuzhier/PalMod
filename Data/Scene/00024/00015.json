@@ -1,0 +1,22 @@
+{
+  "Name": "糖葫芦小贩",
+  "VanishTime": 0,
+  "X": 960,
+  "Y": 944,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 442,
+    "SpriteFrames": 1,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00024_00015_Trigger",
+    "AutoTag": ""
+  }
+}

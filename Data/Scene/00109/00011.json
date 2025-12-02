@@ -1,0 +1,22 @@
+{
+  "Name": "行走货真价实扑扇刘晋元",
+  "VanishTime": 0,
+  "X": 656,
+  "Y": 1448,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 0,
+    "IsAutoTrigger": true,
+    "Range": 4
+  },
+  "Sprite": {
+    "SpriteId": 405,
+    "SpriteFrames": 3,
+    "Direction": 3,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00109_00011_Trigger",
+    "AutoTag": ""
+  }
+}

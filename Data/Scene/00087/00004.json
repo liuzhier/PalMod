@@ -1,0 +1,22 @@
+{
+  "Name": "原地衙役",
+  "VanishTime": 0,
+  "X": 1280,
+  "Y": 640,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 137,
+    "SpriteFrames": 1,
+    "Direction": 3,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "",
+    "AutoTag": "Event_00006_00014_Auto"
+  }
+}

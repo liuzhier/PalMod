@@ -1,0 +1,22 @@
+{
+  "Name": "林月如",
+  "VanishTime": 0,
+  "X": 224,
+  "Y": 1824,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 0,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 7,
+    "SpriteFrames": 3,
+    "Direction": 2,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "",
+    "AutoTag": "Event_00118_00004_Auto"
+  }
+}

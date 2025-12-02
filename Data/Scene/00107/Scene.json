@@ -1,0 +1,8 @@
+{
+  "Name": "蛤蟆洞外·白苗驿站外·石长老自爆",
+  "MapId": 101,
+  "Script": {
+    "EnterTag": "Scene_00107_Enter",
+    "TeleportTag": ""
+  }
+}

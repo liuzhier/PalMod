@@ -1,0 +1,25 @@
+{
+  "Name": "玉女剑",
+  "Description": [
+    "鸳鸯双剑中的雌剑，与金童剑",
+    "为一对。  武术+100　灵力+15",
+    "身法+20  吉运+30"
+  ],
+  "BitmapId": 62,
+  "Price": 12000,
+  "Script": {
+    "UseTag": "",
+    "EquipTag": "Item_00122_Equip",
+    "ThrowTag": "Item_00122_Throw",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": false,
+    "Throwable": true,
+    "Consuming": true,
+    "ApplyToAll": false,
+    "Sellable": true,
+    "WhoCanEquip": "23"
+  }
+}

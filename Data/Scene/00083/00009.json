@@ -1,0 +1,22 @@
+{
+  "Name": "儿童7",
+  "VanishTime": 0,
+  "X": 944,
+  "Y": 1144,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 156,
+    "SpriteFrames": 3,
+    "Direction": 1,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00083_00009_Trigger",
+    "AutoTag": "Event_00083_00009_Auto"
+  }
+}

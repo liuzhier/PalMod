@@ -1,0 +1,25 @@
+{
+  "Name": "草鞋",
+  "Description": [
+    "以蔺草编织而成，十分便宜，",
+    "穿起来很轻便，适宜行走。",
+    "防御+1"
+  ],
+  "BitmapId": 97,
+  "Price": 30,
+  "Script": {
+    "UseTag": "",
+    "EquipTag": "Item_00175_Equip",
+    "ThrowTag": "",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": false,
+    "Throwable": false,
+    "Consuming": true,
+    "ApplyToAll": false,
+    "Sellable": true,
+    "WhoCanEquip": "123"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "Name": "引路蜂",
+  "Description": [
+    "跟随引路蜂而行，",
+    "可回到迷宫起点。"
+  ],
+  "BitmapId": 114,
+  "Price": 200,
+  "Script": {
+    "UseTag": "Item_00091_Use",
+    "EquipTag": "",
+    "ThrowTag": "",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": true,
+    "Throwable": false,
+    "Consuming": true,
+    "ApplyToAll": true,
+    "Sellable": true,
+    "WhoCanEquip": ""
+  }
+}

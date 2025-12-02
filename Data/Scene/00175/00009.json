@@ -1,0 +1,22 @@
+{
+  "Name": "原地逍遥",
+  "VanishTime": 0,
+  "X": 704,
+  "Y": 624,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 0,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 397,
+    "SpriteFrames": 1,
+    "Direction": 2,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "",
+    "AutoTag": ""
+  }
+}

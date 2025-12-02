@@ -1,0 +1,22 @@
+{
+  "Name": "张四哥",
+  "VanishTime": 0,
+  "X": 960,
+  "Y": 1376,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 3
+  },
+  "Sprite": {
+    "SpriteId": 13,
+    "SpriteFrames": 3,
+    "Direction": 1,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00006_00009_Trigger",
+    "AutoTag": ""
+  }
+}

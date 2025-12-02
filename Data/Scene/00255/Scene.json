@@ -1,0 +1,8 @@
+{
+  "Name": "回魂仙梦·南绍被淹·房顶",
+  "MapId": 193,
+  "Script": {
+    "EnterTag": "Scene_00255_Enter",
+    "TeleportTag": ""
+  }
+}

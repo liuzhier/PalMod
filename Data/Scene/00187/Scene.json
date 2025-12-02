@@ -1,0 +1,8 @@
+{
+  "Name": "神木林·底",
+  "MapId": 150,
+  "Script": {
+    "EnterTag": "Scene_00187_Enter",
+    "TeleportTag": "Scene_00180_Teleport"
+  }
+}

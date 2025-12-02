@@ -1,0 +1,8 @@
+{
+  "Name": "神木庵·出口",
+  "MapId": 155,
+  "Script": {
+    "EnterTag": "Scene_00188_Enter",
+    "TeleportTag": ""
+  }
+}

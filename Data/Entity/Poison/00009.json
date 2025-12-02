@@ -1,0 +1,9 @@
+{
+  "Name": "断肠草毒",
+  "Level": 3,
+  "Color": 192,
+  "Script": {
+    "PlayerTag": "Poison_00009_Player",
+    "EnemyTag": "Poison_00009_Enemy"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "Name": "无图像",
+  "VanishTime": 0,
+  "X": 1648,
+  "Y": 824,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 0,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00057_00005_Trigger",
+    "AutoTag": "Event_00020_00007_Auto"
+  }
+}

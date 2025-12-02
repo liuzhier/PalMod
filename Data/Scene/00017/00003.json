@@ -1,0 +1,22 @@
+{
+  "Name": "灵儿服饰",
+  "VanishTime": 0,
+  "X": 1104,
+  "Y": 1432,
+  "Layer": 5,
+  "Trigger": {
+    "StateCode": 1,
+    "IsAutoTrigger": false,
+    "Range": 1
+  },
+  "Sprite": {
+    "SpriteId": 338,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00017_00003_Trigger",
+    "AutoTag": ""
+  }
+}

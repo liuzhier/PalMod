@@ -1,0 +1,22 @@
+{
+  "Name": "金翅凤凰",
+  "VanishTime": 0,
+  "X": 960,
+  "Y": 576,
+  "Layer": 19,
+  "Trigger": {
+    "StateCode": 1,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 522,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "",
+    "AutoTag": "Event_00267_00004_Auto"
+  }
+}

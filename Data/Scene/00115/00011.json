@@ -1,0 +1,22 @@
+{
+  "Name": "昏倒侍女1",
+  "VanishTime": 0,
+  "X": 1312,
+  "Y": 1040,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 0,
+    "IsAutoTrigger": false,
+    "Range": 1
+  },
+  "Sprite": {
+    "SpriteId": 456,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 3
+  },
+  "Script": {
+    "TriggerTag": "Event_00109_00013_Trigger",
+    "AutoTag": ""
+  }
+}

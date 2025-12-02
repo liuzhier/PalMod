@@ -1,0 +1,22 @@
+{
+  "Name": "火妖众",
+  "VanishTime": 0,
+  "X": 1568,
+  "Y": 1552,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": true,
+    "Range": 1
+  },
+  "Sprite": {
+    "SpriteId": 471,
+    "SpriteFrames": 4,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00213_00006_Trigger",
+    "AutoTag": "Event_00055_00005_Auto"
+  }
+}

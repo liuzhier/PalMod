@@ -1,0 +1,22 @@
+{
+  "Name": "刘家侍女",
+  "VanishTime": 0,
+  "X": 1680,
+  "Y": 1480,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 0,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 401,
+    "SpriteFrames": 3,
+    "Direction": 1,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "",
+    "AutoTag": "Event_00141_00008_Auto"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "Name": "灵山",
+  "MapId": 149,
+  "Script": {
+    "EnterTag": "",
+    "TeleportTag": "Scene_00180_Teleport"
+  }
+}

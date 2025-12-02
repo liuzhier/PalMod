@@ -1,0 +1,8 @@
+{
+  "Name": "回魂仙梦·荒岛·救公主",
+  "MapId": 177,
+  "Script": {
+    "EnterTag": "Scene_00247_Enter",
+    "TeleportTag": ""
+  }
+}

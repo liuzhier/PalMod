@@ -1,0 +1,22 @@
+{
+  "Name": "原地刘家侍女",
+  "VanishTime": 0,
+  "X": 576,
+  "Y": 640,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 0,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 249,
+    "SpriteFrames": 1,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00120_00004_Trigger",
+    "AutoTag": "Event_00023_00016_Auto"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "Name": "水底逍遥",
+  "VanishTime": 0,
+  "X": 384,
+  "Y": 1424,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 0,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 584,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "",
+    "AutoTag": "Event_00251_00005_Auto"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "Name": "原地灵儿",
+  "VanishTime": 0,
+  "X": 496,
+  "Y": 296,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 1,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 398,
+    "SpriteFrames": 1,
+    "Direction": 2,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "",
+    "AutoTag": "Event_00067_00001_Auto"
+  }
+}

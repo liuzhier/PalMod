@@ -1,0 +1,22 @@
+{
+  "Name": "原地月如",
+  "VanishTime": 0,
+  "X": 448,
+  "Y": 288,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 1,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 400,
+    "SpriteFrames": 1,
+    "Direction": 2,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "",
+    "AutoTag": "Event_00067_00003_Auto"
+  }
+}

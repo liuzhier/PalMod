@@ -1,0 +1,22 @@
+{
+  "Name": "阿奴",
+  "VanishTime": 0,
+  "X": 1296,
+  "Y": 1288,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 0,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 5,
+    "SpriteFrames": 3,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "",
+    "AutoTag": "Event_00282_00010_Auto"
+  }
+}

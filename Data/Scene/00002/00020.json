@@ -1,0 +1,22 @@
+{
+  "Name": "李大娘",
+  "VanishTime": 0,
+  "X": 704,
+  "Y": 1072,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 0,
+    "IsAutoTrigger": false,
+    "Range": 3
+  },
+  "Sprite": {
+    "SpriteId": 21,
+    "SpriteFrames": 3,
+    "Direction": 2,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00002_00020_Trigger",
+    "AutoTag": "Event_00002_00020_Auto"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "Name": "左面白苗女兵",
+  "VanishTime": 0,
+  "X": 1392,
+  "Y": 568,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": true,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 566,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00229_00028_Trigger",
+    "AutoTag": "Event_00229_00016_Auto"
+  }
+}

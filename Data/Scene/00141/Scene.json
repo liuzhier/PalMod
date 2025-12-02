@@ -1,0 +1,8 @@
+{
+  "Name": "毒仙林·蜘蛛精居所·千年修为抵十年寿",
+  "MapId": 130,
+  "Script": {
+    "EnterTag": "Scene_00141_Enter",
+    "TeleportTag": ""
+  }
+}

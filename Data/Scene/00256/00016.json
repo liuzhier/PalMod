@@ -1,0 +1,22 @@
+{
+  "Name": "汉人尸首1",
+  "VanishTime": 0,
+  "X": 912,
+  "Y": 1368,
+  "Layer": -9,
+  "Trigger": {
+    "StateCode": 1,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 580,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 3
+  },
+  "Script": {
+    "TriggerTag": "",
+    "AutoTag": "Event_00256_00007_Auto"
+  }
+}

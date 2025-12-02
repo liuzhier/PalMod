@@ -1,0 +1,22 @@
+{
+  "Name": "挥鞭林月如",
+  "VanishTime": 0,
+  "X": 912,
+  "Y": 1032,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": true,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 194,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00022_00002_Trigger",
+    "AutoTag": "Event_00022_00002_Auto"
+  }
+}

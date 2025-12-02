@@ -1,0 +1,8 @@
+{
+  "Name": "大理·城门外·战·天降甘霖",
+  "MapId": 162,
+  "Script": {
+    "EnterTag": "Scene_00231_Enter",
+    "TeleportTag": ""
+  }
+}

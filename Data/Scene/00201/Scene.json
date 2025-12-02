@@ -1,0 +1,8 @@
+{
+  "Name": "梦之床·巫后神型回魂仙梦",
+  "MapId": 20,
+  "Script": {
+    "EnterTag": "Scene_00201_Enter",
+    "TeleportTag": ""
+  }
+}

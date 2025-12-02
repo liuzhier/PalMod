@@ -1,0 +1,24 @@
+{
+  "Name": "金刚符",
+  "Description": [
+    "使用后如有金钟铁罩护身。",
+    "增加防御七回合"
+  ],
+  "BitmapId": 216,
+  "Price": 1300,
+  "Script": {
+    "UseTag": "Item_00003_Use",
+    "EquipTag": "",
+    "ThrowTag": "",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": true,
+    "Throwable": false,
+    "Consuming": true,
+    "ApplyToAll": false,
+    "Sellable": true,
+    "WhoCanEquip": ""
+  }
+}

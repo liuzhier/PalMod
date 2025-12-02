@@ -1,0 +1,22 @@
+{
+  "Name": "右壁火",
+  "VanishTime": 0,
+  "X": 832,
+  "Y": 1648,
+  "Layer": 6,
+  "Trigger": {
+    "StateCode": 1,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 618,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 3
+  },
+  "Script": {
+    "TriggerTag": "",
+    "AutoTag": "Event_00023_00011_Auto"
+  }
+}

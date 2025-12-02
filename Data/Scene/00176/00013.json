@@ -1,0 +1,22 @@
+{
+  "Name": "百货商人1",
+  "VanishTime": 0,
+  "X": 656,
+  "Y": 1592,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": true,
+    "Range": 4
+  },
+  "Sprite": {
+    "SpriteId": 355,
+    "SpriteFrames": 3,
+    "Direction": 3,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00176_00013_Trigger",
+    "AutoTag": ""
+  }
+}

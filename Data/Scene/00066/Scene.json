@@ -1,0 +1,8 @@
+{
+  "Name": "将军冢·下层·1",
+  "MapId": 57,
+  "Script": {
+    "EnterTag": "",
+    "TeleportTag": "Scene_00061_Teleport"
+  }
+}

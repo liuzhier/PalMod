@@ -1,0 +1,22 @@
+{
+  "Name": "水魔兽",
+  "VanishTime": 0,
+  "X": 336,
+  "Y": 376,
+  "Layer": 10,
+  "Trigger": {
+    "StateCode": 0,
+    "IsAutoTrigger": true,
+    "Range": 3
+  },
+  "Sprite": {
+    "SpriteId": 582,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00251_00002_Trigger",
+    "AutoTag": "Event_00253_00002_Auto"
+  }
+}

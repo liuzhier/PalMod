@@ -1,0 +1,22 @@
+{
+  "Name": "原地流氓",
+  "VanishTime": 0,
+  "X": 688,
+  "Y": 1368,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 104,
+    "SpriteFrames": 1,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00129_00003_Trigger",
+    "AutoTag": "Event_00023_00016_Auto"
+  }
+}

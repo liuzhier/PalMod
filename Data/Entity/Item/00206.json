@@ -1,0 +1,25 @@
+{
+  "Name": "火灵珠",
+  "Description": [
+    "女娲降伏火神后，禁制火神于内",
+    "的宝珠。  合体法术∶炼狱真火",
+    "避火率+50%"
+  ],
+  "BitmapId": 4,
+  "Price": 0,
+  "Script": {
+    "UseTag": "Item_00206_Use",
+    "EquipTag": "Item_00206_Equip",
+    "ThrowTag": "",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": true,
+    "Throwable": false,
+    "Consuming": false,
+    "ApplyToAll": true,
+    "Sellable": false,
+    "WhoCanEquip": "1235"
+  }
+}

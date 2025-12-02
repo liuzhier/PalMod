@@ -1,0 +1,8 @@
+{
+  "Name": "扬州·城墙追贼·第2段（城东城墙之上）",
+  "MapId": 93,
+  "Script": {
+    "EnterTag": "Scene_00086_Enter",
+    "TeleportTag": ""
+  }
+}

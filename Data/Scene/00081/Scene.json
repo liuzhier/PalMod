@@ -1,0 +1,8 @@
+{
+  "Name": "出鬼阴山后·山道",
+  "MapId": 77,
+  "Script": {
+    "EnterTag": "Scene_00081_Enter",
+    "TeleportTag": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "Name": "黑苗女1",
+  "VanishTime": 0,
+  "X": 144,
+  "Y": 1256,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 203,
+    "SpriteFrames": 3,
+    "Direction": 1,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00255_00017_Trigger",
+    "AutoTag": ""
+  }
+}

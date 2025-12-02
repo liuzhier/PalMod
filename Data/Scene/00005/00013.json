@@ -1,0 +1,22 @@
+{
+  "Name": "撒米",
+  "VanishTime": 0,
+  "X": 1024,
+  "Y": 944,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 1,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 43,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 7
+  },
+  "Script": {
+    "TriggerTag": "",
+    "AutoTag": ""
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Name": "终南山_巨蜘蛛网",
+  "ScreenWave": 0,
+  "ElementalEffect": {
+    "Wind": 0,
+    "Thunder": 0,
+    "Water": 0,
+    "Fire": 2,
+    "Earth": 0
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "Name": "扬州城门·只需进城不许出城",
+  "MapId": 79,
+  "Script": {
+    "EnterTag": "Scene_00080_Enter",
+    "TeleportTag": ""
+  }
+}

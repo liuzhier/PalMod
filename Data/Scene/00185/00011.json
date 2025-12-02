@@ -1,0 +1,22 @@
+{
+  "Name": "树妖",
+  "VanishTime": 0,
+  "X": 1216,
+  "Y": 1232,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": true,
+    "Range": 1
+  },
+  "Sprite": {
+    "SpriteId": 60,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00181_00010_Trigger",
+    "AutoTag": "Event_00007_00005_Auto"
+  }
+}

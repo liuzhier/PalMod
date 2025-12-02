@@ -1,0 +1,22 @@
+{
+  "Name": "吞剑卖艺者",
+  "VanishTime": 0,
+  "X": 416,
+  "Y": 1056,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 602,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00023_00010_Trigger",
+    "AutoTag": "Event_00023_00010_Auto"
+  }
+}

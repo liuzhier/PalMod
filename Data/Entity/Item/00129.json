@@ -1,0 +1,25 @@
+{
+  "Name": "磐龙剑",
+  "Description": [
+    "铸剑宗师欧冶子所炼宝剑，剑身铸",
+    "有青龙盘柱。 武术+134　灵力+37",
+    "防御+8  身法+40 　吉运+32"
+  ],
+  "BitmapId": 55,
+  "Price": 24000,
+  "Script": {
+    "UseTag": "",
+    "EquipTag": "Item_00129_Equip",
+    "ThrowTag": "Item_00129_Throw",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": false,
+    "Throwable": true,
+    "Consuming": true,
+    "ApplyToAll": false,
+    "Sellable": true,
+    "WhoCanEquip": "1"
+  }
+}

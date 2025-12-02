@@ -1,0 +1,8 @@
+{
+  "Name": "桃花源·迷宫·后段·宋贺文不敢上前",
+  "MapId": 159,
+  "Script": {
+    "EnterTag": "Scene_00191_Enter",
+    "TeleportTag": "Scene_00191_Teleport"
+  }
+}

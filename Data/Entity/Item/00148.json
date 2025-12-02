@@ -1,0 +1,24 @@
+{
+  "Name": "布袍",
+  "Description": [
+    "粗布缝制的交领长袖白袍。",
+    "防御+3"
+  ],
+  "BitmapId": 78,
+  "Price": 100,
+  "Script": {
+    "UseTag": "",
+    "EquipTag": "Item_00148_Equip",
+    "ThrowTag": "",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": false,
+    "Throwable": false,
+    "Consuming": true,
+    "ApplyToAll": false,
+    "Sellable": true,
+    "WhoCanEquip": "1235"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "Name": "魔众",
+  "VanishTime": 0,
+  "X": 1632,
+  "Y": 912,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": true,
+    "Range": 1
+  },
+  "Sprite": {
+    "SpriteId": 492,
+    "SpriteFrames": 3,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00219_00007_Trigger",
+    "AutoTag": "Event_00041_00003_Auto"
+  }
+}

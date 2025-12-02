@@ -1,0 +1,22 @@
+{
+  "Name": "原地少妇1",
+  "VanishTime": 0,
+  "X": 1104,
+  "Y": 1000,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 327,
+    "SpriteFrames": 1,
+    "Direction": 3,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00134_00002_Trigger",
+    "AutoTag": ""
+  }
+}

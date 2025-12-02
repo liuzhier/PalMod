@@ -1,0 +1,8 @@
+{
+  "Name": "苏州·林家堡·演武厅·比武招亲",
+  "MapId": 31,
+  "Script": {
+    "EnterTag": "Scene_00033_Enter",
+    "TeleportTag": ""
+  }
+}

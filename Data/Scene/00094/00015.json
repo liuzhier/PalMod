@@ -1,0 +1,22 @@
+{
+  "Name": "迷昏流氓",
+  "VanishTime": 0,
+  "X": 640,
+  "Y": 560,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 0,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 378,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "",
+    "AutoTag": "Event_00094_00015_Auto"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "Name": "毒死珠宝商",
+  "VanishTime": 0,
+  "X": 928,
+  "Y": 1552,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 1
+  },
+  "Sprite": {
+    "SpriteId": 387,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00102_00003_Trigger",
+    "AutoTag": ""
+  }
+}

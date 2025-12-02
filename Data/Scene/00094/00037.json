@@ -1,0 +1,22 @@
+{
+  "Name": "女飞贼",
+  "VanishTime": 0,
+  "X": 768,
+  "Y": 528,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 0,
+    "IsAutoTrigger": true,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 350,
+    "SpriteFrames": 3,
+    "Direction": 1,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00094_00037_Trigger",
+    "AutoTag": ""
+  }
+}

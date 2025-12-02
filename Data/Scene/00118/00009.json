@@ -1,0 +1,22 @@
+{
+  "Name": "巨蜘蛛网",
+  "VanishTime": 0,
+  "X": 528,
+  "Y": 1688,
+  "Layer": -2,
+  "Trigger": {
+    "StateCode": 0,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 458,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 1
+  },
+  "Script": {
+    "TriggerTag": "",
+    "AutoTag": ""
+  }
+}

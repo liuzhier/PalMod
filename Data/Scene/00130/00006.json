@@ -1,0 +1,22 @@
+{
+  "Name": "贵妃香浴3",
+  "VanishTime": 0,
+  "X": 800,
+  "Y": 512,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 1,
+    "IsAutoTrigger": false,
+    "Range": 3
+  },
+  "Sprite": {
+    "SpriteId": 332,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00130_00006_Trigger",
+    "AutoTag": ""
+  }
+}

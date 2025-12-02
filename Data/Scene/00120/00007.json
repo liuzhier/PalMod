@@ -1,0 +1,22 @@
+{
+  "Name": "尚书夫人",
+  "VanishTime": 0,
+  "X": 432,
+  "Y": 632,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 0,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 81,
+    "SpriteFrames": 3,
+    "Direction": 2,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00120_00007_Trigger",
+    "AutoTag": ""
+  }
+}

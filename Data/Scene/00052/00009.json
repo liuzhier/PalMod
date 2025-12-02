@@ -1,0 +1,22 @@
+{
+  "Name": "半身伏案居民1",
+  "VanishTime": 0,
+  "X": 1424,
+  "Y": 328,
+  "Layer": 3,
+  "Trigger": {
+    "StateCode": 1,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 276,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00052_00009_Trigger",
+    "AutoTag": ""
+  }
+}

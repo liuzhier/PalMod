@@ -1,0 +1,22 @@
+{
+  "Name": "姬三娘",
+  "VanishTime": 0,
+  "X": 288,
+  "Y": 1408,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 0,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 349,
+    "SpriteFrames": 3,
+    "Direction": 3,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00092_00017_Trigger",
+    "AutoTag": "Event_00006_00014_Auto"
+  }
+}

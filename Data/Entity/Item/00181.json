@@ -1,0 +1,25 @@
+{
+  "Name": "鹿皮靴",
+  "Description": [
+    "鞋面以鹿皮毛缝制，质地轻柔，",
+    "行动可如鹿般迅捷。",
+    "防御+11　身法+9"
+  ],
+  "BitmapId": 105,
+  "Price": 3900,
+  "Script": {
+    "UseTag": "",
+    "EquipTag": "Item_00181_Equip",
+    "ThrowTag": "",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": false,
+    "Throwable": false,
+    "Consuming": true,
+    "ApplyToAll": false,
+    "Sellable": true,
+    "WhoCanEquip": "123"
+  }
+}

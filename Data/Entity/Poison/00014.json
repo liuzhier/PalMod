@@ -1,0 +1,9 @@
+{
+  "Name": "MP回补",
+  "Level": 99,
+  "Color": 0,
+  "Script": {
+    "PlayerTag": "Poison_00014_Player",
+    "EnemyTag": ""
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "Name": "黑水镇·各分立屋宇",
+  "MapId": 56,
+  "Script": {
+    "EnterTag": "Scene_00063_Enter",
+    "TeleportTag": ""
+  }
+}

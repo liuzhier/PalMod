@@ -1,0 +1,24 @@
+{
+  "Name": "火蚕蛊",
+  "Description": [
+    "以麒麟炎洞内所产火蚕所培养",
+    "的蛊虫，可做为攻击道具。"
+  ],
+  "BitmapId": 124,
+  "Price": 0,
+  "Script": {
+    "UseTag": "",
+    "EquipTag": "",
+    "ThrowTag": "Item_00083_Throw",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": false,
+    "Throwable": true,
+    "Consuming": true,
+    "ApplyToAll": false,
+    "Sellable": false,
+    "WhoCanEquip": ""
+  }
+}

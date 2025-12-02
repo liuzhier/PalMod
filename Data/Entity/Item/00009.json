@@ -1,0 +1,23 @@
+{
+  "Name": "水灵符",
+  "Description": [
+    "产生冰系法术的符咒。"
+  ],
+  "BitmapId": 194,
+  "Price": 1400,
+  "Script": {
+    "UseTag": "",
+    "EquipTag": "",
+    "ThrowTag": "Item_00009_Throw",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": false,
+    "Throwable": true,
+    "Consuming": true,
+    "ApplyToAll": true,
+    "Sellable": true,
+    "WhoCanEquip": ""
+  }
+}

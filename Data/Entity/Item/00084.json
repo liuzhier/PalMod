@@ -1,0 +1,24 @@
+{
+  "Name": "食妖虫",
+  "Description": [
+    "寄生宿主吸取灵气，九回合后，",
+    "可炼成灵蛊。"
+  ],
+  "BitmapId": 129,
+  "Price": 800,
+  "Script": {
+    "UseTag": "",
+    "EquipTag": "",
+    "ThrowTag": "Item_00084_Throw",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": false,
+    "Throwable": true,
+    "Consuming": true,
+    "ApplyToAll": false,
+    "Sellable": false,
+    "WhoCanEquip": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "Name": "蜘蛛",
+  "VanishTime": 0,
+  "X": 624,
+  "Y": 1000,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 1,
+    "IsAutoTrigger": true,
+    "Range": 1
+  },
+  "Sprite": {
+    "SpriteId": 488,
+    "SpriteFrames": 2,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00221_00030_Trigger",
+    "AutoTag": "Event_00005_00002_Auto"
+  }
+}

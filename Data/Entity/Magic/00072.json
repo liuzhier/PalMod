@@ -1,0 +1,32 @@
+{
+  "Name": "毒吞天下",
+  "Description": [],
+  "CostMP": 48,
+  "BaseDamage": 205,
+  "SoundId": 313,
+  "Type": 6,
+  "ActionType": 1,
+  "Effect": {
+    "EffectId": 91,
+    "XOffset": -4,
+    "YOffset": -20,
+    "LayerOffset": 99,
+    "Speed": 1,
+    "KeepEffect": 0,
+    "SoundDelay": 0,
+    "EffectTimes": 0,
+    "Shake": 0,
+    "Wave": 0
+  },
+  "Script": {
+    "SuccessTag": "Magic_00072_Success",
+    "UseTag": "Magic_00072_Use",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "UsableOutsideBattle": false,
+    "UsableInBattle": true,
+    "UsableToEnemy": true,
+    "NeedSelectTarget": false
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "Name": "鼠儿果",
+  "Description": [
+    "产于山间野地，多为鼠类所食，",
+    "经人发现移种平地。",
+    "MP+36"
+  ],
+  "BitmapId": 142,
+  "Price": 80,
+  "Script": {
+    "UseTag": "Item_00044_Use",
+    "EquipTag": "",
+    "ThrowTag": "",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": true,
+    "Throwable": false,
+    "Consuming": true,
+    "ApplyToAll": false,
+    "Sellable": true,
+    "WhoCanEquip": ""
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "Name": "出白河村·山路·北通黑水镇·西达玉佛寺",
+  "MapId": 59,
+  "Script": {
+    "EnterTag": "Scene_00055_Enter",
+    "TeleportTag": "Scene_00055_Teleport"
+  }
+}

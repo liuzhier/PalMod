@@ -1,0 +1,22 @@
+{
+  "Name": "捕快",
+  "VanishTime": 0,
+  "X": 1296,
+  "Y": 648,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 97,
+    "SpriteFrames": 3,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "",
+    "AutoTag": "Event_00023_00016_Auto"
+  }
+}

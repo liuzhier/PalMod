@@ -1,0 +1,22 @@
+{
+  "Name": "小雷公",
+  "VanishTime": 0,
+  "X": 1040,
+  "Y": 1048,
+  "Layer": 10,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": true,
+    "Range": 1
+  },
+  "Sprite": {
+    "SpriteId": 624,
+    "SpriteFrames": 2,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00162_00004_Trigger",
+    "AutoTag": "Event_00007_00003_Auto"
+  }
+}

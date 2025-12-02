@@ -1,0 +1,8 @@
+{
+  "Name": "余杭·十里坡",
+  "MapId": 4,
+  "Script": {
+    "EnterTag": "Scene_00007_Enter",
+    "TeleportTag": "Scene_00007_Teleport"
+  }
+}

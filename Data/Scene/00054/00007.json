@@ -1,0 +1,22 @@
+{
+  "Name": "青年侠士",
+  "VanishTime": 0,
+  "X": 1424,
+  "Y": 600,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 0,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 15,
+    "SpriteFrames": 3,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00054_00007_Trigger",
+    "AutoTag": "Event_00006_00014_Auto"
+  }
+}

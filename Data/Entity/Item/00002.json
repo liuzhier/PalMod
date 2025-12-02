@@ -1,0 +1,24 @@
+{
+  "Name": "圣灵符",
+  "Description": [
+    "具有女娲神强大灵力的符咒。",
+    "全体HP+300"
+  ],
+  "BitmapId": 221,
+  "Price": 2000,
+  "Script": {
+    "UseTag": "Item_00002_Use",
+    "EquipTag": "",
+    "ThrowTag": "",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": true,
+    "Throwable": false,
+    "Consuming": true,
+    "ApplyToAll": true,
+    "Sellable": true,
+    "WhoCanEquip": ""
+  }
+}

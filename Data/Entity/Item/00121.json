@@ -1,0 +1,25 @@
+{
+  "Name": "双龙剑",
+  "Description": [
+    "与一般剑长度相同的双手剑，",
+    "可发出两次攻击。",
+    "武术+62　防制+9　身法+9"
+  ],
+  "BitmapId": 61,
+  "Price": 7200,
+  "Script": {
+    "UseTag": "",
+    "EquipTag": "Item_00121_Equip",
+    "ThrowTag": "Item_00121_Throw",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": false,
+    "Throwable": true,
+    "Consuming": true,
+    "ApplyToAll": false,
+    "Sellable": true,
+    "WhoCanEquip": "2"
+  }
+}

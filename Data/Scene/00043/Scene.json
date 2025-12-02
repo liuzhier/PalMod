@@ -1,0 +1,8 @@
+{
+  "Name": "隐龙窟外·螳螂山·山道",
+  "MapId": 39,
+  "Script": {
+    "EnterTag": "Scene_00043_Enter",
+    "TeleportTag": ""
+  }
+}

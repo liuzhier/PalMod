@@ -1,0 +1,22 @@
+{
+  "Name": "滴水",
+  "VanishTime": 0,
+  "X": 416,
+  "Y": 1552,
+  "Layer": 1,
+  "Trigger": {
+    "StateCode": 1,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 260,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "",
+    "AutoTag": "Event_00023_00011_Auto"
+  }
+}

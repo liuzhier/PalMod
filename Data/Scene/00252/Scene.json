@@ -1,0 +1,8 @@
+{
+  "Name": "回魂仙梦·荒岛·逍遥跪地水魔兽封印",
+  "MapId": 177,
+  "Script": {
+    "EnterTag": "Scene_00252_Enter",
+    "TeleportTag": ""
+  }
+}

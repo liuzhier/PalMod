@@ -1,0 +1,22 @@
+{
+  "Name": "原地航船",
+  "VanishTime": 0,
+  "X": 1216,
+  "Y": 1472,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 1,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 231,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "",
+    "AutoTag": "Event_00022_00012_Auto"
+  }
+}

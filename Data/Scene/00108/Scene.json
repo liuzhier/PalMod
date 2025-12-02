@@ -1,0 +1,8 @@
+{
+  "Name": "长安城外·田园摸牛",
+  "MapId": 102,
+  "Script": {
+    "EnterTag": "Scene_00108_Enter",
+    "TeleportTag": ""
+  }
+}

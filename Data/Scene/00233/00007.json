@@ -1,0 +1,22 @@
+{
+  "Name": "前面白苗女兵",
+  "VanishTime": 0,
+  "X": 1120,
+  "Y": 784,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 594,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 2
+  },
+  "Script": {
+    "TriggerTag": "Event_00233_00003_Trigger",
+    "AutoTag": ""
+  }
+}

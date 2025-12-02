@@ -1,0 +1,23 @@
+{
+  "Name": "蜂巢",
+  "Description": [
+    "蜜蜂的窝，可以拿来丢敌人。"
+  ],
+  "BitmapId": 211,
+  "Price": 0,
+  "Script": {
+    "UseTag": "",
+    "EquipTag": "",
+    "ThrowTag": "Item_00055_Throw",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": false,
+    "Throwable": true,
+    "Consuming": true,
+    "ApplyToAll": true,
+    "Sellable": false,
+    "WhoCanEquip": ""
+  }
+}

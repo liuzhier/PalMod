@@ -1,0 +1,22 @@
+{
+  "Name": "赤鬼王浮现",
+  "VanishTime": 0,
+  "X": 752,
+  "Y": 104,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 0,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 254,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "",
+    "AutoTag": "Event_00060_00067_Auto"
+  }
+}

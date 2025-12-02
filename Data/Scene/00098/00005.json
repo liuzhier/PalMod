@@ -1,0 +1,22 @@
+{
+  "Name": "商人布包",
+  "VanishTime": 0,
+  "X": 1360,
+  "Y": 376,
+  "Layer": 3,
+  "Trigger": {
+    "StateCode": 1,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 380,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "",
+    "AutoTag": ""
+  }
+}

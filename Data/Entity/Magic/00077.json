@@ -1,0 +1,32 @@
+{
+  "Name": "火龙掌",
+  "Description": [],
+  "CostMP": 0,
+  "BaseDamage": 205,
+  "SoundId": 175,
+  "Type": 4,
+  "ActionType": 0,
+  "Effect": {
+    "EffectId": 85,
+    "XOffset": -10,
+    "YOffset": 24,
+    "LayerOffset": -25,
+    "Speed": 4,
+    "KeepEffect": -1,
+    "SoundDelay": 0,
+    "EffectTimes": 0,
+    "Shake": 0,
+    "Wave": 0
+  },
+  "Script": {
+    "SuccessTag": "",
+    "UseTag": "Magic_00045_Use",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "UsableOutsideBattle": false,
+    "UsableInBattle": true,
+    "UsableToEnemy": true,
+    "NeedSelectTarget": true
+  }
+}

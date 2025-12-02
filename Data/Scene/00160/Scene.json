@@ -1,0 +1,8 @@
+{
+  "Name": "蜀山仙剑派正殿内·拜见剑圣",
+  "MapId": 135,
+  "Script": {
+    "EnterTag": "Scene_00160_Enter",
+    "TeleportTag": ""
+  }
+}

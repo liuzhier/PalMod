@@ -1,0 +1,22 @@
+{
+  "Name": "白苗店员",
+  "VanishTime": 0,
+  "X": 512,
+  "Y": 1408,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 1,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 199,
+    "SpriteFrames": 3,
+    "Direction": 3,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "",
+    "AutoTag": "Event_00245_00004_Auto"
+  }
+}

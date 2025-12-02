@@ -1,0 +1,22 @@
+{
+  "Name": "原地府兵",
+  "VanishTime": 0,
+  "X": 288,
+  "Y": 384,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 0,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 134,
+    "SpriteFrames": 1,
+    "Direction": 3,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00101_00036_Trigger",
+    "AutoTag": "Event_00006_00014_Auto"
+  }
+}

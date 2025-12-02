@@ -1,0 +1,22 @@
+{
+  "Name": "儿童a",
+  "VanishTime": 0,
+  "X": 992,
+  "Y": 896,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 159,
+    "SpriteFrames": 3,
+    "Direction": 2,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00024_00005_Trigger",
+    "AutoTag": "Event_00024_00005_Auto"
+  }
+}

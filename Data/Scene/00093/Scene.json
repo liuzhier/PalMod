@@ -1,0 +1,8 @@
+{
+  "Name": "扬州·井底密道及飞贼密室",
+  "MapId": 85,
+  "Script": {
+    "EnterTag": "Scene_00093_Enter",
+    "TeleportTag": ""
+  }
+}

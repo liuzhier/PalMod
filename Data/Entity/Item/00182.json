@@ -1,0 +1,25 @@
+{
+  "Name": "疾风靴",
+  "Description": [
+    "以薄如云雾的蝉纱织成，",
+    "助穿者疾行如风。",
+    "防御+14　身法+17"
+  ],
+  "BitmapId": 100,
+  "Price": 5700,
+  "Script": {
+    "UseTag": "",
+    "EquipTag": "Item_00182_Equip",
+    "ThrowTag": "",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": false,
+    "Throwable": false,
+    "Consuming": true,
+    "ApplyToAll": false,
+    "Sellable": true,
+    "WhoCanEquip": "123"
+  }
+}

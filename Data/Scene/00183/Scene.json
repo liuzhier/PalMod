@@ -1,0 +1,8 @@
+{
+  "Name": "桃源村·屋舍化林",
+  "MapId": 17,
+  "Script": {
+    "EnterTag": "",
+    "TeleportTag": "Scene_00181_Teleport"
+  }
+}

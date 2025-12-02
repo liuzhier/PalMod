@@ -1,0 +1,8 @@
+{
+  "Name": "锁妖塔·底层·剑柱室外",
+  "MapId": 148,
+  "Script": {
+    "EnterTag": "Scene_00169_Enter",
+    "TeleportTag": ""
+  }
+}

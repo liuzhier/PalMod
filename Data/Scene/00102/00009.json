@@ -1,0 +1,22 @@
+{
+  "Name": "蛤蟆",
+  "VanishTime": 0,
+  "X": 1472,
+  "Y": 1360,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": true,
+    "Range": 1
+  },
+  "Sprite": {
+    "SpriteId": 591,
+    "SpriteFrames": 4,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00060_00076_Trigger",
+    "AutoTag": ""
+  }
+}

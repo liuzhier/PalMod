@@ -1,0 +1,22 @@
+{
+  "Name": "两面半身伏案商贾1",
+  "VanishTime": 0,
+  "X": 1648,
+  "Y": 1608,
+  "Layer": 3,
+  "Trigger": {
+    "StateCode": 1,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 292,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00113_00007_Trigger",
+    "AutoTag": ""
+  }
+}

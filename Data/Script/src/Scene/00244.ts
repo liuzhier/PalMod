@@ -1,0 +1,26 @@
+['Scene_00244_Enter'];
+PlaySound(255);
+PartySetPos(44, 108, 0);
+WaitEventAutoScriptRun(12, false, false);
+SceneSetMap(-1, 165);
+FadeToScene(2, 2);
+WaitEventAutoScriptRun(25, false, false);
+PlaySound(256);
+EventSetState(243, 1, 0);
+EventSetState(243, 12, 1);
+EventSetState(243, 2, 0);
+EventSetState(243, 13, 1);
+WaitEventAutoScriptRun(5, false, false);
+EventSetState(243, 3, 0);
+EventSetState(243, 14, 1);
+EventSetState(243, 4, 0);
+EventSetState(243, 15, 1);
+WaitEventAutoScriptRun(6, false, false);
+EventSetState(243, 5, 0);
+EventSetState(243, 16, 1);
+PlaySound(256);
+WaitEventAutoScriptRun(30, false, false);
+PlaySound(256);
+FadeOut(0);
+SceneEnter(245);
+

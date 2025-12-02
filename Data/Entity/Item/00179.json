@@ -1,0 +1,24 @@
+{
+  "Name": "铁履",
+  "Description": [
+    "鞋底夹缝铁片，较普通布靴重。",
+    "防御+6"
+  ],
+  "BitmapId": 96,
+  "Price": 1100,
+  "Script": {
+    "UseTag": "",
+    "EquipTag": "Item_00179_Equip",
+    "ThrowTag": "",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": false,
+    "Throwable": false,
+    "Consuming": true,
+    "ApplyToAll": false,
+    "Sellable": true,
+    "WhoCanEquip": "123"
+  }
+}

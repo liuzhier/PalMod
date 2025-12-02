@@ -1,0 +1,22 @@
+{
+  "Name": "苇漂",
+  "VanishTime": 0,
+  "X": 1200,
+  "Y": 1384,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 1,
+    "IsAutoTrigger": true,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 84,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 5
+  },
+  "Script": {
+    "TriggerTag": "Event_00214_00028_Trigger",
+    "AutoTag": "Event_00005_00002_Auto"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Name": "紫金葫芦",
+  "Description": [
+    "收妖炼丹；需与灵葫咒配合。"
+  ],
+  "BitmapId": 21,
+  "Price": 0,
+  "Script": {
+    "UseTag": "Item_00210_Use",
+    "EquipTag": "",
+    "ThrowTag": "",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": true,
+    "Throwable": false,
+    "Consuming": false,
+    "ApplyToAll": true,
+    "Sellable": false,
+    "WhoCanEquip": ""
+  }
+}

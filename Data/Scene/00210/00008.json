@@ -1,0 +1,22 @@
+{
+  "Name": "药铺商人",
+  "VanishTime": 0,
+  "X": 1584,
+  "Y": 824,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 3
+  },
+  "Sprite": {
+    "SpriteId": 354,
+    "SpriteFrames": 3,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00210_00008_Trigger",
+    "AutoTag": ""
+  }
+}

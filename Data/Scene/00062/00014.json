@@ -1,0 +1,22 @@
+{
+  "Name": "僵尸",
+  "VanishTime": 0,
+  "X": 80,
+  "Y": 472,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": true,
+    "Range": 1
+  },
+  "Sprite": {
+    "SpriteId": 59,
+    "SpriteFrames": 3,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00055_00008_Trigger",
+    "AutoTag": "Event_00060_00069_Auto"
+  }
+}

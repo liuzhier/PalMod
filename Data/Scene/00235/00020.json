@@ -1,0 +1,22 @@
+{
+  "Name": "原地皮毛商人",
+  "VanishTime": 0,
+  "X": 816,
+  "Y": 904,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 117,
+    "SpriteFrames": 1,
+    "Direction": 3,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00235_00020_Trigger",
+    "AutoTag": "Event_00006_00014_Auto"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "Name": "试炼窟·三层·所有伏",
+  "MapId": 224,
+  "Script": {
+    "EnterTag": "",
+    "TeleportTag": "Scene_00214_Teleport"
+  }
+}

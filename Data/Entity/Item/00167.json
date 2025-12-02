@@ -1,0 +1,24 @@
+{
+  "Name": "武士披风",
+  "Description": [
+    "将帅所穿有护肩软甲的战帔。",
+    "防御+12"
+  ],
+  "BitmapId": 91,
+  "Price": 900,
+  "Script": {
+    "UseTag": "",
+    "EquipTag": "Item_00167_Equip",
+    "ThrowTag": "",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": false,
+    "Throwable": false,
+    "Consuming": true,
+    "ApplyToAll": false,
+    "Sellable": true,
+    "WhoCanEquip": "13"
+  }
+}

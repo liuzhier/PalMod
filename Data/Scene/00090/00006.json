@@ -1,0 +1,22 @@
+{
+  "Name": "少妇1",
+  "VanishTime": 0,
+  "X": 960,
+  "Y": 1088,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 0,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 326,
+    "SpriteFrames": 3,
+    "Direction": 3,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00090_00006_Trigger",
+    "AutoTag": "Event_00006_00014_Auto"
+  }
+}

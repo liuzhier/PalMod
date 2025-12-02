@@ -1,0 +1,22 @@
+{
+  "Name": "拭泪灵儿",
+  "VanishTime": 0,
+  "X": 1024,
+  "Y": 624,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 1,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 244,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00037_00002_Trigger",
+    "AutoTag": ""
+  }
+}

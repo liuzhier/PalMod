@@ -1,0 +1,8 @@
+{
+  "Name": "鬼阴山·鬼阴坛·梦慈得救公主遭抢",
+  "MapId": 24,
+  "Script": {
+    "EnterTag": "Scene_00078_Enter",
+    "TeleportTag": ""
+  }
+}

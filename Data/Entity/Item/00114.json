@@ -1,0 +1,25 @@
+{
+  "Name": "戒刀",
+  "Description": [
+    "佛门中人练武所用之刀，",
+    "严禁伤生染血。",
+    "武术+55　防御+5　灵力+10"
+  ],
+  "BitmapId": 60,
+  "Price": 2500,
+  "Script": {
+    "UseTag": "",
+    "EquipTag": "Item_00114_Equip",
+    "ThrowTag": "Item_00114_Throw",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": false,
+    "Throwable": true,
+    "Consuming": true,
+    "ApplyToAll": false,
+    "Sellable": true,
+    "WhoCanEquip": "1"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "Name": "傀儡虫",
+  "Description": [
+    "湘西云贵巫师用以控制尸体，",
+    "可使死者继续攻击九回合。"
+  ],
+  "BitmapId": 123,
+  "Price": 0,
+  "Script": {
+    "UseTag": "Item_00092_Use",
+    "EquipTag": "",
+    "ThrowTag": "",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": true,
+    "Throwable": false,
+    "Consuming": true,
+    "ApplyToAll": false,
+    "Sellable": false,
+    "WhoCanEquip": ""
+  }
+}

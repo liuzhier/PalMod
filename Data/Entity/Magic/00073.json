@@ -1,0 +1,35 @@
+{
+  "Name": "爆炸蛊",
+  "Description": [
+    "预先将法力灌输在蛊虫体内，",
+    "投掷敌人产生强烈爆炸。"
+  ],
+  "CostMP": 49,
+  "BaseDamage": 392,
+  "SoundId": 168,
+  "Type": 4,
+  "ActionType": 0,
+  "Effect": {
+    "EffectId": 65,
+    "XOffset": 0,
+    "YOffset": -4,
+    "LayerOffset": 99,
+    "Speed": 1,
+    "KeepEffect": 0,
+    "SoundDelay": 0,
+    "EffectTimes": 0,
+    "Shake": 0,
+    "Wave": 0
+  },
+  "Script": {
+    "SuccessTag": "",
+    "UseTag": "",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "UsableOutsideBattle": false,
+    "UsableInBattle": true,
+    "UsableToEnemy": true,
+    "NeedSelectTarget": true
+  }
+}

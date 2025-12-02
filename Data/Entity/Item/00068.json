@@ -1,0 +1,24 @@
+{
+  "Name": "紫罂粟",
+  "Description": [
+    "服食者会产生幻觉，敌我不分。",
+    "疯魔四回合"
+  ],
+  "BitmapId": 170,
+  "Price": 0,
+  "Script": {
+    "UseTag": "Item_00068_Use",
+    "EquipTag": "",
+    "ThrowTag": "Item_00068_Throw",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": true,
+    "Throwable": true,
+    "Consuming": true,
+    "ApplyToAll": false,
+    "Sellable": false,
+    "WhoCanEquip": ""
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Name": "水底密道_2",
+  "ScreenWave": 2,
+  "ElementalEffect": {
+    "Wind": -6,
+    "Thunder": 4,
+    "Water": 2,
+    "Fire": -10,
+    "Earth": -2
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "Name": "无底深渊·迷宫1",
+  "MapId": 190,
+  "Script": {
+    "EnterTag": "Scene_00292_Enter",
+    "TeleportTag": ""
+  }
+}

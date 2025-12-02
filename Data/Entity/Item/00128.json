@@ -1,0 +1,25 @@
+{
+  "Name": "巫月神刀",
+  "Description": [
+    "苗族拜月教镇教之宝。",
+    "武术+132　灵力+55　防御+29",
+    "身法+45 　吉运+36"
+  ],
+  "BitmapId": 53,
+  "Price": 28000,
+  "Script": {
+    "UseTag": "",
+    "EquipTag": "Item_00128_Equip",
+    "ThrowTag": "Item_00128_Throw",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": false,
+    "Throwable": true,
+    "Consuming": true,
+    "ApplyToAll": false,
+    "Sellable": true,
+    "WhoCanEquip": "5"
+  }
+}

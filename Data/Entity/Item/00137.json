@@ -1,0 +1,24 @@
+{
+  "Name": "青丝巾",
+  "Description": [
+    "青色的丝织发带。",
+    "防御+2"
+  ],
+  "BitmapId": 169,
+  "Price": 100,
+  "Script": {
+    "UseTag": "",
+    "EquipTag": "Item_00137_Equip",
+    "ThrowTag": "",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": false,
+    "Throwable": false,
+    "Consuming": true,
+    "ApplyToAll": false,
+    "Sellable": true,
+    "WhoCanEquip": "235"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "Name": "商贾",
+  "VanishTime": 0,
+  "X": 800,
+  "Y": 1440,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 3
+  },
+  "Sprite": {
+    "SpriteId": 31,
+    "SpriteFrames": 3,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00011_00001_Trigger",
+    "AutoTag": "Event_00006_00014_Auto"
+  }
+}

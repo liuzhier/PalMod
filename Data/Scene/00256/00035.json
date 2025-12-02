@@ -1,0 +1,22 @@
+{
+  "Name": "南绍被捕汉女",
+  "VanishTime": 0,
+  "X": 1328,
+  "Y": 1400,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 1
+  },
+  "Sprite": {
+    "SpriteId": 555,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 1
+  },
+  "Script": {
+    "TriggerTag": "Event_00256_00026_Trigger",
+    "AutoTag": ""
+  }
+}

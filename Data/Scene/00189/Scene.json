@@ -1,0 +1,8 @@
+{
+  "Name": "神木庵外·阿奴赎魂逍遥",
+  "MapId": 153,
+  "Script": {
+    "EnterTag": "Scene_00189_Enter",
+    "TeleportTag": ""
+  }
+}

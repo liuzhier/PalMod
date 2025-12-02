@@ -1,0 +1,32 @@
+{
+  "Name": "佛法无边",
+  "Description": [],
+  "CostMP": 15,
+  "BaseDamage": 165,
+  "SoundId": 121,
+  "Type": 0,
+  "ActionType": 0,
+  "Effect": {
+    "EffectId": 83,
+    "XOffset": 0,
+    "YOffset": 0,
+    "LayerOffset": 99,
+    "Speed": 2,
+    "KeepEffect": 0,
+    "SoundDelay": 0,
+    "EffectTimes": 0,
+    "Shake": 17,
+    "Wave": 0
+  },
+  "Script": {
+    "SuccessTag": "",
+    "UseTag": "",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "UsableOutsideBattle": false,
+    "UsableInBattle": true,
+    "UsableToEnemy": true,
+    "NeedSelectTarget": true
+  }
+}

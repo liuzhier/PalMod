@@ -1,0 +1,22 @@
+{
+  "Name": "人身彩依",
+  "VanishTime": 0,
+  "X": 912,
+  "Y": 568,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 0,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 23,
+    "SpriteFrames": 3,
+    "Direction": 1,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00125_00003_Trigger",
+    "AutoTag": ""
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "Name": "藤甲",
+  "Description": [
+    "以荆藤编制的护甲。",
+    "防御+7"
+  ],
+  "BitmapId": 74,
+  "Price": 400,
+  "Script": {
+    "UseTag": "",
+    "EquipTag": "Item_00149_Equip",
+    "ThrowTag": "",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": false,
+    "Throwable": false,
+    "Consuming": true,
+    "ApplyToAll": false,
+    "Sellable": true,
+    "WhoCanEquip": "1235"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "Name": "回魂仙梦·南绍王宫·地牢·通道2",
+  "MapId": 206,
+  "Script": {
+    "EnterTag": "",
+    "TeleportTag": "Scene_00262_Teleport"
+  }
+}

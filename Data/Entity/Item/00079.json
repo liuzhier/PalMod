@@ -1,0 +1,25 @@
+{
+  "Name": "金蚕蛊",
+  "Description": [
+    "七大毒蛊，中毒后每回合损血，",
+    "至死方休。",
+    "解药∶鹤顶红  致命药引∶断肠草菝"
+  ],
+  "BitmapId": 133,
+  "Price": 0,
+  "Script": {
+    "UseTag": "Item_00079_Use",
+    "EquipTag": "",
+    "ThrowTag": "Item_00079_Throw",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": true,
+    "Throwable": true,
+    "Consuming": true,
+    "ApplyToAll": false,
+    "Sellable": false,
+    "WhoCanEquip": ""
+  }
+}

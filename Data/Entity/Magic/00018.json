@@ -1,0 +1,35 @@
+{
+  "Name": "天罡战气",
+  "Description": [
+    "七回合内，使用武器攻击，",
+    "威力加倍。"
+  ],
+  "CostMP": 13,
+  "BaseDamage": 0,
+  "SoundId": 149,
+  "Type": 7,
+  "ActionType": 4,
+  "Effect": {
+    "EffectId": 41,
+    "XOffset": -8,
+    "YOffset": 4,
+    "LayerOffset": 1,
+    "Speed": -1,
+    "KeepEffect": 0,
+    "SoundDelay": 0,
+    "EffectTimes": 0,
+    "Shake": 0,
+    "Wave": 0
+  },
+  "Script": {
+    "SuccessTag": "Magic_00018_Success",
+    "UseTag": "",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "UsableOutsideBattle": false,
+    "UsableInBattle": true,
+    "UsableToEnemy": false,
+    "NeedSelectTarget": true
+  }
+}

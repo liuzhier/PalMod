@@ -1,0 +1,22 @@
+{
+  "Name": "姥姥上坟",
+  "VanishTime": 0,
+  "X": 1488,
+  "Y": 392,
+  "Layer": 1,
+  "Trigger": {
+    "StateCode": 0,
+    "IsAutoTrigger": false,
+    "Range": 1
+  },
+  "Sprite": {
+    "SpriteId": 367,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00020_00010_Trigger",
+    "AutoTag": ""
+  }
+}

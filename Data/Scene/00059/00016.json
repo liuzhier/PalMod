@@ -1,0 +1,22 @@
+{
+  "Name": "智杖和尚",
+  "VanishTime": 0,
+  "X": 864,
+  "Y": 1104,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 0,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 356,
+    "SpriteFrames": 3,
+    "Direction": 1,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "",
+    "AutoTag": "Event_00059_00016_Auto"
+  }
+}

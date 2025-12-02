@@ -1,0 +1,9 @@
+{
+  "Name": "鹤顶红毒",
+  "Level": 3,
+  "Color": 160,
+  "Script": {
+    "PlayerTag": "Poison_00006_Player",
+    "EnemyTag": "Poison_00006_Enemy"
+  }
+}

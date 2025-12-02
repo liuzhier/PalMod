@@ -1,0 +1,8 @@
+{
+  "Name": "神木林·迷宫1·黑凤凰电梯",
+  "MapId": 151,
+  "Script": {
+    "EnterTag": "Scene_00193_Enter",
+    "TeleportTag": ""
+  }
+}

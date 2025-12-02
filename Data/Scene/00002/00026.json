@@ -1,0 +1,22 @@
+{
+  "Name": "黑苗喽罗",
+  "VanishTime": 0,
+  "X": 1360,
+  "Y": 1112,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 0,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 29,
+    "SpriteFrames": 3,
+    "Direction": 1,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00002_00026_Trigger",
+    "AutoTag": "Event_00002_00026_Auto"
+  }
+}

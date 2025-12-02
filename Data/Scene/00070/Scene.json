@@ -1,0 +1,8 @@
+{
+  "Name": "鬼阴山·绝顶匪巢·院内",
+  "MapId": 62,
+  "Script": {
+    "EnterTag": "Scene_00070_Enter",
+    "TeleportTag": ""
+  }
+}

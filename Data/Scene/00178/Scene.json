@@ -1,0 +1,8 @@
+{
+  "Name": "圣姑室外·剑圣黯离",
+  "MapId": 201,
+  "Script": {
+    "EnterTag": "Scene_00178_Enter",
+    "TeleportTag": ""
+  }
+}

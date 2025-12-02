@@ -1,0 +1,22 @@
+{
+  "Name": "原地居者",
+  "VanishTime": 0,
+  "X": 992,
+  "Y": 880,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 125,
+    "SpriteFrames": 1,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00053_00007_Trigger",
+    "AutoTag": "Event_00006_00014_Auto"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "Name": "鬼阴山·鬼阴坛·顶撞老人遭教育",
+  "MapId": 73,
+  "Script": {
+    "EnterTag": "Scene_00068_Enter",
+    "TeleportTag": "Scene_00068_Teleport"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "Name": "灵珠坛",
+  "VanishTime": 0,
+  "X": 1008,
+  "Y": 1048,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 0,
+    "IsAutoTrigger": false,
+    "Range": 1
+  },
+  "Sprite": {
+    "SpriteId": 603,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00242_00004_Trigger",
+    "AutoTag": ""
+  }
+}

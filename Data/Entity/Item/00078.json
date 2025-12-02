@@ -1,0 +1,25 @@
+{
+  "Name": "三尸蛊",
+  "Description": [
+    "七大毒蛊；中毒后，潜伏片刻",
+    "即会发作，毒性非常猛烈。",
+    "解药∶孔雀胆  致命药引∶血海棠"
+  ],
+  "BitmapId": 131,
+  "Price": 0,
+  "Script": {
+    "UseTag": "Item_00078_Use",
+    "EquipTag": "",
+    "ThrowTag": "Item_00078_Throw",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": true,
+    "Throwable": true,
+    "Consuming": true,
+    "ApplyToAll": false,
+    "Sellable": false,
+    "WhoCanEquip": ""
+  }
+}

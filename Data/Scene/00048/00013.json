@@ -1,0 +1,22 @@
+{
+  "Name": "奉盏侍女",
+  "VanishTime": 0,
+  "X": 1184,
+  "Y": 304,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 147,
+    "SpriteFrames": 3,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00048_00013_Trigger",
+    "AutoTag": ""
+  }
+}

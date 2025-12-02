@@ -1,0 +1,22 @@
+{
+  "Name": "阿奴救灵儿",
+  "VanishTime": 0,
+  "X": 1392,
+  "Y": 1128,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 0,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 629,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00279_00013_Trigger",
+    "AutoTag": ""
+  }
+}

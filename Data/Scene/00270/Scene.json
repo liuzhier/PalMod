@@ -1,0 +1,8 @@
+{
+  "Name": "回魂仙梦·余杭·十里坡",
+  "MapId": 4,
+  "Script": {
+    "EnterTag": "",
+    "TeleportTag": "Event_00268_00002_Trigger"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "Name": "右向舞苗女",
+  "VanishTime": 0,
+  "X": 848,
+  "Y": 1384,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 1,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 606,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "",
+    "AutoTag": "Event_00232_00001_Auto"
+  }
+}

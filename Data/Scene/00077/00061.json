@@ -1,0 +1,22 @@
+{
+  "Name": "越女剑",
+  "VanishTime": 0,
+  "X": 1152,
+  "Y": 1104,
+  "Layer": 3,
+  "Trigger": {
+    "StateCode": 1,
+    "IsAutoTrigger": false,
+    "Range": 3
+  },
+  "Sprite": {
+    "SpriteId": 230,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00077_00061_Trigger",
+    "AutoTag": ""
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "Name": "大理·女娲神殿·外·正常",
+  "MapId": 173,
+  "Script": {
+    "EnterTag": "Scene_00212_Enter",
+    "TeleportTag": ""
+  }
+}

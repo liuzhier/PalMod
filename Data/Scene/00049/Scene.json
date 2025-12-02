@@ -1,0 +1,8 @@
+{
+  "Name": "出隐龙窟·山路·释放众少女",
+  "MapId": 45,
+  "Script": {
+    "EnterTag": "Scene_00049_Enter",
+    "TeleportTag": "Scene_00049_Teleport"
+  }
+}

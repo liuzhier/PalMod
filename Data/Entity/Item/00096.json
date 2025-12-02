@@ -1,0 +1,25 @@
+{
+  "Name": "雷火珠",
+  "Description": [
+    "填充火药的铁珠，投掷撞击",
+    "后会爆裂伤人。",
+    "敌人HP-135"
+  ],
+  "BitmapId": 118,
+  "Price": 1500,
+  "Script": {
+    "UseTag": "",
+    "EquipTag": "",
+    "ThrowTag": "Item_00096_Throw",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": false,
+    "Throwable": true,
+    "Consuming": true,
+    "ApplyToAll": false,
+    "Sellable": true,
+    "WhoCanEquip": ""
+  }
+}

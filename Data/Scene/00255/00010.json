@@ -1,0 +1,22 @@
+{
+  "Name": "苗区汉民儿童",
+  "VanishTime": 0,
+  "X": 880,
+  "Y": 1464,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 218,
+    "SpriteFrames": 3,
+    "Direction": 3,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00255_00010_Trigger",
+    "AutoTag": ""
+  }
+}

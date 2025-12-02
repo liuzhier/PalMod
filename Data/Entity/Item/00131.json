@@ -1,0 +1,25 @@
+{
+  "Name": "无尘剑",
+  "Description": [
+    "上古神剑，指天天崩、划地地裂。",
+    "武术+200　防御+20　身法+77",
+    "吉运+33"
+  ],
+  "BitmapId": 186,
+  "Price": 32000,
+  "Script": {
+    "UseTag": "",
+    "EquipTag": "Item_00131_Equip",
+    "ThrowTag": "Item_00131_Throw",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": false,
+    "Throwable": true,
+    "Consuming": true,
+    "ApplyToAll": false,
+    "Sellable": true,
+    "WhoCanEquip": "1"
+  }
+}

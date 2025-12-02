@@ -1,0 +1,22 @@
+{
+  "Name": "药草1",
+  "VanishTime": 0,
+  "X": 1344,
+  "Y": 1088,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 1,
+    "IsAutoTrigger": false,
+    "Range": 1
+  },
+  "Sprite": {
+    "SpriteId": 69,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00102_00030_Trigger",
+    "AutoTag": ""
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "Name": "观音符",
+  "Description": [
+    "以观音圣水书写的灵符。",
+    "HP+150"
+  ],
+  "BitmapId": 197,
+  "Price": 150,
+  "Script": {
+    "UseTag": "Item_00001_Use",
+    "EquipTag": "",
+    "ThrowTag": "",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": true,
+    "Throwable": false,
+    "Consuming": true,
+    "ApplyToAll": false,
+    "Sellable": true,
+    "WhoCanEquip": ""
+  }
+}

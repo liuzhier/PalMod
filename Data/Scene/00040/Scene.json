@@ -1,0 +1,8 @@
+{
+  "Name": "苏州·林家堡·西厢房外·螳螂山·山道",
+  "MapId": 35,
+  "Script": {
+    "EnterTag": "Scene_00040_Enter",
+    "TeleportTag": ""
+  }
+}

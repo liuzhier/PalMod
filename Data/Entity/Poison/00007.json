@@ -1,0 +1,9 @@
+{
+  "Name": "孔雀胆毒",
+  "Level": 3,
+  "Color": 80,
+  "Script": {
+    "PlayerTag": "Poison_00007_Player",
+    "EnemyTag": "Poison_00007_Enemy"
+  }
+}

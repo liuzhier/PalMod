@@ -1,0 +1,22 @@
+{
+  "Name": "坐蛇妖女",
+  "VanishTime": 0,
+  "X": 1440,
+  "Y": 304,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": true,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 252,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00048_00004_Trigger",
+    "AutoTag": ""
+  }
+}

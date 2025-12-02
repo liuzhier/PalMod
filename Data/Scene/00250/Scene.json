@@ -1,0 +1,8 @@
+{
+  "Name": "回魂仙梦·南绍王宫·地下室",
+  "MapId": 203,
+  "Script": {
+    "EnterTag": "Scene_00250_Enter",
+    "TeleportTag": "Scene_00250_Teleport"
+  }
+}

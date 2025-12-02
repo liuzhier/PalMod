@@ -1,0 +1,22 @@
+{
+  "Name": "黑猫",
+  "VanishTime": 0,
+  "X": 752,
+  "Y": 632,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": true,
+    "Range": 1
+  },
+  "Sprite": {
+    "SpriteId": 369,
+    "SpriteFrames": 4,
+    "Direction": 0,
+    "CurrentFrameNum": 16
+  },
+  "Script": {
+    "TriggerTag": "Event_00094_00035_Trigger",
+    "AutoTag": ""
+  }
+}

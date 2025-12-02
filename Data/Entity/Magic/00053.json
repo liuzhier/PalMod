@@ -1,0 +1,35 @@
+{
+  "Name": "三尸咒",
+  "Description": [
+    "下蛊攻击敌方单人，",
+    "有蛊时才能使用。"
+  ],
+  "CostMP": 22,
+  "BaseDamage": 81,
+  "SoundId": 313,
+  "Type": 6,
+  "ActionType": 0,
+  "Effect": {
+    "EffectId": 48,
+    "XOffset": -4,
+    "YOffset": -20,
+    "LayerOffset": 99,
+    "Speed": 1,
+    "KeepEffect": 0,
+    "SoundDelay": 0,
+    "EffectTimes": 0,
+    "Shake": 0,
+    "Wave": 0
+  },
+  "Script": {
+    "SuccessTag": "Magic_00053_Success",
+    "UseTag": "Magic_00053_Use",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "UsableOutsideBattle": false,
+    "UsableInBattle": true,
+    "UsableToEnemy": true,
+    "NeedSelectTarget": true
+  }
+}

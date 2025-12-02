@@ -1,0 +1,25 @@
+{
+  "Name": "雄黄酒",
+  "Description": [
+    "一点点的雄黄，撒在酒中，",
+    "习俗在端午节喝这种酒；",
+    "可解赤毒、瘴毒。"
+  ],
+  "BitmapId": 222,
+  "Price": 150,
+  "Script": {
+    "UseTag": "Item_00028_Use",
+    "EquipTag": "",
+    "ThrowTag": "",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": true,
+    "Throwable": true,
+    "Consuming": true,
+    "ApplyToAll": false,
+    "Sellable": true,
+    "WhoCanEquip": ""
+  }
+}

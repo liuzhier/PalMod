@@ -1,0 +1,8 @@
+{
+  "Name": "大理·城门外·正常",
+  "MapId": 162,
+  "Script": {
+    "EnterTag": "Scene_00203_Enter",
+    "TeleportTag": ""
+  }
+}

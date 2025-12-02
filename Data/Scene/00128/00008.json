@@ -1,0 +1,22 @@
+{
+  "Name": "原地卜者",
+  "VanishTime": 0,
+  "X": 816,
+  "Y": 552,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 123,
+    "SpriteFrames": 1,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00128_00008_Trigger",
+    "AutoTag": ""
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "Name": "仙灵岛·花树·灵池·原始",
+  "MapId": 119,
+  "Script": {
+    "EnterTag": "Scene_00017_Enter",
+    "TeleportTag": "Scene_00017_Teleport"
+  }
+}

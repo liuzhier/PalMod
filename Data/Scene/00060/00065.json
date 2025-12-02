@@ -1,0 +1,22 @@
+{
+  "Name": "骷髅头",
+  "VanishTime": 0,
+  "X": 1424,
+  "Y": 216,
+  "Layer": 5,
+  "Trigger": {
+    "StateCode": 1,
+    "IsAutoTrigger": false,
+    "Range": 1
+  },
+  "Sprite": {
+    "SpriteId": 299,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00060_00065_Trigger",
+    "AutoTag": ""
+  }
+}

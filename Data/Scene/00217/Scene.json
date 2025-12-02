@@ -1,0 +1,8 @@
+{
+  "Name": "试炼窟·1",
+  "MapId": 214,
+  "Script": {
+    "EnterTag": "Scene_00217_Enter",
+    "TeleportTag": "Scene_00214_Teleport"
+  }
+}

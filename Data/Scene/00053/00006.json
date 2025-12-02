@@ -1,0 +1,22 @@
+{
+  "Name": "原地林木匠",
+  "VanishTime": 0,
+  "X": 1008,
+  "Y": 904,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 163,
+    "SpriteFrames": 1,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00053_00006_Trigger",
+    "AutoTag": "Event_00002_00020_Auto"
+  }
+}

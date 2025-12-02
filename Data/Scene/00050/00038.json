@@ -1,0 +1,22 @@
+{
+  "Name": "原地小二",
+  "VanishTime": 0,
+  "X": 944,
+  "Y": 888,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 127,
+    "SpriteFrames": 1,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00050_00038_Trigger",
+    "AutoTag": "Event_00002_00026_Auto"
+  }
+}

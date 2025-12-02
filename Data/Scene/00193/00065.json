@@ -1,0 +1,22 @@
+{
+  "Name": "鸟",
+  "VanishTime": 0,
+  "X": 1424,
+  "Y": 1208,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": true,
+    "Range": 1
+  },
+  "Sprite": {
+    "SpriteId": 61,
+    "SpriteFrames": 2,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00186_00086_Trigger",
+    "AutoTag": "Event_00007_00007_Auto"
+  }
+}

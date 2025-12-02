@@ -1,0 +1,8 @@
+{
+  "Name": "毒仙林·蜘蛛精居所·酒剑仙一剑秒杀",
+  "MapId": 130,
+  "Script": {
+    "EnterTag": "",
+    "TeleportTag": "Scene_00139_Teleport"
+  }
+}

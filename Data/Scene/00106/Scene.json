@@ -1,0 +1,8 @@
+{
+  "Name": "出扬州·山路·蛤蟆谷前",
+  "MapId": 95,
+  "Script": {
+    "EnterTag": "Scene_00106_Enter",
+    "TeleportTag": ""
+  }
+}

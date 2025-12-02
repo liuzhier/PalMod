@@ -1,0 +1,33 @@
+{
+  "Name": "雪妖",
+  "Description": [
+    "召唤雪妖，最强的冰系法术。"
+  ],
+  "CostMP": 64,
+  "BaseDamage": 450,
+  "SoundId": 336,
+  "Type": 3,
+  "Effect": {
+    "SpiritId": 2,
+    "EffectId": 23,
+    "XOffset": 0,
+    "YOffset": 32,
+    "IdleFrames": 0,
+    "MagicFrames": 0,
+    "AttackFrames": 2,
+    "ColorShift": 5,
+    "Shake": 0,
+    "Wave": 0
+  },
+  "Script": {
+    "SuccessTag": "",
+    "UseTag": "",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "UsableOutsideBattle": false,
+    "UsableInBattle": true,
+    "UsableToEnemy": true,
+    "NeedSelectTarget": false
+  }
+}

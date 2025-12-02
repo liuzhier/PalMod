@@ -1,0 +1,34 @@
+{
+  "Name": "酒神",
+  "Description": [
+    "召唤酒神，",
+    "用全身真气爆发攻击敌人。"
+  ],
+  "CostMP": 1,
+  "BaseDamage": 3,
+  "SoundId": 301,
+  "Type": 0,
+  "Effect": {
+    "SpiritId": 5,
+    "EffectId": 61,
+    "XOffset": 0,
+    "YOffset": 18,
+    "IdleFrames": 1,
+    "MagicFrames": 1,
+    "AttackFrames": 2,
+    "ColorShift": 0,
+    "Shake": 0,
+    "Wave": 0
+  },
+  "Script": {
+    "SuccessTag": "Magic_00008_Success",
+    "UseTag": "Magic_00008_Use",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "UsableOutsideBattle": false,
+    "UsableInBattle": true,
+    "UsableToEnemy": true,
+    "NeedSelectTarget": false
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Name": "捕兽夹",
+  "Description": [
+    "猎户放置的捕鹿的道具。"
+  ],
+  "BitmapId": 234,
+  "Price": 0,
+  "Script": {
+    "UseTag": "Item_00225_Use",
+    "EquipTag": "",
+    "ThrowTag": "",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": true,
+    "Throwable": false,
+    "Consuming": true,
+    "ApplyToAll": true,
+    "Sellable": false,
+    "WhoCanEquip": ""
+  }
+}

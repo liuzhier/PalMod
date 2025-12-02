@@ -1,0 +1,22 @@
+{
+  "Name": "钓者",
+  "VanishTime": 0,
+  "X": 640,
+  "Y": 1760,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 0,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 118,
+    "SpriteFrames": 3,
+    "Direction": 1,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00176_00027_Trigger",
+    "AutoTag": "Event_00176_00027_Auto"
+  }
+}

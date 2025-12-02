@@ -1,0 +1,22 @@
+{
+  "Name": "小刑天",
+  "VanishTime": 0,
+  "X": 1120,
+  "Y": 1056,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": true,
+    "Range": 1
+  },
+  "Sprite": {
+    "SpriteId": 495,
+    "SpriteFrames": 3,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00149_00013_Trigger",
+    "AutoTag": "Event_00060_00069_Auto"
+  }
+}

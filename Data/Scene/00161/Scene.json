@@ -1,0 +1,8 @@
+{
+  "Name": "仙剑派弟子房间·寻回小石头",
+  "MapId": 136,
+  "Script": {
+    "EnterTag": "",
+    "TeleportTag": ""
+  }
+}

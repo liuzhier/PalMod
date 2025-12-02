@@ -1,0 +1,22 @@
+{
+  "Name": "白母鸡",
+  "VanishTime": 0,
+  "X": 1136,
+  "Y": 1544,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 46,
+    "SpriteFrames": 2,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "",
+    "AutoTag": "Event_00005_00016_Auto"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "Name": "苏州·林家堡·东厢房",
+  "MapId": 34,
+  "Script": {
+    "EnterTag": "Scene_00039_Enter",
+    "TeleportTag": ""
+  }
+}

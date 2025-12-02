@@ -1,0 +1,22 @@
+{
+  "Name": "鬼灯笼",
+  "VanishTime": 0,
+  "X": 800,
+  "Y": 224,
+  "Layer": 10,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": true,
+    "Range": 1
+  },
+  "Sprite": {
+    "SpriteId": 11,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00190_00010_Trigger",
+    "AutoTag": "Event_00007_00003_Auto"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "Name": "莲花靴",
+  "Description": [
+    "饰以金莲的长统绣花鞋。",
+    "防御+18　身法+5"
+  ],
+  "BitmapId": 101,
+  "Price": 6000,
+  "Script": {
+    "UseTag": "",
+    "EquipTag": "Item_00183_Equip",
+    "ThrowTag": "",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": false,
+    "Throwable": false,
+    "Consuming": true,
+    "ApplyToAll": false,
+    "Sellable": true,
+    "WhoCanEquip": "234"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "Name": "持盒侍女",
+  "VanishTime": 0,
+  "X": 960,
+  "Y": 1184,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": true,
+    "Range": 3
+  },
+  "Sprite": {
+    "SpriteId": 146,
+    "SpriteFrames": 3,
+    "Direction": 3,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00048_00014_Trigger",
+    "AutoTag": ""
+  }
+}

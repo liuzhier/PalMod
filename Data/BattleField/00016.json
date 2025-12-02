@@ -1,0 +1,11 @@
+{
+  "Name": "木秘宫_2",
+  "ScreenWave": 0,
+  "ElementalEffect": {
+    "Wind": -2,
+    "Thunder": -2,
+    "Water": 0,
+    "Fire": 2,
+    "Earth": 0
+  }
+}

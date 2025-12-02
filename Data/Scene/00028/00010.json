@@ -1,0 +1,22 @@
+{
+  "Name": "唐钰",
+  "VanishTime": 0,
+  "X": 1088,
+  "Y": 576,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 6,
+    "SpriteFrames": 3,
+    "Direction": 1,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00028_00010_Trigger",
+    "AutoTag": "Event_00028_00010_Auto"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "Name": "油灯",
+  "VanishTime": 0,
+  "X": 1264,
+  "Y": 1176,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 1,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 9,
+    "SpriteFrames": 0,
+    "Direction": 1,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "",
+    "AutoTag": "Event_00021_00027_Auto"
+  }
+}

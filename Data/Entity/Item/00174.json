@@ -1,0 +1,24 @@
+{
+  "Name": "圣灵披风",
+  "Description": [
+    "巫后的遗物，潜藏神圣的力量",
+    "防御+66　灵力+30"
+  ],
+  "BitmapId": 226,
+  "Price": 30000,
+  "Script": {
+    "UseTag": "",
+    "EquipTag": "Item_00174_Equip",
+    "ThrowTag": "",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": false,
+    "Throwable": false,
+    "Consuming": true,
+    "ApplyToAll": false,
+    "Sellable": true,
+    "WhoCanEquip": "24"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "Name": "大咒蛇",
+  "Description": [],
+  "CostMP": 0,
+  "BaseDamage": 308,
+  "SoundId": 173,
+  "Type": 6,
+  "ActionType": 1,
+  "Effect": {
+    "EffectId": 101,
+    "XOffset": -102,
+    "YOffset": -32,
+    "LayerOffset": 99,
+    "Speed": 0,
+    "KeepEffect": 0,
+    "SoundDelay": 23,
+    "EffectTimes": 0,
+    "Shake": 0,
+    "Wave": 0
+  },
+  "Script": {
+    "SuccessTag": "Magic_00093_Success",
+    "UseTag": "",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "UsableOutsideBattle": false,
+    "UsableInBattle": true,
+    "UsableToEnemy": true,
+    "NeedSelectTarget": false
+  }
+}

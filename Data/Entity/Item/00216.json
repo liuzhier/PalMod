@@ -1,0 +1,23 @@
+{
+  "Name": "火眼麒麟角",
+  "Description": [
+    "药材。"
+  ],
+  "BitmapId": 92,
+  "Price": 0,
+  "Script": {
+    "UseTag": "",
+    "EquipTag": "",
+    "ThrowTag": "",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": false,
+    "Throwable": false,
+    "Consuming": false,
+    "ApplyToAll": false,
+    "Sellable": false,
+    "WhoCanEquip": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "Name": "乘云仙兵",
+  "VanishTime": 0,
+  "X": 1088,
+  "Y": 1168,
+  "Layer": 10,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": true,
+    "Range": 1
+  },
+  "Sprite": {
+    "SpriteId": 623,
+    "SpriteFrames": 1,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00162_00007_Trigger",
+    "AutoTag": "Event_00007_00003_Auto"
+  }
+}

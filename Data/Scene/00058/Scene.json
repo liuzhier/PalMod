@@ -1,0 +1,8 @@
+{
+  "Name": "玉佛寺·寺外·庙宇消失",
+  "MapId": 125,
+  "Script": {
+    "EnterTag": "Scene_00058_Enter",
+    "TeleportTag": ""
+  }
+}

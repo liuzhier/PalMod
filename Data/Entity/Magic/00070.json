@@ -1,0 +1,32 @@
+{
+  "Name": "瘴气",
+  "Description": [],
+  "CostMP": 0,
+  "BaseDamage": 65,
+  "SoundId": 313,
+  "Type": 6,
+  "ActionType": 0,
+  "Effect": {
+    "EffectId": 62,
+    "XOffset": -4,
+    "YOffset": -20,
+    "LayerOffset": 99,
+    "Speed": 1,
+    "KeepEffect": 0,
+    "SoundDelay": 0,
+    "EffectTimes": 0,
+    "Shake": 0,
+    "Wave": 0
+  },
+  "Script": {
+    "SuccessTag": "",
+    "UseTag": "",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "UsableOutsideBattle": false,
+    "UsableInBattle": true,
+    "UsableToEnemy": true,
+    "NeedSelectTarget": true
+  }
+}

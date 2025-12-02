@@ -1,0 +1,22 @@
+{
+  "Name": "死南绍兵",
+  "VanishTime": 0,
+  "X": 544,
+  "Y": 816,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 546,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00229_00003_Trigger",
+    "AutoTag": ""
+  }
+}

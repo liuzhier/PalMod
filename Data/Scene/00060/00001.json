@@ -1,0 +1,22 @@
+{
+  "Name": "赵灵儿",
+  "VanishTime": 0,
+  "X": 1792,
+  "Y": 1792,
+  "Layer": 6,
+  "Trigger": {
+    "StateCode": 0,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 3,
+    "SpriteFrames": 3,
+    "Direction": 1,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "",
+    "AutoTag": ""
+  }
+}

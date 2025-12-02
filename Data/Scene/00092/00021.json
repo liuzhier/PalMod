@@ -1,0 +1,22 @@
+{
+  "Name": "原地肥公",
+  "VanishTime": 0,
+  "X": 1152,
+  "Y": 1520,
+  "Layer": -1,
+  "Trigger": {
+    "StateCode": 1,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 317,
+    "SpriteFrames": 1,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00092_00021_Trigger",
+    "AutoTag": ""
+  }
+}

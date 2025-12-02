@@ -1,0 +1,8 @@
+{
+  "Name": "锁妖塔·底层·剑柱·化妖池漩涡",
+  "MapId": 74,
+  "Script": {
+    "EnterTag": "Scene_00153_Enter",
+    "TeleportTag": ""
+  }
+}

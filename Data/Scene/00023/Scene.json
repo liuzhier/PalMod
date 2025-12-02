@@ -1,0 +1,8 @@
+{
+  "Name": "苏州·内·初至",
+  "MapId": 23,
+  "Script": {
+    "EnterTag": "Scene_00023_Enter",
+    "TeleportTag": ""
+  }
+}

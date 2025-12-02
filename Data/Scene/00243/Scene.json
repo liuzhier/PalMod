@@ -1,0 +1,8 @@
+{
+  "Name": "火麒麟洞·迷宫1·无敌人",
+  "MapId": 186,
+  "Script": {
+    "EnterTag": "",
+    "TeleportTag": "Scene_00236_Teleport"
+  }
+}

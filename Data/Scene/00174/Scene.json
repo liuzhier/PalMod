@@ -1,0 +1,8 @@
+{
+  "Name": "恍惚·林月如梦中送别",
+  "MapId": 20,
+  "Script": {
+    "EnterTag": "Scene_00174_Enter",
+    "TeleportTag": ""
+  }
+}

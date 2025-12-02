@@ -1,0 +1,22 @@
+{
+  "Name": "白苗女",
+  "VanishTime": 0,
+  "X": 1008,
+  "Y": 984,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 513,
+    "SpriteFrames": 1,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00235_00023_Trigger",
+    "AutoTag": "Event_00023_00016_Auto"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "Name": "斗笠水生叔",
+  "VanishTime": 0,
+  "X": 1104,
+  "Y": 888,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 41,
+    "SpriteFrames": 1,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00053_00010_Trigger",
+    "AutoTag": "Event_00023_00016_Auto"
+  }
+}

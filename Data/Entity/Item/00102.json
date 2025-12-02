@@ -1,0 +1,24 @@
+{
+  "Name": "血玲珑",
+  "Description": [
+    "红色铁球，四周装有锋利刀片。",
+    "敌方全体HP-300"
+  ],
+  "BitmapId": 202,
+  "Price": 2800,
+  "Script": {
+    "UseTag": "",
+    "EquipTag": "",
+    "ThrowTag": "Item_00102_Throw",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": false,
+    "Throwable": true,
+    "Consuming": true,
+    "ApplyToAll": true,
+    "Sellable": true,
+    "WhoCanEquip": ""
+  }
+}

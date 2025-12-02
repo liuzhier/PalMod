@@ -1,0 +1,22 @@
+{
+  "Name": "迷昏混混",
+  "VanishTime": 0,
+  "X": 624,
+  "Y": 536,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 0,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 376,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "",
+    "AutoTag": "Event_00094_00013_Auto"
+  }
+}

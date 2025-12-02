@@ -1,0 +1,22 @@
+{
+  "Name": "老牛",
+  "VanishTime": 0,
+  "X": 1232,
+  "Y": 1416,
+  "Layer": -6,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 388,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00108_00005_Trigger",
+    "AutoTag": ""
+  }
+}

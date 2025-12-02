@@ -1,0 +1,24 @@
+{
+  "Name": "天师道袍",
+  "Description": [
+    "天师道祖修行时所穿的法衣。",
+    "防御+33　灵力+28"
+  ],
+  "BitmapId": 75,
+  "Price": 8000,
+  "Script": {
+    "UseTag": "",
+    "EquipTag": "Item_00156_Equip",
+    "ThrowTag": "",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": false,
+    "Throwable": false,
+    "Consuming": true,
+    "ApplyToAll": false,
+    "Sellable": true,
+    "WhoCanEquip": "13"
+  }
+}

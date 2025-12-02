@@ -1,0 +1,8 @@
+{
+  "Name": "锁妖塔·三层·天鬼皇",
+  "MapId": 146,
+  "Script": {
+    "EnterTag": "Scene_00149_Enter",
+    "TeleportTag": ""
+  }
+}

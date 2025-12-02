@@ -1,0 +1,22 @@
+{
+  "Name": "和尚",
+  "VanishTime": 0,
+  "X": 1408,
+  "Y": 1056,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 132,
+    "SpriteFrames": 3,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00059_00010_Trigger",
+    "AutoTag": "Event_00002_00020_Auto"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "Name": "芙蓉刀",
+  "Description": [
+    "百花派独门兵器双手弯刀，",
+    "可发出两次攻击。",
+    "武术+16　身法+8"
+  ],
+  "BitmapId": 64,
+  "Price": 1300,
+  "Script": {
+    "UseTag": "",
+    "EquipTag": "Item_00116_Equip",
+    "ThrowTag": "Item_00116_Throw",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": false,
+    "Throwable": true,
+    "Consuming": true,
+    "ApplyToAll": false,
+    "Sellable": true,
+    "WhoCanEquip": "2"
+  }
+}

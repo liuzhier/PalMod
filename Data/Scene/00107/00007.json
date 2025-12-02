@@ -1,0 +1,22 @@
+{
+  "Name": "白苗女兵5",
+  "VanishTime": 0,
+  "X": 768,
+  "Y": 976,
+  "Layer": 10,
+  "Trigger": {
+    "StateCode": 0,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 422,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "",
+    "AutoTag": ""
+  }
+}

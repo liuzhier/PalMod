@@ -1,0 +1,22 @@
+{
+  "Name": "商人",
+  "VanishTime": 0,
+  "X": 1392,
+  "Y": 584,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": true,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 91,
+    "SpriteFrames": 3,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00054_00003_Trigger",
+    "AutoTag": "Event_00002_00020_Auto"
+  }
+}

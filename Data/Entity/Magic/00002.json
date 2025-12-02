@@ -1,0 +1,35 @@
+{
+  "Name": "梦蛇",
+  "Description": [
+    "女娲族的变身魔法，",
+    "能力大幅提升。"
+  ],
+  "CostMP": 99,
+  "BaseDamage": 0,
+  "SoundId": 335,
+  "Type": 7,
+  "ActionType": 8,
+  "Effect": {
+    "EffectId": 47,
+    "XOffset": 0,
+    "YOffset": 0,
+    "LayerOffset": 0,
+    "Speed": 4,
+    "KeepEffect": 0,
+    "SoundDelay": 0,
+    "EffectTimes": 0,
+    "Shake": 0,
+    "Wave": 0
+  },
+  "Script": {
+    "SuccessTag": "Magic_00002_Success",
+    "UseTag": "",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "UsableOutsideBattle": false,
+    "UsableInBattle": true,
+    "UsableToEnemy": false,
+    "NeedSelectTarget": false
+  }
+}

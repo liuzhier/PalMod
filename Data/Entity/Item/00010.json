@@ -1,0 +1,23 @@
+{
+  "Name": "火灵符",
+  "Description": [
+    "产生火系法术的符咒。"
+  ],
+  "BitmapId": 152,
+  "Price": 1600,
+  "Script": {
+    "UseTag": "",
+    "EquipTag": "",
+    "ThrowTag": "Item_00010_Throw",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": false,
+    "Throwable": true,
+    "Consuming": true,
+    "ApplyToAll": true,
+    "Sellable": true,
+    "WhoCanEquip": ""
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "Name": "试炼窟外·土路2·遭遇盖罗娇",
+  "MapId": 213,
+  "Script": {
+    "EnterTag": "Scene_00215_Enter",
+    "TeleportTag": "Event_00203_00003_Trigger"
+  }
+}

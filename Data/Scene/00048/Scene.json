@@ -1,0 +1,8 @@
+{
+  "Name": "隐龙窟·内洞",
+  "MapId": 43,
+  "Script": {
+    "EnterTag": "",
+    "TeleportTag": "Scene_00041_Teleport"
+  }
+}

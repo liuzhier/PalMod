@@ -1,0 +1,22 @@
+{
+  "Name": "左门x",
+  "VanishTime": 0,
+  "X": 1200,
+  "Y": 712,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 1
+  },
+  "Sprite": {
+    "SpriteId": 275,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00094_00027_Trigger",
+    "AutoTag": ""
+  }
+}

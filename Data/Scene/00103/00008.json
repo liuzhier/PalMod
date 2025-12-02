@@ -1,0 +1,22 @@
+{
+  "Name": "背弓箭猎户",
+  "VanishTime": 0,
+  "X": 1408,
+  "Y": 1168,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 343,
+    "SpriteFrames": 1,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00103_00008_Trigger",
+    "AutoTag": ""
+  }
+}

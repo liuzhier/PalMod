@@ -1,0 +1,8 @@
+{
+  "Name": "蜀山云海·酒剑仙遥望塔毁",
+  "MapId": 137,
+  "Script": {
+    "EnterTag": "Scene_00151_Enter",
+    "TeleportTag": ""
+  }
+}

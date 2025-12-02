@@ -1,0 +1,22 @@
+{
+  "Name": "夜壶.黄褐色酒瓶",
+  "VanishTime": 0,
+  "X": 640,
+  "Y": 1568,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 1
+  },
+  "Sprite": {
+    "SpriteId": 308,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00109_00040_Trigger",
+    "AutoTag": ""
+  }
+}

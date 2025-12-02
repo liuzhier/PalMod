@@ -1,0 +1,8 @@
+{
+  "Name": "蛤蟆谷·后段·栈道坍塌",
+  "MapId": 98,
+  "Script": {
+    "EnterTag": "Scene_00102_Enter",
+    "TeleportTag": ""
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "Name": "神木庵·迷宫",
+  "MapId": 154,
+  "Script": {
+    "EnterTag": "Scene_00185_Enter",
+    "TeleportTag": "Scene_00185_Teleport"
+  }
+}

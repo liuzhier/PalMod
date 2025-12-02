@@ -1,0 +1,8 @@
+{
+  "Name": "蛤蟆谷·前段·剑圣劝归",
+  "MapId": 97,
+  "Script": {
+    "EnterTag": "Scene_00103_Enter",
+    "TeleportTag": ""
+  }
+}

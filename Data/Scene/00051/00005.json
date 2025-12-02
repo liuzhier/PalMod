@@ -1,0 +1,22 @@
+{
+  "Name": "原地江湖痞子",
+  "VanishTime": 0,
+  "X": 752,
+  "Y": 824,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 100,
+    "SpriteFrames": 1,
+    "Direction": 3,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00051_00005_Trigger",
+    "AutoTag": "Event_00006_00014_Auto"
+  }
+}

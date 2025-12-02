@@ -1,0 +1,22 @@
+{
+  "Name": "原地葫芦",
+  "VanishTime": 0,
+  "X": 1200,
+  "Y": 1560,
+  "Layer": 10,
+  "Trigger": {
+    "StateCode": 1,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 164,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "",
+    "AutoTag": ""
+  }
+}

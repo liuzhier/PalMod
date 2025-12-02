@@ -1,0 +1,22 @@
+{
+  "Name": "旺财嫂",
+  "VanishTime": 0,
+  "X": 1072,
+  "Y": 744,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 48,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00268_00008_Trigger",
+    "AutoTag": "Event_00005_00010_Auto"
+  }
+}

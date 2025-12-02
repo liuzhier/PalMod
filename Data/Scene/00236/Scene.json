@@ -1,0 +1,8 @@
+{
+  "Name": "火麒麟洞·终·火麒麟兽·无敌人",
+  "MapId": 187,
+  "Script": {
+    "EnterTag": "",
+    "TeleportTag": "Scene_00236_Teleport"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "Name": "长安·尚书府·膳厅·膳毕",
+  "MapId": 128,
+  "Script": {
+    "EnterTag": "Scene_00122_Enter",
+    "TeleportTag": ""
+  }
+}

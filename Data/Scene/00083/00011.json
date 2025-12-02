@@ -1,0 +1,22 @@
+{
+  "Name": "书生",
+  "VanishTime": 0,
+  "X": 1504,
+  "Y": 368,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 82,
+    "SpriteFrames": 3,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00083_00011_Trigger",
+    "AutoTag": "Event_00083_00011_Auto"
+  }
+}

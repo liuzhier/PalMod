@@ -1,0 +1,22 @@
+{
+  "Name": "玉佛珠",
+  "VanishTime": 0,
+  "X": 672,
+  "Y": 1424,
+  "Layer": 4,
+  "Trigger": {
+    "StateCode": 1,
+    "IsAutoTrigger": false,
+    "Range": 3
+  },
+  "Sprite": {
+    "SpriteId": 396,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00161_00003_Trigger",
+    "AutoTag": ""
+  }
+}

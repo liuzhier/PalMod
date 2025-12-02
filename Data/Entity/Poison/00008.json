@@ -1,0 +1,9 @@
+{
+  "Name": "血海棠毒",
+  "Level": 3,
+  "Color": 96,
+  "Script": {
+    "PlayerTag": "Poison_00008_Player",
+    "EnemyTag": "Poison_00008_Enemy"
+  }
+}

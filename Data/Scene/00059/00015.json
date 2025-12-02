@@ -1,0 +1,22 @@
+{
+  "Name": "小石头",
+  "VanishTime": 0,
+  "X": 736,
+  "Y": 1008,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": true,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 220,
+    "SpriteFrames": 3,
+    "Direction": 3,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00059_00015_Trigger",
+    "AutoTag": ""
+  }
+}

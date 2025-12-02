@@ -1,0 +1,22 @@
+{
+  "Name": "胁李大婶黑苗头领",
+  "VanishTime": 0,
+  "X": 896,
+  "Y": 1296,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 0,
+    "IsAutoTrigger": false,
+    "Range": 1
+  },
+  "Sprite": {
+    "SpriteId": 214,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 2
+  },
+  "Script": {
+    "TriggerTag": "Event_00206_00019_Trigger",
+    "AutoTag": ""
+  }
+}

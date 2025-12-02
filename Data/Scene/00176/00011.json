@@ -1,0 +1,22 @@
+{
+  "Name": "女居民2",
+  "VanishTime": 0,
+  "X": 1088,
+  "Y": 1552,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": true,
+    "Range": 3
+  },
+  "Sprite": {
+    "SpriteId": 141,
+    "SpriteFrames": 3,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00176_00011_Trigger",
+    "AutoTag": ""
+  }
+}

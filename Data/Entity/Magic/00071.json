@@ -1,0 +1,35 @@
+{
+  "Name": "万蛊蚀天",
+  "Description": [
+    "放蛊攻击敌方全体，",
+    "有蛊时才能使用。"
+  ],
+  "CostMP": 34,
+  "BaseDamage": 150,
+  "SoundId": 313,
+  "Type": 6,
+  "ActionType": 1,
+  "Effect": {
+    "EffectId": 63,
+    "XOffset": -4,
+    "YOffset": -20,
+    "LayerOffset": 99,
+    "Speed": 1,
+    "KeepEffect": 0,
+    "SoundDelay": 0,
+    "EffectTimes": 0,
+    "Shake": 0,
+    "Wave": 0
+  },
+  "Script": {
+    "SuccessTag": "Magic_00071_Success",
+    "UseTag": "Magic_00071_Use",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "UsableOutsideBattle": false,
+    "UsableInBattle": true,
+    "UsableToEnemy": true,
+    "NeedSelectTarget": false
+  }
+}

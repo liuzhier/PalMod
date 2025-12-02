@@ -1,0 +1,8 @@
+{
+  "Name": "回魂仙梦·南绍王宫·地牢·石室·天蛇杖",
+  "MapId": 209,
+  "Script": {
+    "EnterTag": "",
+    "TeleportTag": "Scene_00262_Teleport"
+  }
+}

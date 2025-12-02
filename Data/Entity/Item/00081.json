@@ -1,0 +1,25 @@
+{
+  "Name": "隐蛊",
+  "Description": [
+    "形如带刺甲虫，将其身体捏破，",
+    "散发之烟雾可助我方隐匿形迹。",
+    "全体隐形三回合。"
+  ],
+  "BitmapId": 120,
+  "Price": 0,
+  "Script": {
+    "UseTag": "Item_00081_Use",
+    "EquipTag": "",
+    "ThrowTag": "",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": true,
+    "Throwable": false,
+    "Consuming": true,
+    "ApplyToAll": true,
+    "Sellable": false,
+    "WhoCanEquip": ""
+  }
+}

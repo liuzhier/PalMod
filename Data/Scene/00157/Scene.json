@@ -1,0 +1,8 @@
+{
+  "Name": "锁妖塔·二层·万道铁链滑似冰",
+  "MapId": 156,
+  "Script": {
+    "EnterTag": "Scene_00157_Enter",
+    "TeleportTag": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "Name": "姥姥",
+  "VanishTime": 0,
+  "X": 496,
+  "Y": 1528,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 1,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 18,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 12
+  },
+  "Script": {
+    "TriggerTag": "",
+    "AutoTag": ""
+  }
+}

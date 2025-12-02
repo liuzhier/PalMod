@@ -1,0 +1,8 @@
+{
+  "Name": "蛤蟆洞·前段·鬼母豪邸",
+  "MapId": 99,
+  "Script": {
+    "EnterTag": "Scene_00104_Enter",
+    "TeleportTag": "Event_00102_00002_Trigger"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "Name": "长安·尚书府·刘晋元居所·一楼大厅及满花灶间",
+  "MapId": 112,
+  "Script": {
+    "EnterTag": "Scene_00123_Enter",
+    "TeleportTag": ""
+  }
+}

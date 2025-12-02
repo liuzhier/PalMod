@@ -1,0 +1,22 @@
+{
+  "Name": "姜婉儿",
+  "VanishTime": 0,
+  "X": 1424,
+  "Y": 1160,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 0,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 25,
+    "SpriteFrames": 3,
+    "Direction": 3,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "",
+    "AutoTag": "Event_00148_00004_Auto"
+  }
+}

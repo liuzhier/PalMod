@@ -1,0 +1,25 @@
+{
+  "Name": "银针",
+  "Description": [
+    "用银针刺肉，以痛楚唤醒神智，",
+    "可解定身、昏睡、疯魔；",
+    "HP-9"
+  ],
+  "BitmapId": 19,
+  "Price": 500,
+  "Script": {
+    "UseTag": "Item_00195_Use",
+    "EquipTag": "",
+    "ThrowTag": "Item_00195_Throw",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": true,
+    "Throwable": true,
+    "Consuming": true,
+    "ApplyToAll": false,
+    "Sellable": true,
+    "WhoCanEquip": ""
+  }
+}

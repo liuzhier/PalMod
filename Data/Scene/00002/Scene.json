@@ -1,0 +1,8 @@
+{
+  "Name": "余杭·客栈各分立房间·灵儿被劫",
+  "MapId": 12,
+  "Script": {
+    "EnterTag": "Scene_00002_Enter",
+    "TeleportTag": ""
+  }
+}

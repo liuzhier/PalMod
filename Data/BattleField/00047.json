@@ -1,0 +1,11 @@
+{
+  "Name": "大理_城外涸泽",
+  "ScreenWave": 0,
+  "ElementalEffect": {
+    "Wind": 1,
+    "Thunder": 0,
+    "Water": 0,
+    "Fire": 0,
+    "Earth": 0
+  }
+}

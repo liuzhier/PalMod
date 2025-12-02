@@ -1,0 +1,25 @@
+{
+  "Name": "披风",
+  "Description": [
+    "无领对襟、无袖的披衣，",
+    "俗称「斗篷」。",
+    "防御+2"
+  ],
+  "BitmapId": 95,
+  "Price": 160,
+  "Script": {
+    "UseTag": "",
+    "EquipTag": "Item_00165_Equip",
+    "ThrowTag": "",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": false,
+    "Throwable": false,
+    "Consuming": true,
+    "ApplyToAll": false,
+    "Sellable": true,
+    "WhoCanEquip": "13"
+  }
+}

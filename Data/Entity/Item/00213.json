@@ -1,0 +1,23 @@
+{
+  "Name": "紫金丹",
+  "Description": [
+    "水月宫最珍贵的仙丹灵药。"
+  ],
+  "BitmapId": 141,
+  "Price": 0,
+  "Script": {
+    "UseTag": "Item_00213_Use",
+    "EquipTag": "",
+    "ThrowTag": "",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": true,
+    "Throwable": false,
+    "Consuming": false,
+    "ApplyToAll": true,
+    "Sellable": false,
+    "WhoCanEquip": ""
+  }
+}

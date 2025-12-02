@@ -1,0 +1,22 @@
+{
+  "Name": "原地女居民3",
+  "VanishTime": 0,
+  "X": 1088,
+  "Y": 1248,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 144,
+    "SpriteFrames": 1,
+    "Direction": 3,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00035_00008_Trigger",
+    "AutoTag": ""
+  }
+}

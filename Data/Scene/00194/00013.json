@@ -1,0 +1,22 @@
+{
+  "Name": "攻擂双锤手",
+  "VanishTime": 0,
+  "X": 1200,
+  "Y": 760,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 1,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 241,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 6
+  },
+  "Script": {
+    "TriggerTag": "",
+    "AutoTag": ""
+  }
+}

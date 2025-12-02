@@ -1,0 +1,24 @@
+{
+  "Name": "黑狗血",
+  "Description": [
+    "纯黑无半根杂毛的狗血。",
+    "咒封四回合"
+  ],
+  "BitmapId": 14,
+  "Price": 0,
+  "Script": {
+    "UseTag": "Item_00025_Use",
+    "EquipTag": "",
+    "ThrowTag": "",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": true,
+    "Throwable": true,
+    "Consuming": true,
+    "ApplyToAll": false,
+    "Sellable": false,
+    "WhoCanEquip": ""
+  }
+}

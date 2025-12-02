@@ -1,0 +1,8 @@
+{
+  "Name": "初至鬼阴山·洞外山路·山神压看门狗",
+  "MapId": 60,
+  "Script": {
+    "EnterTag": "Scene_00056_Enter",
+    "TeleportTag": "Scene_00055_Teleport"
+  }
+}

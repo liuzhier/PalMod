@@ -1,0 +1,23 @@
+{
+  "Name": "情书",
+  "Description": [
+    "士兵委托的情书。"
+  ],
+  "BitmapId": 246,
+  "Price": 0,
+  "Script": {
+    "UseTag": "Item_00227_Use",
+    "EquipTag": "",
+    "ThrowTag": "",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": true,
+    "Throwable": false,
+    "Consuming": false,
+    "ApplyToAll": true,
+    "Sellable": false,
+    "WhoCanEquip": ""
+  }
+}

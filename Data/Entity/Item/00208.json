@@ -1,0 +1,24 @@
+{
+  "Name": "炼蛊皿",
+  "Description": [
+    "可将毒蛇卵、毒蝎卵、毒蟾卵、",
+    "蜘蛛卵、蜈蚣卵炼成蛊。"
+  ],
+  "BitmapId": 9,
+  "Price": 1000,
+  "Script": {
+    "UseTag": "Item_00208_Use",
+    "EquipTag": "",
+    "ThrowTag": "",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": true,
+    "Throwable": false,
+    "Consuming": false,
+    "ApplyToAll": true,
+    "Sellable": true,
+    "WhoCanEquip": ""
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "Name": "女娲石",
+  "Description": [
+    "女神娲皇炼石补天后，",
+    "所遗之五色石。",
+    "防御最大值+3"
+  ],
+  "BitmapId": 135,
+  "Price": 0,
+  "Script": {
+    "UseTag": "Item_00053_Use",
+    "EquipTag": "",
+    "ThrowTag": "",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": true,
+    "Throwable": false,
+    "Consuming": true,
+    "ApplyToAll": false,
+    "Sellable": false,
+    "WhoCanEquip": ""
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Name": "鬼阴山_洞内",
+  "ScreenWave": 0,
+  "ElementalEffect": {
+    "Wind": -2,
+    "Thunder": 0,
+    "Water": 0,
+    "Fire": -1,
+    "Earth": 0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Name": "雪蛤蟆",
+  "Description": [
+    "生长于天山极寒之地，",
+    "仅铜钱般大小。",
+    "武术最大值+2　防御最大值+2",
+    "灵力最大值+2"
+  ],
+  "BitmapId": 164,
+  "Price": 0,
+  "Script": {
+    "UseTag": "Item_00072_Use",
+    "EquipTag": "",
+    "ThrowTag": "",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": true,
+    "Throwable": false,
+    "Consuming": true,
+    "ApplyToAll": false,
+    "Sellable": false,
+    "WhoCanEquip": ""
+  }
+}

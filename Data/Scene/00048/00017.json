@@ -1,0 +1,22 @@
+{
+  "Name": "丁香兰",
+  "VanishTime": 0,
+  "X": 800,
+  "Y": 816,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": true,
+    "Range": 3
+  },
+  "Sprite": {
+    "SpriteId": 20,
+    "SpriteFrames": 3,
+    "Direction": 3,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00048_00017_Trigger",
+    "AutoTag": ""
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "Name": "凤凰羽毛",
+  "Description": [
+    "金翅凤凰腹部的银色羽毛。",
+    "防御+7　身法+24　吉运+9"
+  ],
+  "BitmapId": 206,
+  "Price": 5000,
+  "Script": {
+    "UseTag": "",
+    "EquipTag": "Item_00146_Equip",
+    "ThrowTag": "",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": false,
+    "Throwable": false,
+    "Consuming": true,
+    "ApplyToAll": false,
+    "Sellable": true,
+    "WhoCanEquip": "235"
+  }
+}

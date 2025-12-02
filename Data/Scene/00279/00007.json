@@ -1,0 +1,22 @@
+{
+  "Name": "拜月教主",
+  "VanishTime": 0,
+  "X": 1232,
+  "Y": 1192,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 0,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 562,
+    "SpriteFrames": 3,
+    "Direction": 2,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "",
+    "AutoTag": "Event_00279_00007_Auto"
+  }
+}

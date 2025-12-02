@@ -1,0 +1,22 @@
+{
+  "Name": "丐帮",
+  "VanishTime": 0,
+  "X": 1072,
+  "Y": 1624,
+  "Layer": 2,
+  "Trigger": {
+    "StateCode": 1,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 107,
+    "SpriteFrames": 3,
+    "Direction": 3,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00092_00023_Trigger",
+    "AutoTag": "Event_00092_00023_Auto"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "Name": "定身商贾",
+  "VanishTime": 0,
+  "X": 880,
+  "Y": 568,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 34,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00101_00030_Trigger",
+    "AutoTag": ""
+  }
+}

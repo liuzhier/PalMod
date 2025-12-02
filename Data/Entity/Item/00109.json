@@ -1,0 +1,25 @@
+{
+  "Name": "大刀",
+  "Description": [
+    "刀身宽而长，刃部锋利",
+    "背部厚重。",
+    "武术+16　防御+1"
+  ],
+  "BitmapId": 76,
+  "Price": 900,
+  "Script": {
+    "UseTag": "",
+    "EquipTag": "Item_00109_Equip",
+    "ThrowTag": "Item_00109_Throw",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": false,
+    "Throwable": true,
+    "Consuming": true,
+    "ApplyToAll": false,
+    "Sellable": true,
+    "WhoCanEquip": "1"
+  }
+}

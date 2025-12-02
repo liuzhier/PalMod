@@ -1,0 +1,24 @@
+{
+  "Name": "冰蚕蛊",
+  "Description": [
+    "以雪山冰洞内所产所冰蚕培养",
+    "的蛊虫，可做为攻击道具。"
+  ],
+  "BitmapId": 201,
+  "Price": 0,
+  "Script": {
+    "UseTag": "",
+    "EquipTag": "",
+    "ThrowTag": "Item_00082_Throw",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": false,
+    "Throwable": true,
+    "Consuming": true,
+    "ApplyToAll": true,
+    "Sellable": false,
+    "WhoCanEquip": ""
+  }
+}

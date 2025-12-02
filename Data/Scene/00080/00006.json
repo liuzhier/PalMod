@@ -1,0 +1,22 @@
+{
+  "Name": "提棍衙役",
+  "VanishTime": 0,
+  "X": 448,
+  "Y": 1216,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 414,
+    "SpriteFrames": 3,
+    "Direction": 1,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00080_00006_Trigger",
+    "AutoTag": "Event_00002_00026_Auto"
+  }
+}

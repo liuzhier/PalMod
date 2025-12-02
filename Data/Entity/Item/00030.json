@@ -1,0 +1,25 @@
+{
+  "Name": "驱魔香",
+  "Description": [
+    "以大蒜、雄黄、艾草、檀香..等",
+    "混合炼制而成，点燃后发出魔物",
+    "厌恶的气味，使魔物不敢接近。"
+  ],
+  "BitmapId": 44,
+  "Price": 3000,
+  "Script": {
+    "UseTag": "Item_00030_Use",
+    "EquipTag": "",
+    "ThrowTag": "",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": true,
+    "Throwable": false,
+    "Consuming": true,
+    "ApplyToAll": true,
+    "Sellable": true,
+    "WhoCanEquip": ""
+  }
+}

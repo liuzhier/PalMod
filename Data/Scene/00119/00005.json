@@ -1,0 +1,22 @@
+{
+  "Name": "侍女",
+  "VanishTime": 0,
+  "X": 992,
+  "Y": 400,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 306,
+    "SpriteFrames": 3,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00115_00009_Trigger",
+    "AutoTag": "Event_00119_00005_Auto"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "Name": "盖罗娇",
+  "VanishTime": 0,
+  "X": 1152,
+  "Y": 320,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": true,
+    "Range": 3
+  },
+  "Sprite": {
+    "SpriteId": 26,
+    "SpriteFrames": 3,
+    "Direction": 1,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00216_00005_Trigger",
+    "AutoTag": ""
+  }
+}

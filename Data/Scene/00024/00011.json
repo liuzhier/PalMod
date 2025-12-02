@@ -1,0 +1,22 @@
+{
+  "Name": "原地二百五",
+  "VanishTime": 0,
+  "X": 1376,
+  "Y": 880,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 129,
+    "SpriteFrames": 1,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00024_00011_Trigger",
+    "AutoTag": "Event_00002_00020_Auto"
+  }
+}

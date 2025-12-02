@@ -1,0 +1,22 @@
+{
+  "Name": "原地酒剑仙",
+  "VanishTime": 0,
+  "X": 336,
+  "Y": 392,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 0,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 616,
+    "SpriteFrames": 1,
+    "Direction": 3,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00101_00039_Trigger",
+    "AutoTag": ""
+  }
+}

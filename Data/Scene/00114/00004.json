@@ -1,0 +1,22 @@
+{
+  "Name": "鹅",
+  "VanishTime": 0,
+  "X": 816,
+  "Y": 1368,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 1,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 301,
+    "SpriteFrames": 1,
+    "Direction": 1,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "",
+    "AutoTag": "Event_00114_00003_Auto"
+  }
+}

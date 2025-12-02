@@ -1,0 +1,22 @@
+{
+  "Name": "赤血毒焰",
+  "VanishTime": 0,
+  "X": 928,
+  "Y": 1152,
+  "Layer": -99,
+  "Trigger": {
+    "StateCode": 1,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 431,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "",
+    "AutoTag": ""
+  }
+}

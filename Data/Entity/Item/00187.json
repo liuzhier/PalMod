@@ -1,0 +1,24 @@
+{
+  "Name": "魅影神靴",
+  "Description": [
+    "妖魔附体，身如鬼魅。",
+    "防御+32　身法+26"
+  ],
+  "BitmapId": 99,
+  "Price": 27000,
+  "Script": {
+    "UseTag": "",
+    "EquipTag": "Item_00187_Equip",
+    "ThrowTag": "",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": false,
+    "Throwable": false,
+    "Consuming": true,
+    "ApplyToAll": false,
+    "Sellable": true,
+    "WhoCanEquip": "123"
+  }
+}

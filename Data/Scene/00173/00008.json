@@ -1,0 +1,22 @@
+{
+  "Name": "阿奴抱忆如",
+  "VanishTime": 0,
+  "X": 592,
+  "Y": 472,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 0,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 552,
+    "SpriteFrames": 3,
+    "Direction": 1,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00173_00008_Trigger",
+    "AutoTag": "Event_00173_00008_Auto"
+  }
+}

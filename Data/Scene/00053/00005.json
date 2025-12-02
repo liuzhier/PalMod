@@ -1,0 +1,22 @@
+{
+  "Name": "方老板",
+  "VanishTime": 0,
+  "X": 1040,
+  "Y": 888,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 40,
+    "SpriteFrames": 1,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00053_00005_Trigger",
+    "AutoTag": "Event_00023_00016_Auto"
+  }
+}

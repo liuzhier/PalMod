@@ -1,0 +1,22 @@
+{
+  "Name": "睡案李逍遥",
+  "VanishTime": 0,
+  "X": 512,
+  "Y": 480,
+  "Layer": 5,
+  "Trigger": {
+    "StateCode": 1,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 379,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 1
+  },
+  "Script": {
+    "TriggerTag": "",
+    "AutoTag": ""
+  }
+}

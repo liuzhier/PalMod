@@ -1,0 +1,22 @@
+{
+  "Name": "锁妖塔底层漩涡",
+  "VanishTime": 0,
+  "X": 752,
+  "Y": 104,
+  "Layer": -9,
+  "Trigger": {
+    "StateCode": 1,
+    "IsAutoTrigger": true,
+    "Range": 4
+  },
+  "Sprite": {
+    "SpriteId": 372,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00060_00066_Trigger",
+    "AutoTag": "Event_00023_00011_Auto"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "Name": "大理·通往汉人聚居地·桥战·雨中",
+  "MapId": 163,
+  "Script": {
+    "EnterTag": "Scene_00244_Enter",
+    "TeleportTag": ""
+  }
+}

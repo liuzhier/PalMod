@@ -1,0 +1,9 @@
+{
+  "Name": "毒丝",
+  "Level": 2,
+  "Color": 224,
+  "Script": {
+    "PlayerTag": "Poison_00004_Player",
+    "EnemyTag": "Poison_00004_Enemy"
+  }
+}

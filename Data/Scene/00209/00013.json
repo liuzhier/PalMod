@@ -1,0 +1,22 @@
+{
+  "Name": "喂鸡妇",
+  "VanishTime": 0,
+  "X": 880,
+  "Y": 616,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 42,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00209_00013_Trigger",
+    "AutoTag": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "Name": "左伏案商人1",
+  "VanishTime": 0,
+  "X": 1584,
+  "Y": 1368,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 1,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 312,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00101_00040_Trigger",
+    "AutoTag": ""
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "Name": "隐龙窟·迷宫·1",
+  "MapId": 40,
+  "Script": {
+    "EnterTag": "Scene_00045_Enter",
+    "TeleportTag": "Scene_00041_Teleport"
+  }
+}

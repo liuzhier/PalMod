@@ -1,0 +1,32 @@
+{
+  "Name": "狂风术",
+  "Description": [],
+  "CostMP": 0,
+  "BaseDamage": 283,
+  "SoundId": 156,
+  "Type": 1,
+  "ActionType": 3,
+  "Effect": {
+    "EffectId": 50,
+    "XOffset": 0,
+    "YOffset": 0,
+    "LayerOffset": 99,
+    "Speed": 0,
+    "KeepEffect": 0,
+    "SoundDelay": 0,
+    "EffectTimes": 0,
+    "Shake": 0,
+    "Wave": 0
+  },
+  "Script": {
+    "SuccessTag": "",
+    "UseTag": "",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "UsableOutsideBattle": false,
+    "UsableInBattle": true,
+    "UsableToEnemy": true,
+    "NeedSelectTarget": false
+  }
+}

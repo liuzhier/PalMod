@@ -1,0 +1,8 @@
+{
+  "Name": "锁妖塔·塔顶·初遇明王",
+  "MapId": 141,
+  "Script": {
+    "EnterTag": "Scene_00147_Enter",
+    "TeleportTag": ""
+  }
+}

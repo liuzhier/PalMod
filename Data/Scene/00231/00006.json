@@ -1,0 +1,22 @@
+{
+  "Name": "右向黑苗兵",
+  "VanishTime": 0,
+  "X": 1552,
+  "Y": 312,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 1,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 597,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "",
+    "AutoTag": "Event_00229_00012_Auto"
+  }
+}

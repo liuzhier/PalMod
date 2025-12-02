@@ -1,0 +1,22 @@
+{
+  "Name": "白苗儿童",
+  "VanishTime": 0,
+  "X": 1136,
+  "Y": 616,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 217,
+    "SpriteFrames": 3,
+    "Direction": 1,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00209_00011_Trigger",
+    "AutoTag": "Event_00002_00026_Auto"
+  }
+}

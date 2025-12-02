@@ -1,0 +1,22 @@
+{
+  "Name": "猩猩",
+  "VanishTime": 0,
+  "X": 1408,
+  "Y": 576,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": true,
+    "Range": 1
+  },
+  "Sprite": {
+    "SpriteId": 514,
+    "SpriteFrames": 3,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00186_00082_Trigger",
+    "AutoTag": "Event_00041_00003_Auto"
+  }
+}

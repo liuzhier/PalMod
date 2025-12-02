@@ -1,0 +1,32 @@
+{
+  "Name": "天女散花",
+  "Description": [],
+  "CostMP": 22,
+  "BaseDamage": 109,
+  "SoundId": 274,
+  "Type": 0,
+  "ActionType": 3,
+  "Effect": {
+    "EffectId": 27,
+    "XOffset": 0,
+    "YOffset": 0,
+    "LayerOffset": 99,
+    "Speed": 0,
+    "KeepEffect": 0,
+    "SoundDelay": 0,
+    "EffectTimes": 3,
+    "Shake": 0,
+    "Wave": 0
+  },
+  "Script": {
+    "SuccessTag": "",
+    "UseTag": "",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "UsableOutsideBattle": false,
+    "UsableInBattle": true,
+    "UsableToEnemy": true,
+    "NeedSelectTarget": false
+  }
+}

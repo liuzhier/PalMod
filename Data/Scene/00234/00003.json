@@ -1,0 +1,22 @@
+{
+  "Name": "圣灵儿",
+  "VanishTime": 0,
+  "X": 1200,
+  "Y": 744,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 0,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 38,
+    "SpriteFrames": 3,
+    "Direction": 2,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "",
+    "AutoTag": "Event_00234_00003_Auto"
+  }
+}

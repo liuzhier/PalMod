@@ -1,0 +1,8 @@
+{
+  "Name": "仙灵岛·莲池·连",
+  "MapId": 25,
+  "Script": {
+    "EnterTag": "Scene_00019_Enter",
+    "TeleportTag": "Scene_00019_Teleport"
+  }
+}

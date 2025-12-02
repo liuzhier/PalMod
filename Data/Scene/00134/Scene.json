@@ -1,0 +1,8 @@
+{
+  "Name": "长安·妓院·各房间·小雪接待逍遥",
+  "MapId": 121,
+  "Script": {
+    "EnterTag": "Scene_00134_Enter",
+    "TeleportTag": ""
+  }
+}

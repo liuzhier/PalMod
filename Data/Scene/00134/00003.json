@@ -1,0 +1,22 @@
+{
+  "Name": "八婆",
+  "VanishTime": 0,
+  "X": 1120,
+  "Y": 1120,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 314,
+    "SpriteFrames": 3,
+    "Direction": 1,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "",
+    "AutoTag": "Event_00134_00003_Auto"
+  }
+}

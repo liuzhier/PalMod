@@ -1,0 +1,22 @@
+{
+  "Name": "睡灵儿",
+  "VanishTime": 0,
+  "X": 1456,
+  "Y": 584,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 1,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 238,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00054_00002_Trigger",
+    "AutoTag": ""
+  }
+}

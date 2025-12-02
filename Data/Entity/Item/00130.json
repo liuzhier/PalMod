@@ -1,0 +1,25 @@
+{
+  "Name": "太极剑",
+  "Description": [
+    "道祖张陵之随身配剑，天师仗以",
+    "降妖伏魔。  武术+158  灵力+90",
+    "　防御+35  身法+50  吉运+33"
+  ],
+  "BitmapId": 185,
+  "Price": 30000,
+  "Script": {
+    "UseTag": "",
+    "EquipTag": "Item_00130_Equip",
+    "ThrowTag": "Item_00130_Throw",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": false,
+    "Throwable": true,
+    "Consuming": true,
+    "ApplyToAll": false,
+    "Sellable": true,
+    "WhoCanEquip": "1"
+  }
+}

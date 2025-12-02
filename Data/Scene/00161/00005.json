@@ -1,0 +1,22 @@
+{
+  "Name": "剑圣",
+  "VanishTime": 0,
+  "X": 544,
+  "Y": 688,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 0,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 358,
+    "SpriteFrames": 3,
+    "Direction": 1,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00161_00005_Trigger",
+    "AutoTag": "Event_00002_00026_Auto"
+  }
+}

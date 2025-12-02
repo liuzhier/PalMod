@@ -1,0 +1,22 @@
+{
+  "Name": "白苗使者",
+  "VanishTime": 0,
+  "X": 1616,
+  "Y": 1320,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 198,
+    "SpriteFrames": 3,
+    "Direction": 3,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00207_00024_Trigger",
+    "AutoTag": "Event_00207_00024_Auto"
+  }
+}

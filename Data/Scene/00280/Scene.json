@@ -1,0 +1,8 @@
+{
+  "Name": "南绍王宫·地牢·通道3·怪",
+  "MapId": 210,
+  "Script": {
+    "EnterTag": "Scene_00280_Enter",
+    "TeleportTag": ""
+  }
+}

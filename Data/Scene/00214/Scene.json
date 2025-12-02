@@ -1,0 +1,8 @@
+{
+  "Name": "试炼窟·女娲遗迹",
+  "MapId": 225,
+  "Script": {
+    "EnterTag": "Scene_00214_Enter",
+    "TeleportTag": "Scene_00214_Teleport"
+  }
+}

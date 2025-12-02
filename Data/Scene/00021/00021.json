@@ -1,0 +1,22 @@
+{
+  "Name": "原地水月侍女",
+  "VanishTime": 0,
+  "X": 992,
+  "Y": 1312,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 223,
+    "SpriteFrames": 1,
+    "Direction": 1,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00021_00021_Trigger",
+    "AutoTag": ""
+  }
+}

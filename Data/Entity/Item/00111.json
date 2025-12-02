@@ -1,0 +1,25 @@
+{
+  "Name": "长剑",
+  "Description": [
+    "一般铁匠接受订造的剑，",
+    "比铁剑精致锋利。",
+    "武术+25"
+  ],
+  "BitmapId": 59,
+  "Price": 1500,
+  "Script": {
+    "UseTag": "",
+    "EquipTag": "Item_00111_Equip",
+    "ThrowTag": "Item_00111_Throw",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": false,
+    "Throwable": true,
+    "Consuming": true,
+    "ApplyToAll": false,
+    "Sellable": true,
+    "WhoCanEquip": "13"
+  }
+}

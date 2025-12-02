@@ -1,0 +1,22 @@
+{
+  "Name": "血池鬼手",
+  "VanishTime": 0,
+  "X": 704,
+  "Y": 960,
+  "Layer": -5,
+  "Trigger": {
+    "StateCode": 1,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 490,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "",
+    "AutoTag": "Event_00157_00021_Auto"
+  }
+}

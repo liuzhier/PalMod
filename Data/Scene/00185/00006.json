@@ -1,0 +1,22 @@
+{
+  "Name": "黑衣道众",
+  "VanishTime": 0,
+  "X": 560,
+  "Y": 1864,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": true,
+    "Range": 1
+  },
+  "Sprite": {
+    "SpriteId": 466,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00185_00006_Trigger",
+    "AutoTag": "Event_00007_00003_Auto"
+  }
+}

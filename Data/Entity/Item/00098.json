@@ -1,0 +1,24 @@
+{
+  "Name": "吸星锁",
+  "Description": [
+    "铁制钢抓，尾端系以灵蛊蚕丝，",
+    "可吸取敌人HP180。"
+  ],
+  "BitmapId": 134,
+  "Price": 1500,
+  "Script": {
+    "UseTag": "",
+    "EquipTag": "",
+    "ThrowTag": "Item_00098_Throw",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": false,
+    "Throwable": true,
+    "Consuming": true,
+    "ApplyToAll": false,
+    "Sellable": true,
+    "WhoCanEquip": ""
+  }
+}

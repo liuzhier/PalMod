@@ -1,0 +1,22 @@
+{
+  "Name": "丁秀兰",
+  "VanishTime": 0,
+  "X": 1168,
+  "Y": 312,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 0,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 4,
+    "SpriteFrames": 3,
+    "Direction": 3,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00009_00004_Trigger",
+    "AutoTag": "Event_00009_00004_Auto"
+  }
+}

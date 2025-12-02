@@ -1,0 +1,22 @@
+{
+  "Name": "剑宝箱",
+  "VanishTime": 0,
+  "X": 1104,
+  "Y": 1608,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 1
+  },
+  "Sprite": {
+    "SpriteId": 10,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameNum": 0
+  },
+  "Script": {
+    "TriggerTag": "Event_00155_00023_Trigger",
+    "AutoTag": ""
+  }
+}

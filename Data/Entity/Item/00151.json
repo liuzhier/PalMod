@@ -1,0 +1,24 @@
+{
+  "Name": "铁锁衣",
+  "Description": [
+    "以铁环扣锁制成的护甲。",
+    "防御+13　身法-10"
+  ],
+  "BitmapId": 213,
+  "Price": 1230,
+  "Script": {
+    "UseTag": "",
+    "EquipTag": "Item_00151_Equip",
+    "ThrowTag": "",
+    "DescriptionTag": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": false,
+    "Throwable": false,
+    "Consuming": true,
+    "ApplyToAll": false,
+    "Sellable": true,
+    "WhoCanEquip": "1"
+  }
+}

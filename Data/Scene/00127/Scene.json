@@ -1,0 +1,8 @@
+{
+  "Name": "长安·尚书府·刘晋元居所·二楼房间·笨天师自焚",
+  "MapId": 114,
+  "Script": {
+    "EnterTag": "Scene_00127_Enter",
+    "TeleportTag": ""
+  }
+}

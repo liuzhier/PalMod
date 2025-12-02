@@ -1,0 +1,8 @@
+{
+  "Name": "桃花源入口·雾散去",
+  "MapId": 157,
+  "Script": {
+    "EnterTag": "Scene_00181_Enter",
+    "TeleportTag": "Scene_00181_Teleport"
+  }
+}
