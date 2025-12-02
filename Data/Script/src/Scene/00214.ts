@@ -11,7 +11,7 @@ FadeOut(0);
 EventSetState(-1, -1, 0);
 AddItem(234, 0);
 SetDlgBox(0);
-//未知对话
+//拾起芦苇漂
 
 ['Event_00214_00001_Auto'];
 JumpIfEventNotInZone(213, 2, 0, "Event_00214_00001_Auto");
@@ -273,27 +273,27 @@ HeroAddMagic(30001, 5);
 EventSetState(-1, -1, 0);
 PlaySound(263);
 SetDlgBox(0);
-//未知对话
+//获得召唤术 风神
 
 ['Event_00214_00031_Trigger'];
 HeroAddMagic(30002, 1);
 EventSetState(-1, -1, 0);
 PlaySound(263);
 SetDlgBox(0);
-//未知对话
+//获得召唤术 雷神
 
 ['Event_00214_00032_Trigger'];
 HeroAddMagic(30003, 5);
 EventSetState(-1, -1, 0);
 PlaySound(263);
 SetDlgBox(0);
-//未知对话
+//获得召唤术 雪妖
 
 ['Event_00214_00033_Trigger'];
 EventSetState(-1, -1, 0);
 PlaySound(263);
 SetDlgBox(0);
-//未知对话
+//获得召唤术 火神
 JumpIfHeroInParty(2, "@7B3E");
 HeroAddMagic(30009, 5);
 
@@ -302,70 +302,70 @@ HeroAddMagic(30004, 1);
 EventSetState(-1, -1, 0);
 PlaySound(263);
 SetDlgBox(0);
-//未知对话
+//获得召唤术 山神
 
 ['Event_00214_00035_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//未知对话
+//获得玄冥宝刀
 AddItem(127, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 ['Event_00214_00036_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//未知对话
+//获得冥蛇杖
 AddItem(134, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 ['Event_00214_00037_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//未知对话
+//获得无尘剑
 AddItem(131, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 Call("@8E99");
 SetDlgBox(0);
-//未知对话
+//获得头巾
 AddItem(136, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 Call("@8E99");
 SetDlgBox(0);
-//未知对话
+//获得青丝巾
 AddItem(137, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 Call("@8E99");
 SetDlgBox(0);
-//未知对话
+//获得发饰
 AddItem(138, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 Call("@8E99");
 SetDlgBox(0);
-//未知对话
+//获得皮帽
 AddItem(141, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 ['Event_00214_00039_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//未知对话
+//获得魅影神靴
 AddItem(187, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 Call("@8E99");
 SetDlgBox(0);
-//未知对话
+//获得护腕
 AddItem(189, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 ['Event_00214_00038_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//未知对话
+//获得金罡珠
 AddItem(201, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 

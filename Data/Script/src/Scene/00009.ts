@@ -60,21 +60,21 @@ ReplaceAndPauseWithNop("Event_00009_00007_Trigger", 0);
 ['Event_00009_00010_Trigger'];
 PlaySound(78);
 SetDlgBox(0);
-//未知对话
+//发现５文钱
 CashModify(5, "");
 EventSetState(-1, -1, 0);
 
 ['Event_00009_00008_Trigger'];
 PlaySound(78);
 SetDlgBox(0);
-//未知对话
+//发现糯米
 AddItem(15, 0);
 EventSetState(-1, -1, 0);
 
 ['Event_00009_00009_Trigger'];
 PlaySound(78);
 SetDlgBox(0);
-//未知对话
+//发现盐巴
 AddItem(17, 0);
 EventSetState(-1, -1, 0);
 

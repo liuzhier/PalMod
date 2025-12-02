@@ -1,8 +1,8 @@
 {
   "Name": "赎魂",
   "Description": [
-    "未知实体描述",
-    "未知实体描述"
+    "我方单人复活",
+    "HP恢复30%"
   ],
   "CostMP": 30,
   "BaseDamage": 0,

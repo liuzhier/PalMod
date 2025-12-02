@@ -16,21 +16,21 @@ MusicPlay(Music.历险, true, false);
 ['Event_00065_00015_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//未知对话
+//获得６００文钱
 CashModify(600, "");
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 ['Event_00065_00012_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//未知对话
+//获得十里香
 AddItem(31, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 ['Event_00065_00018_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//未知对话
+//获得天师符
 AddItem(6, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 

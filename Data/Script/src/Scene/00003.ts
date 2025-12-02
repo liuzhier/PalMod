@@ -260,21 +260,21 @@ EventSetState(-1, -1, 0);
 ['Event_00003_00010_Trigger'];
 PlaySound(78);
 SetDlgBox(0);
-//未知对话
+//发现５０文钱
 CashModify(50, "");
 EventSetState(-1, -1, 0);
 
 ['Event_00003_00011_Trigger'];
 PlaySound(78);
 SetDlgBox(0);
-//未知对话
+//发现还神丹
 AddItem(45, 0);
 EventSetState(-1, -1, 0);
 
 ['Event_00003_00012_Trigger'];
 PlaySound(78);
 SetDlgBox(0);
-//未知对话
+//发现忘魂花
 AddItem(67, 0);
 EventSetState(-1, -1, 0);
 

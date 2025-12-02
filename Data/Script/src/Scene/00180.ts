@@ -47,6 +47,6 @@ EventSetState(-1, -1, 0);
 VideoUpdate(0, false);
 PlaySound(78);
 SetDlgBox(0);
-//未知对话
+//摘得断肠草
 AddItem(65, 0);
 

@@ -13,14 +13,14 @@ FadeOut(0);
 ['Event_00292_00027_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//未知对话
+//获得凤纹披风
 AddItem(172, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 ['Event_00292_00026_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//未知对话
+//获得白虎之铠
 AddItem(162, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 

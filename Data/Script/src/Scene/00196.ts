@@ -22,16 +22,16 @@ EventSetState(195, 2, 1);
 TogglePaletteTime(true);
 WaitEventAutoScriptRun(6, false, false);
 SetDlgUpper(0, 0, false);
-//未知对话
-//未知对话
-//未知对话
+//丫鬟：
+//$04小姐！奴婢四处都找过了
+//都没看见赵姑娘~50
 VideoUpdate(0, false);
 EventSetDirFrame(195, 1, 2, 0);
 VideoUpdate(0, false);
 SetDlgLower(0, 0, false);
-//未知对话
-//未知对话
-//未知对话
-//未知对话
+//林月如：
+//$03叫所有的人都去找，城里找
+//不到就到城外去找，翻遍全苏
+//州也要把人找回来！~70
 SceneEnter(197);
 

@@ -21,7 +21,7 @@ EventModifyPos(-1, -1, 0, 18);
 ['Event_00140_00003_Trigger'];
 EventSetState(-1, -1, 0);
 SetDlgLower(0, 0, false);
-//未知对话
+//月如～小心！
 EventSetState(139, 4, 1);
 PlaySound(182);
 WaitEventAutoScriptRun(4, false, false);
@@ -34,43 +34,43 @@ WaitEventAutoScriptRun(0, false, false);
 RoleMoveOneStep(8, 4, 0);
 WaitEventAutoScriptRun(2, false, false);
 SetDlgUpper(0, 0, false);
-//未知对话
-//未知对话
+//黑蜘蛛：
+//唧～唧～　擅入者死！
 EventSetState(139, 4, 0);
 BattleStart(43, "@A073", "");
 
 ['Event_00140_00021_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//未知对话
+//获得灵山仙芝
 AddItem(47, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 ['Event_00140_00018_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//未知对话
+//获得缠魂丝
 AddItem(99, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 ['Event_00140_00019_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//未知对话
+//获得９个蜘蛛卵
 AddItem(60, 9);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 ['Event_00140_00022_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//未知对话
+//获得醍醐香
 AddItem(66, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 ['Event_00140_00020_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//未知对话
+//获得蜂巢
 AddItem(55, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
@@ -79,7 +79,7 @@ EventSetState(-1, -1, 0);
 VideoUpdate(0, false);
 PlaySound(78);
 SetDlgBox(0);
-//未知对话
+//获得试炼果
 AddItem(52, 0);
 
 ['Event_00140_00024_Trigger'];
@@ -87,6 +87,6 @@ EventSetState(-1, -1, 0);
 VideoUpdate(0, false);
 PlaySound(78);
 SetDlgBox(0);
-//未知对话
+//获得九节菖蒲
 AddItem(29, 0);
 

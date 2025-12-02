@@ -23,31 +23,31 @@ FadeToScene(0, -1);
 RoleSetDirFrame(2, 0, 1);
 VideoUpdate(0, false);
 SetDlgLower(0, 0, false);
-//未知对话
-//未知对话
+//李逍遥：
+//可恶～无路可逃了！
 VideoUpdate(0, false);
 SetDlgLower(0, 0, false);
-//未知对话
-//未知对话
+//巫后：
+//你退开～　我来对付它！
 ['@839E'];
 RoleMoveOneStep(16, -8, 0);
 WaitEventAutoScriptRun(0, false, false);
 GotoWithNop("@839E", 3);
 SetDlgLower(73, 0, false);
-//未知对话
-//未知对话
-//未知对话
-//未知对话
+//巫后：
+//年轻人～虽然我还不知道你
+//的姓名，但是．．希望你能
+//答应我．．
 VideoRestore();
-//未知对话
-//未知对话
+//日后～如果你遇到我的女儿
+//请你能代我好好照顾她．．
 RoleSetDirFrame(3, 0, 0);
 VideoUpdate(0, false);
 RoleSetDirFrame(0, 12, 0);
 VideoUpdate(0, false);
 SetDlgUpper(0, 0, false);
-//未知对话
-//未知对话
+//巫后：
+//你去吧！
 VideoUpdate(0, false);
 PartySetRole(4, 0, 0);
 RoleSetDirFrame(0, 12, 0);
@@ -67,9 +67,9 @@ EventSetState(250, 5, 1);
 EventSetState(250, 6, 0);
 VideoUpdate(0, false);
 SetDlgLower(0, 0, false);
-//未知对话
-//未知对话
-//未知对话
+//巫后：
+//妖孽！你我原本都不该存在这
+//世上，与我一同化为尘土吧！
 FadeColor(127, 4, false);
 SceneEnter(252);
 
@@ -89,7 +89,7 @@ GotoWithNop("@8402", 0);
 ['Event_00251_00011_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//未知对话
+//获得八仙石
 AddItem(54, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 

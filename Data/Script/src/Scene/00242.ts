@@ -5,5 +5,5 @@ FadeOut(0);
 
 ['Event_00242_00004_Trigger'];
 SetDlgCenter(0, false);
-//未知对话
+//石柱顶端有一处半圆球形凹孔
 

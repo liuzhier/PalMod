@@ -72,9 +72,9 @@ PartySetPos(8, 100, 1);
 FadeOut(0);
 
 ['Event_00207_00014_Trigger'];
-//未知对话
-//未知对话
-//未知对话
+//守卫：
+//此处是火麒麟洞圣地
+//没有族长的准许，不得擅入
 
 ['Event_00207_00022_Auto'];
 NpcMoveToBlockMutexLock(20, 94, 1, 2);
@@ -155,26 +155,26 @@ NpcMoveToBlockMutexLock(49, 92, 1, 2);
 ReplaceAndPauseWithNop("Event_00002_00020_Auto", 0);
 
 ['Event_00207_00018_Trigger'];
-//未知对话
-//未知对话
-//未知对话
+//小孩：
+//阿奴姊姊，你有没有看到
+//我阿妹躲在哪里？
 ReplaceAndPause();
-//未知对话
-//未知对话
+//小孩：
+//我们在玩躲猫猫，我当鬼
 
 ['Event_00207_00019_Trigger'];
-//未知对话
-//未知对话
+//小孩：
+//嘻嘻～阿妹都抓不到我
 
 ['Event_00207_00026_Trigger'];
 WaitEventAutoScriptRun(0, false, false);
-//未知对话
-//未知对话
+//小玉：
+//呜．．人家不要小咪死掉
 
 ['Event_00207_00031_Trigger'];
 PlaySound(178);
 SetDlgCenter(0, false);
-//未知对话
+//喵～
 
 ['Event_00207_00024_Auto'];
 NpcSetDirFrame(3, 0);
@@ -187,117 +187,117 @@ GotoWithProbability(4, "");
 ReplaceAndPauseWithNop("Event_00207_00024_Auto", 0);
 
 ['Event_00207_00016_Trigger'];
-//未知对话
-//未知对话
+//白苗女兵：
+//小少主，您回来啦！
 ReplaceAndPause();
-//未知对话
-//未知对话
+//白苗女兵：
+//此地是族长居住的宫社
 
 ['Event_00207_00017_Trigger'];
-//未知对话
-//未知对话
+//白苗女兵：
+//族长正在和各部长老开会。
 VideoUpdate(0, false);
 SetDlgLower(0, 0, false);
-//未知对话
-//未知对话
+//阿奴：
+//开会？开什么会？
 VideoUpdate(0, false);
 SetDlgUpper(0, 0, false);
-//未知对话
-//未知对话
+//白苗女兵：
+//对不起，小少主，属下不知。
 
 ['Event_00207_00020_Trigger'];
-//未知对话
-//未知对话
-//未知对话
-//未知对话
-//未知对话
+//白苗居民：
+//这些黑苗族真不是个东西
+//三番两次地来触我们霉头
+//老虎不发威还给他们当成
+//病猫了！
 
 ['Event_00207_00021_Trigger'];
-//未知对话
-//未知对话
-//未知对话
+//白苗居民：
+//我决定要跟我们白苗族的战士
+//一同去抵抗黑苗人的入侵。
 
 ['Event_00207_00022_Trigger'];
-//未知对话
-//未知对话
-//未知对话
-//未知对话
+//白苗居民：
+//如果我也能成为白苗族战士
+//和族人一同并肩作战，是一
+//件多么光荣的事啊！
 
 ['Event_00207_00023_Trigger'];
-//未知对话
-//未知对话
-//未知对话
+//白苗居民：
+//最近黑苗族的动静很不寻常
+//所以要特别的小心。
 
 ['Event_00207_00024_Trigger'];
-//未知对话
-//未知对话
-//未知对话
-//未知对话
+//苗女：
+//小鸡啊！小鸡，快快长大
+//我们家已经没有什么粮食吃了
+//就看你们怎样报答我们啰。
 
 ['Event_00207_00025_Trigger'];
-//未知对话
-//未知对话
-//未知对话
-//未知对话
+//白苗妇女：
+//没办法，家里已经没有什么
+//粮食可吃了，所以这只小猫
+//我们不得不····
 
 ['Event_00207_00027_Trigger'];
 WaitEventAutoScriptRun(0, false, false);
 SetDlgLower(0, 0, false);
-//未知对话
-//未知对话
-//未知对话
+//白苗壮丁：
+//为了我们白苗族，我要出征了
+//你千万不要阻止我。
 VideoUpdate(0, false);
-//未知对话
-//未知对话
-//未知对话
+//白苗少女：
+//为了我们两个，你要尽力杀敌
+//喔我会等你回来的，永远！
 
 ['Event_00207_00029_Trigger'];
-//未知对话
-//未知对话
+//路人：
+//·········
 VideoUpdate(0, false);
 SetDlgLower(0, 0, false);
-//未知对话
-//未知对话
+//阿奴：
+//咦？你看到我怎么没打招呼呢？
 VideoUpdate(0, false);
 SetDlgUpper(0, 0, false);
-//未知对话
-//未知对话
+//路人：
+//我为什么要跟你打招呼？
 VideoUpdate(0, false);
 SetDlgLower(0, 0, false);
-//未知对话
-//未知对话
+//阿奴：
+//你是谁？我怎么从没见过你。
 VideoUpdate(0, false);
 SetDlgUpper(0, 0, false);
-//未知对话
-//未知对话
-//未知对话
+//路人：
+//你这小丫头才是谁呐！
+//为什么一定要见过我？
 VideoUpdate(0, false);
 SetDlgLower(0, 0, false);
-//未知对话
-//未知对话
-//未知对话
+//阿奴：
+//我阿娘是白苗族的族长
+//全白苗族的人谁不认得我？
 VideoUpdate(0, false);
 SetDlgUpper(0, 0, false);
-//未知对话
-//未知对话
-//未知对话
+//路人：
+//喔！对对对，你是族长的
+//女儿嘛！我知道、我知道。
 VideoUpdate(0, false);
 SetDlgLower(0, 0, false);
-//未知对话
-//未知对话
-//未知对话
+//阿奴：
+//不对，你不是白苗族的人
+//你是不是黑苗族派来的间谍！
 VideoUpdate(0, false);
 SetDlgUpper(0, 0, false);
-//未知对话
-//未知对话
-//未知对话
+//路人：
+//呸！臭丫头，被你给发现了
+//留你不得！
 EventSetState(-1, -1, 0);
 SetBattlefield(FbpWin.白苗街巷);
 SetBattleMusic(Music.势如破竹);
 BattleStart(240, "@A073", "");
 
 ['Event_00207_00030_Trigger'];
-//未知对话
-//未知对话
-//未知对话
+//小孩：
+//我阿爹被族长叫去，听说
+//好像有什么重要的会要开
 

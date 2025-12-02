@@ -11,7 +11,7 @@ FadeOut(0);
 ['Event_00075_00003_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//未知对话
+//获得赤蝎粉
 AddItem(73, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 

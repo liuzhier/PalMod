@@ -16,13 +16,13 @@ FadeOut(0);
 ['Event_00288_00019_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//未知对话
+//获得天香续命露
 AddItem(38, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 Call("@8E99");
 SetDlgBox(0);
-//未知对话
+//获得大蒜
 AddItem(24, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 

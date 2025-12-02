@@ -6,17 +6,17 @@ PartySetPos(15, 23, 0);
 HeroSetSprite(0, 232, true);
 RoleSetDirFrame(0, 0, 0);
 VideoUpdate(0, false);
-//未知对话
-//未知对话
+//$12"李大哥　我娘想见你
+//我带你去见她　好不好？"~60
 WaitEventAutoScriptRun(4, false, false);
 SetDlgLower(0, 0, false);
-//未知对话
-//未知对话
+//$07　哎呦～我很累了
+//　　下次再说吧！~50
 WaitEventAutoScriptRun(4, false, false);
 SetDlgUpper(0, 0, false);
-//未知对话
+//$12"好吧．．．~70
 VideoRestore();
-//未知对话
+//那．．我自己过去了．．"$02~60
 FadeToScene(0, -1);
 EventSetAutoScript(173, 1, "@6C59");
 WaitEventAutoScriptRun(37, false, false);

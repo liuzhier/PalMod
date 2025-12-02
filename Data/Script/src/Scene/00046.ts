@@ -16,7 +16,7 @@ FadeOut(0);
 ['Event_00046_00021_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//未知对话
+//获得藤甲
 AddItem(149, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 

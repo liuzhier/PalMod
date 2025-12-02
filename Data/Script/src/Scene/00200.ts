@@ -2,11 +2,11 @@
 PartySetPos(52, 26, 1);
 VideoUpdate(2, false);
 SetDlgLower(21, 0, false);
-//未知对话
-//未知对话
+//林月如：
+//$04从今以后你我就是好姐妹啦！~60
 VideoRestore();
-//未知对话
-//未知对话
+//我们三人要永远在一起
+//永远不分开！~80$02
 MusicStop(1);
 FadeOut(4);
 SetPalette(Palette.平常_日夜);

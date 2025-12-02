@@ -19,30 +19,30 @@ WaitEventAutoScriptRun(8, false, false);
 EventSetAutoScript(232, 0, "@7DD5");
 WaitEventAutoScriptRun(26, false, false);
 SetDlgUpper(45, 0, false);
-//未知对话
-//未知对话
-//未知对话
+//白苗族长：
+//公主殿下～
+//我代全族的人向您致谢
 VideoUpdate(0, false);
 SetDlgLower(89, 0, false);
-//未知对话
-//未知对话
-//未知对话
+//赵灵儿：
+//我只是遵照我娘未竟之志
+//做我应该做的事罢了
 VideoUpdate(0, false);
 SetDlgUpper(45, 0, false);
-//未知对话
-//未知对话
-//未知对话
-//未知对话
+//白苗族长：
+//您是我族的大恩人
+//请您留下来继承巫后娘娘
+//留下的祭司之位好吗？
 VideoUpdate(0, false);
 SetDlgLower(89, 0, false);
-//未知对话
-//未知对话
+//赵灵儿：
+//谢谢．．我会考虑看看
 VideoUpdate(0, false);
 SetDlgUpper(45, 0, false);
-//未知对话
-//未知对话
-//未知对话
-//未知对话
+//白苗族长：
+//请您一定要答应，这场庆功
+//大典就是为您而开的，大家
+//都希望您能留下来呢！
 EventSetAutoScript(232, 0, "@7DDA");
 WaitEventAutoScriptRun(18, false, false);
 PartyWalkToBlock(27, 78, 1, 2);
@@ -87,14 +87,14 @@ EventSetAutoScript(231, 21, "@7E1B");
 EventSetAutoScript(231, 22, "@7E21");
 WaitEventAutoScriptRun(36, false, false);
 SetDlgLower(45, 0, false);
-//未知对话
-//未知对话
-//未知对话
+//白苗族长：
+//地魔兽！？黑苗人竟然
+//真的使用魔兽来作战！
 VideoUpdate(0, false);
 SetDlgLower(88, 0, false);
-//未知对话
-//未知对话
-//未知对话
+//赵灵儿：
+//收拾这妖孽！
+//不能让它伤害到无辜的人
 EventSetAutoScript(231, 23, "");
 EventSetDirFrame(231, 23, 0, 6);
 EventSetLayer(231, 23, -10);
@@ -105,25 +105,25 @@ BattleEnd();
 PartySetPos(27, 79, 0);
 ViewportMove(0, 0, 0);
 SetDlgUpper(27, 0, false);
-//未知对话
-//未知对话
-//未知对话
+//阿奴：
+//一定有人在背后操纵魔兽
+//我们去揪出这幕后的主使者！
 VideoUpdate(0, false);
 SetDlgLower(88, 0, false);
-//未知对话
-//未知对话
+//赵灵儿：
+//．．．．．．．
 VideoUpdate(0, false);
 SetDlgUpper(4, 0, false);
-//未知对话
-//未知对话
+//李逍遥：
+//灵儿．．有什么困难吗？
 VideoUpdate(0, false);
 SetDlgLower(88, 0, false);
-//未知对话
-//未知对话
+//赵灵儿：
+//没什么．．
 VideoRestore();
-//未知对话
+//该面对的．．总是该去面对
 VideoRestore();
-//未知对话
+//我们走吧～
 ['@7DCF'];
 RoleMoveOneStep(-6, 7, 0);
 WaitEventAutoScriptRun(0, false, false);

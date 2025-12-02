@@ -13,29 +13,29 @@ PartySetPos(39, 50, 0);
 FadeOut(0);
 
 ['Event_00215_00003_Trigger'];
-//未知对话
-//未知对话
-//未知对话
-//未知对话
+//白苗士兵：
+//这位兄弟，请留步！
+//我们正在围捕五毒兽
+//请不要随便靠近，以免危险
 VideoUpdate(0, false);
 SetDlgLower(1, 0, false);
-//未知对话
-//未知对话
-//未知对话
+//李逍遥：
+//啊．．对不起
+//我改走别的路好了
 VideoUpdate(0, false);
-//未知对话
-//未知对话
-//未知对话
-//未知对话
-//未知对话
+//白苗士兵：
+//这座山谷暂时封闭了
+//闲杂人等不得近入
+//等到我们任务完成後
+//才可以通行
 RoleMoveOneStep(16, -8, 0);
 WaitEventAutoScriptRun(0, false, false);
 RoleMoveOneStep(16, -8, 0);
 WaitEventAutoScriptRun(0, false, false);
 ReplaceAndPause();
-//未知对话
-//未知对话
-//未知对话
+//白苗士兵：
+//请不要在此逗留，妨碍
+//我们的任务
 RoleMoveOneStep(16, -8, 0);
 WaitEventAutoScriptRun(0, false, false);
 RoleMoveOneStep(16, -8, 0);

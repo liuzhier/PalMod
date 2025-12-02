@@ -5,7 +5,7 @@ FadeOut(0);
 
 ['Event_00173_00011_Trigger'];
 SetDlgCenter(0, false);
-//未知对话
+//林月如冰冷的身躯
 
 ['Event_00173_00005_Auto'];
 NpcMoveToBlockMutexLock(21, 35, 1, 2);
@@ -46,9 +46,9 @@ PartySetRole(1, 0, 0);
 RoleSetDirFrame(0, 0, 0);
 WaitEventAutoScriptRun(42, false, false);
 SetDlgUpper(31, 0, false);
-//未知对话
-//未知对话
-//未知对话
+//阿奴：
+//唔．．生小娃娃
+//怎么要那么久啊！
 EventSetAutoScript(172, 5, "Event_00002_00026_Auto");
 EventSetState(172, 6, 0);
 EventSetState(172, 7, 1);
@@ -57,25 +57,25 @@ EventSetState(172, 3, 0);
 EventSetState(172, 9, 2);
 WaitEventAutoScriptRun(6, false, false);
 SetDlgUpper(82, 0, false);
-//未知对话
+//$01快！快去厨房提热水来
 SetDlgLower(1, 0, false);
-//未知对话
-//未知对话
+//李逍遥：
+//是～　马上来！
 EventSetAutoScript(172, 5, "@6F7D");
 WaitEventAutoScriptRun(12, false, false);
 EventSetDirFrame(172, 9, 2, 0);
 WaitEventAutoScriptRun(4, false, false);
 SetDlgLower(28, 0, false);
-//未知对话
-//未知对话
+//阿奴：
+//$02小宝宝生出来了吗？
 VideoUpdate(0, false);
 SetDlgUpper(82, 0, false);
-//未知对话
-//未知对话
+//还早哩！
+//你也别闲着，进来帮忙
 VideoUpdate(0, false);
 SetDlgLower(29, 0, false);
-//未知对话
-//未知对话
+//阿奴：
+//好～！
 EventSetAutoScript(172, 7, "@6E4C");
 EventSetAutoScript(172, 9, "@6E47");
 VideoFadeAndUpdate(-1);
@@ -89,39 +89,39 @@ RoleSetDirFrame(0, 0, 0);
 PlaySound(272);
 VideoUpdate(3, false);
 SetDlgCenter(0, false);
-//未知对话
+//哇～．．哇～．．
 WaitEventAutoScriptRun(12, false, false);
 SetDlgLower(3, 0, false);
-//未知对话
-//未知对话
-//未知对话
-//未知对话
+//李逍遥：
+//是个女儿！　灵儿～你瞧
+//她长得好像你呢！我们的
+//女儿将来一定也是个大美人
 VideoRestore();
-//未知对话
-//未知对话
+//对了～
+//该替她取什么名字好呢？
 VideoUpdate(0, false);
 SetDlgUpper(11, 0, false);
-//未知对话
-//未知对话
+//赵灵儿：
+//我想．．就叫"忆如"吧．．
 VideoUpdate(0, false);
 SetDlgLower(6, 0, false);
-//未知对话
-//未知对话
+//李逍遥：
+//李忆如．．嗯～好名字！
 VideoUpdate(0, false);
 SetDlgUpper(15, 0, false);
-//未知对话
-//未知对话
-//未知对话
-//未知对话
-//未知对话
+//赵灵儿：
+//这个孩子，等于是月如姐姐
+//牺牲性命换来的，我希望月如
+//姐姐在天之灵能继续庇佑这孩
+//子平安长大．．．
 EventSetAutoScript(172, 7, "@6E51");
 WaitEventAutoScriptRun(8, false, false);
 EventSetState(172, 10, 0);
 HeroSetSprite(0, 2, true);
 RoleSetDirFrame(3, 0, 0);
 SetDlgLower(32, 0, false);
-//未知对话
-//未知对话
+//阿奴：
+//哇～　也给我抱抱嘛！
 EventSetState(172, 10, 0);
 EventSetState(172, 7, 0);
 EventSetState(172, 8, 2);
@@ -129,45 +129,45 @@ WaitEventAutoScriptRun(22, false, false);
 PlaySound(273);
 WaitEventAutoScriptRun(6, false, false);
 SetDlgCenter(0, false);
-//未知对话
+//哈．．哈．．哈．．
 RoleSetDirFrame(0, 0, 0);
 WaitEventAutoScriptRun(4, false, false);
 PartyWalkToBlock(17, 29, 1, 2);
 SetDlgUpper(9, 0, false);
-//未知对话
-//未知对话
-//未知对话
-//未知对话
+//李逍遥：
+//老婆婆．．谢谢您
+//您的大恩大德，晚辈即使
+//粉身碎骨亦不足以回报
 VideoUpdate(0, false);
 SetDlgLower(82, 0, false);
-//未知对话
-//未知对话
-//未知对话
-//未知对话
+//老婆婆：
+//呵呵～现在谢我还早哩！
+//等婆婆我完成另一件事
+//再谢我也不迟．．
 VideoUpdate(0, false);
 SetDlgUpper(1, 0, false);
-//未知对话
-//未知对话
+//李逍遥：
+//哦？　什么样的事？
 VideoUpdate(0, false);
 SetDlgLower(82, 0, false);
-//未知对话
-//未知对话
+//老婆婆：
+//呵呵．．天机不可泄漏
 VideoRestore();
-//未知对话
-//未知对话
+//如果你真的想谢我
+//就替我跑个腿吧！
 VideoUpdate(0, false);
 SetDlgUpper(9, 0, false);
-//未知对话
-//未知对话
-//未知对话
+//李逍遥：
+//只要您吩咐的
+//晚辈必定万死不辞
 VideoUpdate(0, false);
 SetDlgLower(82, 0, false);
-//未知对话
-//未知对话
-//未知对话
-//未知对话
-//未知对话
-//未知对话
+//老婆婆：
+//干嘛说的那么严重似的
+//要不是婆婆我最近风湿又犯了
+//跑不动啦，才要你替我跑个腿
+//走一趟"试炼窟"
+//替我收集三十六只"傀儡虫"
 EventSetStateSequence(214, 3, 215, 0, 0);
 EventSetAutoScript(172, 8, "@6F0C");
 EventSetDirFrame(172, 4, 0, 0);
@@ -189,24 +189,24 @@ MusicPlay(Music.盟誓, true, false);
 
 ['Event_00173_00008_Trigger'];
 SetDlgLower(0, 0, false);
-//未知对话
-//未知对话
-//未知对话
+//阿奴：
+//嘘．．不要吵
+//小宝宝快睡着了
 ReplaceAndPause();
 SetDlgLower(0, 0, false);
-//未知对话
-//未知对话
+//阿奴：
+//宝宝乖．．快快睡．．
 
 ['Event_00173_00004_Trigger'];
-//未知对话
-//未知对话
+//赵灵儿：
+//逍遥哥哥～你要去哪里
 VideoUpdate(0, false);
 SetDlgLower(0, 0, false);
-//未知对话
-//未知对话
+//李逍遥：
+//我哪都不去，你安心休养吧
 ReplaceAndPause();
 SetDlgCenter(0, false);
-//未知对话
+//赵灵儿睡着了．．
 
 ['Event_00173_00010_Auto'];
 RoleSetDirFrame(0, 0, 0);
@@ -216,5 +216,5 @@ ReplaceAndPauseWithNop("Event_00173_00010_Auto", 0);
 
 ['Event_00173_00012_Trigger'];
 SetDlgCenter(0, false);
-//未知对话
+//灵儿和忆如正熟睡中．．
 

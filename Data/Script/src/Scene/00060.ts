@@ -17,7 +17,7 @@ WaitEventAutoScriptRun(8, false, false);
 RoleSetDirFrame(0, 2, 0);
 WaitEventAutoScriptRun(2, false, false);
 SetDlgUpper(0, 0, false);
-//未知对话
+//灵儿！月如！
 FadeOut(2);
 EventSetState(59, 1, 2);
 EventSetState(59, 2, 2);
@@ -30,8 +30,8 @@ WaitEventAutoScriptRun(7, false, false);
 EventSetDirFrame(59, 2, 1, 0);
 WaitEventAutoScriptRun(4, false, false);
 SetDlgLower(22, 0, false);
-//未知对话
-//未知对话
+//好臭的味道！
+//这里是什么鬼地方？
 WaitEventAutoScriptRun(2, false, false);
 EventSetDirFrame(59, 1, 0, 0);
 RoleSetDirFrame(0, 0, 0);
@@ -41,20 +41,20 @@ WaitEventAutoScriptRun(6, false, false);
 EventSetDirFrame(59, 1, 0, 0);
 WaitEventAutoScriptRun(4, false, false);
 SetDlgLower(11, 0, false);
-//未知对话
-//未知对话
+//这一大片红色的池子
+//应该就是赤鬼王所在的血池
 VideoUpdate(0, false);
 SetDlgUpper(23, 0, false);
-//未知对话
-//未知对话
+//天哪～好恶心．．
+//哪来这么多血水啊！？
 VideoUpdate(0, false);
 SetDlgLower(5, 0, false);
-//未知对话
-//未知对话
+//呸．．难闻死了
+//这股血腥味实在令人受不了
 VideoUpdate(0, false);
 SetDlgLower(11, 0, false);
-//未知对话
-//未知对话
+//这么多的血，可见这妖魔
+//不知残害了多少生命
 PartySetRole(1, 2, 3);
 EventSetState(59, 1, 0);
 EventSetState(59, 2, 0);
@@ -180,11 +180,11 @@ EventSetState(59, 61, 0);
 
 ['Event_00060_00065_Trigger'];
 SetDlgBox(0);
-//未知对话
+//从骷颅头内取得二只傀儡虫
 AddItem(92, 2);
 ReplaceAndPause();
 SetDlgBox(0);
-//未知对话
+//一具骷颅头
 
 ['Event_00060_00066_Trigger'];
 EventSetTriggerMode(-1, -1, false, -1);
@@ -192,27 +192,27 @@ MusicPlay(Music.十面埋伏, true, false);
 EventSetState(59, 67, 1);
 WaitEventAutoScriptRun(22, false, false);
 SetDlgLower(86, 0, false);
-//未知对话
-//未知对话
+//小石头：
+//主人～他就是赤鬼王！
 VideoUpdate(0, false);
 SetDlgUpper(61, 0, false);
-//未知对话
-//未知对话
-//未知对话
+//刚才我还在纳闷．．
+//凡人怎么可能到的了这里！？
+//原来～是玉佛珠在帮你们
 VideoRestore();
-//未知对话
-//未知对话
-//未知对话
-//未知对话
-//未知对话
+//哼！　小秃驴．．
+//你修你的佛，我炼我的魔
+//咱们曾言明井水不犯河水
+//今日你竟背信带凡人来砸
+//我的地盘！？
 VideoUpdate(0, false);
 SetDlgLower(1, 0, false);
-//未知对话
-//未知对话
-//未知对话
+//谁理你，看这血池就知道
+//你这妖魔残害了多少人命。
+//今日我等便要为世间除害！
 VideoUpdate(0, false);
 SetDlgUpper(61, 0, false);
-//未知对话
+//笑话．．！
 EventSetState(-1, -1, 0);
 SceneSetScript(60, "", "Scene_00061_Teleport");
 EventSetStateSequence(61, 6, 61, 15, 0);
@@ -241,7 +241,7 @@ SetBattlefield(FbpWin.血池_极阳地);
 BattleStart(27, "@A073", "");
 AddItem(207, 0);
 SetDlgBox(0);
-//未知对话
+//得到一颗土灵珠
 SetBattlefield(FbpWin.血池);
 SetBattleMusic(Music.心急如焚);
 MusicPlay(Music.血海余生, true, false);
@@ -251,48 +251,48 @@ EventSetState(59, 67, 0);
 VideoShake(72, 0);
 FadeToScene(5, -1);
 SetDlgLower(11, 0, false);
-//未知对话
-//未知对话
+//原来．．．
+//土灵珠在这妖怪身上！
 RoleSetDirFrame(3, 0, 0);
 VideoUpdate(0, false);
 SetDlgUpper(1, 0, false);
-//未知对话
+//土灵珠．．这又是啥玩意？
 VideoUpdate(0, false);
 SetDlgLower(11, 0, false);
-//未知对话
-//未知对话
-//未知对话
-//未知对话
-//未知对话
-//未知对话
-//未知对话
+//我听师父说过．．自古相传
+//女娲大神聚天地灵气～风、雷
+//、水、火、土，炼成五珠以镇
+//伏群魔。
+//传说～这些灵珠早已失落多年
+//我们今日竟能得到此物，莫非
+//是天意．．
 VideoUpdate(0, false);
 SetDlgUpper(3, 0, false);
-//未知对话
-//未知对话
+//哈！　既然是千年古物．．
+//应该值不少钱啰！
 SetDlgLower(22, 0, false);
-//未知对话
+//就只会想到钱！
 VideoUpdate(0, false);
 SetDlgLower(11, 0, false);
-//未知对话
-//未知对话
-//未知对话
+//我们逃脱这洞窟就靠这灵珠了
+//灵珠于此时此地现世，或许意
+//谓着．．我．．不该再躲藏了
 VideoUpdate(0, false);
 SetDlgUpper(4, 0, false);
-//未知对话
-//未知对话
-//未知对话
+//灵儿．．怎么你今天讲的话
+//都好深奥，好像变个人似的
+//是有什么心事吗？
 VideoUpdate(0, false);
 SetDlgLower(11, 0, false);
-//未知对话
-//未知对话
-//未知对话
+//没．．没有啦，我没事
+//这些日子．．我过得很快乐
+//你们不要担心．．
 SetDlgUpper(24, 0, false);
-//未知对话
+//．．．．．．．．
 VideoUpdate(0, false);
 SetDlgLower(11, 0, false);
-//未知对话
-//未知对话
+//我们快离开这里吧
+//村民们在等我们的好消息呢
 
 ['Event_00060_00067_Auto'];
 WaitEventAutoScriptRun(2, false, false);
@@ -309,72 +309,72 @@ NpcSetFrame(5);
 ['Event_00060_00093_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//未知对话
+//获得观音符
 AddItem(1, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 ['Event_00060_00090_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//未知对话
+//获得还魂香
 AddItem(35, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 ['Event_00060_00094_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//未知对话
+//获得赎魂灯
 AddItem(36, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 ['Event_00060_00092_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//未知对话
+//获得透骨钉
 AddItem(95, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 ['Event_00060_00096_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//未知对话
+//获得土灵符
 AddItem(11, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 Call("@8E99");
 SetDlgBox(0);
-//未知对话
+//获得毒蛇卵
 AddItem(57, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 Call("@8E99");
 SetDlgBox(0);
-//未知对话
+//获得毒蝎卵
 AddItem(58, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 Call("@8E99");
 SetDlgBox(0);
-//未知对话
+//获得毒蟾卵
 AddItem(59, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 Call("@8E99");
 SetDlgBox(0);
-//未知对话
+//获得蜘蛛卵
 AddItem(60, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 Call("@8E99");
 SetDlgBox(0);
-//未知对话
+//获得蜈蚣卵
 AddItem(61, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 ['Event_00060_00091_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//未知对话
+//获得净衣符
 AddItem(4, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 

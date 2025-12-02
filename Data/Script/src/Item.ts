@@ -1032,7 +1032,7 @@ RemoveItem(61, 1, "@9AAB");
 ['@9AB7'];
 AddItem(88, 0);
 SetDlgBox(0);
-//未知对话
+//炼成一只蛊．．
 
 ['Item_00086_Throw'];
 SimulateRoleMagic(73, 0, 0);
@@ -1040,10 +1040,10 @@ SimulateRoleMagic(73, 0, 0);
 ['Item_00220_Use'];
 VideoUpdate(0, false);
 SetDlgCenter(0, false);
-//未知对话
-//未知对话
-//未知对话
-//未知对话
+//打开包袱，里面有５００文钱
+//一本手卷，一些疗伤药、一双
+//绣花鞋、玉镯子、以及一把略
+//为生锈的铁剑．．
 CashModify(500, "");
 AddItem(41, 2);
 AddItem(45, 2);
@@ -1053,9 +1053,9 @@ AddItem(108, 0);
 AddItem(233, 0);
 VideoUpdate(0, false);
 SetDlgLower(0, 0, false);
-//未知对话
-//未知对话
-//未知对话
+//咦？这不是爹的配剑吗，我还
+//以为不见了呢，原来婶婶一直
+//把它收藏著．．
 
 ['Item_00219_Use'];
 JumpIfPartyNotFacingEvent(17, 4, 1, "@9AD2");
@@ -1162,7 +1162,7 @@ RemoveItem(229, 0, "");
 ['Item_00230_Use'];
 VideoUpdate(0, false);
 SetDlgLower(69, 0, false);
-//未知对话
+//我在看书，没事别吵我！
 
 ['Item_00231_Use'];
 JumpIfPartyNotFacingEvent(192, 57, 1, "@9B51");
@@ -1230,22 +1230,22 @@ RemoveItem(232, 0, "");
 ['Item_00233_Use'];
 VideoUpdate(0, false);
 SetDlgLower(0, 0, false);
-//未知对话
-//未知对话
-//未知对话
+//手卷上记载著：
+//"飞龙探云手"以及"冰心诀"
+//的口诀及图解还有一封信
 VideoUpdate(0, false);
-//未知对话
-//未知对话
-//未知对话
-//未知对话
-//未知对话
-//未知对话
+//信上写著：
+//逍遥．．
+//探云手乃你爹娘生前成名于江
+//湖的绝技，现在是传给你的时
+//候了，你要将此绝技用于正途
+//切莫辱没你爹南盗侠的美名
 HeroAddMagic(76, 1);
 HeroAddMagic(14, 1);
 VideoUpdate(0, false);
 SetDlgCenter(0, false);
-//未知对话
-//未知对话
+//李逍遥学得"飞龙探云手"
+//及"冰心诀"二种绝技
 
 ['Item_00025_Use'];
 RoleSetStatus(Status.CannotUseMagic, 3);

@@ -16,40 +16,40 @@ FadeOut(0);
 ['Event_00220_00030_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//未知对话
+//获得毒龙砂
 AddItem(97, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 ['Event_00220_00016_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//未知对话
+//获得９个毒蛇卵
 AddItem(57, 9);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 ['Event_00220_00017_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//未知对话
+//获得９个毒蝎卵
 AddItem(58, 9);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 ['Event_00220_00020_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//未知对话
+//获得９个蜈蚣卵
 AddItem(61, 9);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 Call("@8E99");
 SetDlgBox(0);
-//未知对话
+//获得腐尸肉
 AddItem(56, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 Call("@8E99");
 SetDlgBox(0);
-//未知对话
+//获得腹蛇涎
 AddItem(70, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 

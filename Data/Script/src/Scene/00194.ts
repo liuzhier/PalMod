@@ -6,11 +6,11 @@ PartySetPos(35, 45, 1);
 VideoFadeAndUpdate(2);
 WaitEventAutoScriptRun(9, false, false);
 SetDlgLower(10, 0, false);
-//未知对话
-//未知对话
+//李逍遥：
+//$03你！．．啊～野蛮丫头！~50
 SetDlgUpper(21, 0, false);
-//未知对话
-//未知对话
+//林月如：
+//$06亏你还认得我呀～呆瓜小贼！~70
 FadeOut(3);
 SceneEnter(195);
 

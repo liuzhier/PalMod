@@ -2,7 +2,7 @@
 NpcSetFrame(1);
 VideoUpdate(0, false);
 SetDlgBox(0);
-//未知对话
+//摘得两支"香蕉"
 AddItem(231, 2);
 ReplaceAndPause();
 
@@ -18,61 +18,61 @@ FadeOut(0);
 
 ['Event_00177_00003_Trigger'];
 SetDlgBox(0);
-//未知对话
+//得到九只蛊
 AddItem(88, 9);
 ReplaceAndPause();
 
 ['Event_00177_00004_Trigger'];
 SetDlgBox(0);
-//未知对话
+//采得二株忘魂花
 AddItem(67, 2);
 ReplaceAndPause();
 
 ['Event_00177_00005_Trigger'];
 SetDlgBox(0);
-//未知对话
+//得一株血海棠
 AddItem(64, 0);
 ReplaceAndPause();
 
 ['Event_00177_00006_Trigger'];
 SetDlgBox(0);
-//未知对话
+//采得二颗试炼果
 AddItem(52, 2);
 ReplaceAndPause();
 
 ['Event_00177_00007_Trigger'];
 SetDlgBox(0);
-//未知对话
+//采得一颗鼠儿果
 AddItem(44, 0);
 
 ['Event_00177_00008_Trigger'];
 SetDlgBox(0);
-//未知对话
+//采得一颗龙涎草
 AddItem(46, 0);
 ReplaceAndPause();
 
 ['Event_00177_00009_Trigger'];
 SetDlgBox(0);
-//未知对话
+//采得一颗九节菖蒲
 AddItem(29, 0);
 ReplaceAndPause();
 
 ['Event_00177_00013_Trigger'];
 EventSetState(-1, -1, 0);
 VideoUpdate(0, false);
-//未知对话
+//摘得一株紫罂粟
 AddItem(68, 0);
 
 ['Event_00177_00014_Trigger'];
 EventSetState(-1, -1, 0);
 VideoUpdate(0, false);
-//未知对话
+//摘得一株醍醐香
 AddItem(66, 0);
 
 ['Event_00177_00015_Trigger'];
 EventSetState(-1, -1, 0);
 VideoUpdate(0, false);
-//未知对话
+//摘得一株鬼枯藤
 AddItem(69, 0);
 
 ['Scene_00177_Enter'];
@@ -83,7 +83,7 @@ EventSetState(-1, -1, 0);
 VideoUpdate(0, false);
 PlaySound(78);
 SetDlgBox(0);
-//未知对话
+//获得灵山仙芝
 AddItem(47, 0);
 
 ['Event_00177_00016_Auto'];

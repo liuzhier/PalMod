@@ -31,7 +31,7 @@ SetBattleMusic(Music.战意昂);
 ['Event_00062_00016_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//未知对话
+//获得引路蜂
 AddItem(91, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 

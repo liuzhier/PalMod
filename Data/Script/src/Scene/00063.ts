@@ -19,34 +19,34 @@ SetBattlefield(FbpWin.客栈);
 ['Event_00063_00006_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//未知对话
+//获得金刚符
 AddItem(3, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 ['Event_00063_00005_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//未知对话
+//获得糯米
 AddItem(15, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 Call("@8E99");
 SetDlgBox(0);
-//未知对话
+//获得糯米糕
 AddItem(16, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 ['Event_00063_00011_Trigger'];
 PlaySound(78);
 SetDlgBox(0);
-//未知对话
+//发现雄黄酒
 AddItem(28, 0);
 EventSetState(-1, -1, 0);
 
 ['Event_00063_00008_Trigger'];
 PlaySound(78);
 SetDlgBox(0);
-//未知对话
+//发现布袍
 AddItem(148, 0);
 EventSetState(-1, -1, 0);
 

@@ -21,28 +21,28 @@ MusicPlay(Music.险境_2, true, false);
 ['Event_00105_00039_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//未知对话
+//获得雪蛤蟆
 AddItem(72, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 ['Event_00105_00031_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//未知对话
+//获得紫罂粟
 AddItem(68, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 ['Event_00105_00032_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//未知对话
+//获得九只蛊
 AddItem(88, 9);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 ['Event_00105_00035_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//未知对话
+//获得灵蛊
 AddItem(85, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 

@@ -1,7 +1,7 @@
 {
   "Name": "回梦",
   "Description": [
-    "未知实体描述"
+    "敌方单人昏睡四回合。"
   ],
   "CostMP": 20,
   "BaseDamage": -999,

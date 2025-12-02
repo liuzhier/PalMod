@@ -206,7 +206,7 @@ WaitEventAutoScriptRun(2, false, false);
 NpcSetFrame(6);
 WaitEventAutoScriptRun(2, false, false);
 SetDlgUpper(0, 0, false);
-//未知对话
+//是～谁～吵～醒～本～将～军
 EventSetState(-1, -1, 0);
 SetBattleMusic(Music.兵凶战危_2);
 SetBattlefield(FbpWin.将军冢_阴森所在);
@@ -217,83 +217,83 @@ SceneEnter(67);
 ['Event_00066_00088_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//未知对话
+//获得８００文钱
 CashModify(800, "");
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 ['Event_00066_00099_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//未知对话
+//获得大刀
 AddItem(109, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 Call("@8E99");
 SetDlgBox(0);
-//未知对话
+//获得长剑
 AddItem(111, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 Call("@8E99");
 SetDlgBox(0);
-//未知对话
+//获得长鞭
 AddItem(103, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 Call("@8E99");
 SetDlgBox(0);
-//未知对话
+//获得仙女剑
 AddItem(110, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 Call("@8E99");
 SetDlgBox(0);
-//未知对话
+//获得越女剑
 AddItem(113, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 Call("@8E99");
 SetDlgBox(0);
-//未知对话
+//获得红缨刀
 AddItem(112, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 Call("@8E99");
 SetDlgBox(0);
-//未知对话
+//获得芙蓉刀
 AddItem(116, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 ['Event_00066_00087_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//未知对话
+//获得护肩
 AddItem(166, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 ['Event_00066_00093_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//未知对话
+//获得铁护腕
 AddItem(190, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 Call("@8E99");
 SetDlgBox(0);
-//未知对话
+//获得竹笛
 AddItem(191, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 Call("@8E99");
 SetDlgBox(0);
-//未知对话
+//获得香袋
 AddItem(188, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 ['Event_00066_00090_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//未知对话
+//获得鬼枯藤
 AddItem(69, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 

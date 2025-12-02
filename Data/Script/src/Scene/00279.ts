@@ -20,31 +20,31 @@ PartyWalkToBlock(44, 69, 0, 8);
 RoleSetDirFrame(2, 0, 0);
 VideoUpdate(0, false);
 SetDlgUpper(88, 0, false);
-//未知对话
-//未知对话
+//赵灵儿：
+//爹～　我是灵儿
 MusicPlay(Music.今生情不悔, true, false);
 VideoUpdate(0, false);
 SetDlgLower(70, 0, false);
-//未知对话
-//未知对话
-//未知对话
+//巫王：
+//青．．青妹．．是你回来
+//回来．．向我索命吗！
 VideoUpdate(0, false);
 SetDlgUpper(88, 0, false);
-//未知对话
-//未知对话
-//未知对话
+//赵灵儿：
+//爹～　我是灵儿
+//是您的女儿啊！
 EventSetState(278, 4, 0);
 EventSetState(278, 5, 1);
 WaitEventAutoScriptRun(12, false, false);
 SetDlgLower(70, 0, false);
-//未知对话
-//未知对话
+//巫王：
+//真的是你．．吗？　灵儿．．
 VideoRestore();
-//未知对话
-//未知对话
+//没．．没错．．　就和当年
+//的阿青一模一样！
 VideoRestore();
-//未知对话
-//未知对话
+//快．．快过来．．
+//让父王．．看看你．．
 HeroSetSprite(0, 232, false);
 PartySetRole(1, 0, 0);
 RoleSetDirFrame(0, 0, 0);
@@ -52,38 +52,38 @@ EventSetStateSequence(278, 10, 278, 12, 1);
 EventSetState(285, 2, 0);
 WaitEventAutoScriptRun(12, false, false);
 SetDlgLower(70, 0, false);
-//未知对话
-//未知对话
-//未知对话
-//未知对话
+//巫王：
+//女儿．．是爹无能，是爹逼死
+//你母亲的，但是．．爹也遭到
+//了报应．．
 VideoRestore();
-//未知对话
-//未知对话
-//未知对话
+//王宫中所有人．．都弃父王
+//而去了，爹自知．．爹没有
+//多少日子可活了
 VideoRestore();
-//未知对话
-//未知对话
-//未知对话
+//我只希望．．在我死前．．
+//能够得到你的原谅．．
+//女儿．．你能．．原谅爹吗？
 VideoUpdate(0, false);
 SetDlgUpper(88, 0, false);
-//未知对话
-//未知对话
-//未知对话
+//赵灵儿：
+//无论您以前做了什么
+//您还是我的父亲．．
 VideoUpdate(0, false);
 SetDlgLower(70, 0, false);
-//未知对话
-//未知对话
-//未知对话
-//未知对话
+//巫王：
+//太．．太好了．．
+//灵儿～今后．．你要接下爹
+//的王位，替爹挽救这个国家
 EventSetState(278, 7, 1);
 EventSetState(278, 8, 1);
 EventSetState(278, 9, 1);
 WaitEventAutoScriptRun(24, false, false);
 MusicPlay(Music.危机, true, false);
 SetDlgLower(81, 0, false);
-//未知对话
-//未知对话
-//未知对话
+//拜月教主：
+//大王～　我反对！
+//怎可让一位妖女当我们的领袖
 VideoUpdate(0, false);
 EventSetDirFrame(278, 11, 0, 0);
 VideoUpdate(0, false);
@@ -91,24 +91,24 @@ EventSetDirFrame(278, 10, 0, 0);
 VideoUpdate(0, false);
 EventSetDirFrame(278, 12, 0, 0);
 SetDlgUpper(30, 0, false);
-//未知对话
-//未知对话
-//未知对话
-//未知对话
+//阿奴：
+//你这老贼！害死我好多族人
+//灵儿姐姐登基后第一件事，
+//就是将你斩首示众！
 VideoUpdate(0, false);
 SetDlgUpper(88, 0, false);
-//未知对话
-//未知对话
-//未知对话
-//未知对话
-//未知对话
+//赵灵儿：
+//我无心于王位、也不想报仇
+//念在你是元老重臣，只要你
+//发誓不再使用邪魔兽，我可
+//以饶你一命
 VideoUpdate(0, false);
 SetDlgLower(81, 0, false);
-//未知对话
-//未知对话
-//未知对话
+//拜月教主：
+//哈哈哈～天大的笑话！
+//你们这些小娃儿能耐我何？
 VideoRestore();
-//未知对话
+//殿前武士～将他们拿下！
 PartySetRole(1, 2, 5);
 SetBattleMusic(Music.心急如焚);
 SetBattlefield(FbpWin.南绍_王座);
@@ -124,11 +124,11 @@ EventSetStateSequence(278, 10, 278, 12, 0);
 EventSetState(278, 5, 0);
 VideoUpdate(0, false);
 SetDlgUpper(81, 0, false);
-//未知对话
-//未知对话
+//拜月教主：
+//哼．．．可恶的小鬼！
 SetDlgLower(9, 0, false);
-//未知对话
-//未知对话
+//李逍遥：
+//老妖怪～轮到你了！
 VideoUpdate(0, false);
 RoleSetDirFrame(0, 1, 0);
 WaitEventAutoScriptRun(2, false, false);
@@ -139,7 +139,7 @@ RoleSetDirFrame(0, 3, 0);
 VideoUpdate(0, false);
 PlaySound(20);
 SetDlgCenter(0, false);
-//未知对话
+//$00啊～你！！~50
 HeroSetSprite(0, 631, true);
 RoleSetDirFrame(0, 0, 0);
 WaitEventAutoScriptRun(0, false, false);
@@ -157,8 +157,8 @@ RoleSetDirFrame(0, 6, 0);
 WaitEventAutoScriptRun(0, false, false);
 MusicPlay(Music.十面埋伏, true, false);
 SetDlgUpper(28, 0, false);
-//未知对话
-//未知对话
+//阿奴：
+//灵儿姐姐！！~50
 HeroSetSprite(0, 632, true);
 RoleSetDirFrame(0, 0, 0);
 WaitEventAutoScriptRun(0, false, false);
@@ -173,17 +173,17 @@ WaitEventAutoScriptRun(0, false, false);
 RoleSetDirFrame(0, 5, 0);
 WaitEventAutoScriptRun(3, false, false);
 SetDlgLower(0, 0, false);
-//未知对话
-//未知对话
+//李逍遥：
+//$02灵儿！！
 WaitEventAutoScriptRun(2, false, false);
 RoleSetDirFrame(0, 6, 0);
 PlaySound(212);
 FadeToScene(3, -1);
 SetDlgLower(81, 0, false);
-//未知对话
-//未知对话
-//未知对话
-//未知对话
+//拜月教主：
+//哈哈哈．．无知的小鬼！
+//真正的巫王早就被我杀了
+//就让假的陪你们玩玩吧！
 EventSetState(278, 7, 0);
 PlaySound(217);
 FadeToScene(2, -1);
@@ -202,22 +202,22 @@ PartySetRole(1, 0, 0);
 RoleSetDirFrame(0, 7, 0);
 VideoUpdate(0, false);
 SetDlgLower(4, 0, false);
-//未知对话
-//未知对话
+//李逍遥：
+//灵儿！你振作点！
 VideoUpdate(0, false);
 SetDlgUpper(31, 0, false);
-//未知对话
-//未知对话
-//未知对话
-//未知对话
+//阿奴：
+//呜～我．．我已经施了赎魂咒
+//但是．．但是．．灵儿姐姐
+//还是没有心跳啊！
 HeroSetSprite(0, 2, true);
 RoleSetDirFrame(1, 0, 0);
 WaitEventAutoScriptRun(3, false, false);
 RoleSetDirFrame(0, 0, 0);
 VideoUpdate(0, false);
 SetDlgLower(5, 0, false);
-//未知对话
-//未知对话
+//李逍遥：
+//可恶！！　我替灵儿报仇！
 
 ['Event_00279_00005_Auto'];
 WaitEventAutoScriptRun(3, false, false);
@@ -241,5 +241,5 @@ ReplaceAndPauseWithNop("Event_00279_00012_Auto", 4);
 
 ['Event_00279_00013_Trigger'];
 SetDlgCenter(0, false);
-//未知对话
+//阿奴施法急救赵灵儿
 

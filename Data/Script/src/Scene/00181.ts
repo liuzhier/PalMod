@@ -13,8 +13,8 @@ MusicStop(0);
 PlaySound(103);
 FadeToScene(2, -1);
 SetDlgCenter(0, false);
-//未知对话
-//未知对话
+//阿奴祭起风灵珠
+//随即一阵风吹散了浓雾
 Replace();
 SetBattlefield(FbpWin.桃花源_外围);
 SetBattleMusic(Music.心急如焚);
@@ -35,7 +35,7 @@ EventSetState(-1, -1, 0);
 VideoUpdate(0, false);
 PlaySound(78);
 SetDlgBox(0);
-//未知对话
+//摘得蟠果
 AddItem(42, 0);
 
 ['Event_00181_00006_Auto'];

@@ -15,27 +15,27 @@ FadeOut(0);
 
 ['Event_00027_00004_Trigger'];
 SetDlgBox(0);
-//未知对话
+//满桌都是吃剩的酒菜
 
 ['Event_00027_00008_Trigger'];
 SetDlgLower(1, 0, false);
-//未知对话
-//未知对话
+//李逍遥：
+//灵儿～该起床了！
 SetDlgUpper(0, 0, false);
-//未知对话
-//未知对话
+//赵灵儿：
+//唔～　人家还要睡嘛．．
 WaitEventAutoScriptRun(8, false, false);
 SetDlgLower(1, 0, false);
-//未知对话
-//未知对话
-//未知对话
-//未知对话
+//李逍遥：
+//太阳晒屁股啰～快起来快起来
+//逍遥哥哥说好要带你逛苏州城
+//你再赖床，我就不带你去啰！
 EventSetState(-1, -1, 0);
 EventSetState(26, 9, 1);
 VideoUpdate(0, false);
 SetDlgUpper(12, 0, false);
-//未知对话
-//未知对话
+//赵灵儿：
+//嘻～　人家要去！
 EventSetState(26, 9, 0);
 PartySetRole(1, 2, 0);
 EventSetTriggerScript(25, 15, "Event_00026_00015_Trigger");
@@ -49,20 +49,20 @@ WaitEventAutoScriptRun(7, false, false);
 ReplaceAndPauseWithNop("Event_00027_00006_Auto", 0);
 
 ['Event_00027_00011_Trigger'];
-//未知对话
-//未知对话
-//未知对话
-//未知对话
+//赵海：
+//我乃是太湖巨鲸帮少帮
+//主─赵海，林天南的女儿
+//我是要定了。
 VideoRestore();
-//未知对话
+//你们别想跟我抢！
 
 ['Event_00027_00012_Trigger'];
-//未知对话
-//未知对话
-//未知对话
-//未知对话
+//宋元祺：
+//吾乃岭南十三鹰排行老七的
+//宋元祺，阁下八成也是来
+//参加林家的比武招亲吧？
 SetDlgLower(0, 0, false);
-//未知对话
-//未知对话
-//未知对话
+//李逍遥：
+//不是！不是！
+//我们只是路过此地的人。
 

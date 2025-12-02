@@ -18,10 +18,10 @@ MusicPlay(Music.富甲一方, true, false);
 PartySetPos(48, 67, 0);
 RoleSetDirFrame(3, 0, 0);
 VideoUpdate(0, false);
-//未知对话
-//未知对话
-//未知对话
-//未知对话
+//春兰：
+//姑爷～您若是还有任何需要的
+//请尽量吩咐我们下人们，奴婢
+//先下去了
 WaitEventAutoScriptRun(16, false, false);
 RoleSetDirFrame(0, 0, 0);
 WaitEventAutoScriptRun(8, false, false);
@@ -34,9 +34,9 @@ WaitEventAutoScriptRun(8, false, false);
 RoleSetDirFrame(2, 0, 0);
 WaitEventAutoScriptRun(4, false, false);
 SetDlgLower(1, 0, false);
-//未知对话
-//未知对话
-//未知对话
+//李逍遥：
+//哇．．好漂亮的房子
+//大户人家就是不一样
 ReplaceAndPause();
 SetPaletteTime(0);
 
@@ -49,21 +49,21 @@ EventSetState(-1, -1, 0);
 ['Event_00039_00012_Trigger'];
 PlaySound(78);
 SetDlgBox(0);
-//未知对话
+//发现木鞋
 AddItem(176, 0);
 EventSetState(-1, -1, 0);
 
 ['Event_00039_00009_Trigger'];
 PlaySound(78);
 SetDlgBox(0);
-//未知对话
+//发现香袋
 AddItem(188, 0);
 EventSetState(-1, -1, 0);
 
 ['Event_00039_00011_Trigger'];
 PlaySound(78);
 SetDlgBox(0);
-//未知对话
+//发现金刚符
 AddItem(3, 0);
 EventSetState(-1, -1, 0);
 

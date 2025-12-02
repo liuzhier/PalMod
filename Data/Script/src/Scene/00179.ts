@@ -5,6 +5,6 @@ FadeOut(0);
 
 ['Event_00179_00002_Trigger'];
 SetDlgCenter(0, false);
-//未知对话
+//树林内弥漫着浓雾，无法前进
 RoleMoveOneStep(16, 8, 0);
 

@@ -14,5 +14,5 @@ EventSetState(262, 3, 0);
 AddItem(135, 0);
 VideoUpdate(0, false);
 SetDlgBox(0);
-//未知对话
+//取得 天蛇杖
 

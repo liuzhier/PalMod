@@ -6,7 +6,7 @@ FadeOut(0);
 ['Event_00108_00005_Trigger'];
 PlaySound(177);
 SetDlgCenter(0, false);
-//未知对话
+//哞．．．
 
 ['Event_00108_00001_Trigger'];
 SceneEnter(107);

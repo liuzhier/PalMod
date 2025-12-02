@@ -115,7 +115,7 @@ ReplaceAndPause();
 ReplaceAndPause();
 HeroRemoveMagic(30008, 1);
 SetDlgCenter(0, false);
-//未知对话
+//"酒神咒"使用次数已用尽
 
 ['Magic_00088_Success'];
 RoleSetStatus(Status.DualAttack, 5);

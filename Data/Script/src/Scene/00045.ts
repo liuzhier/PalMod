@@ -26,7 +26,7 @@ MusicPlay(Music.步步为营, true, false);
 ['Event_00045_00015_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//未知对话
+//获得还神丹
 AddItem(45, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 

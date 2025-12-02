@@ -23,8 +23,8 @@ WaitEventAutoScriptRun(2, false, false);
 NpcSetDirFrame(0, 5);
 VideoUpdate(0, false);
 SetDlgLower(0, 0, false);
-//未知对话
-//未知对话
+//酒剑仙：
+//啊～　这酒来劲．．
 WaitEventAutoScriptRun(4, false, false);
 NpcSetDirFrame(0, 7);
 WaitEventAutoScriptRun(2, false, false);
@@ -49,18 +49,18 @@ WaitEventAutoScriptRun(0, false, false);
 NpcSetDirFrame(0, 11);
 WaitEventAutoScriptRun(4, false, false);
 SetDlgLower(37, 0, false);
-//未知对话
-//未知对话
-//未知对话
-//未知对话
+//酒剑仙：
+//我要开始施法啰！
+//我在还没完成以前，你们二人
+//千万不要离开我七步以外
 VideoRestore();
-//未知对话
-//未知对话
-//未知对话
+//无论发生了什么事，切记不可
+//轻举妄动。要不然有什么不良
+//后果，我可不负责喔！
 VideoUpdate(0, false);
 PlaySound(265);
 SetDlgCenter(0, false);
-//未知对话
+//喝～！
 MusicPlay(Music.醉仙驱魔, true, false);
 WaitEventAutoScriptRun(8, false, false);
 Call("@50E9");
@@ -78,46 +78,46 @@ EventSetAutoScript(115, 3, "@50DB");
 WaitEventAutoScriptRun(32, false, false);
 MusicStop(1);
 SetDlgLower(2, 0, false);
-//未知对话
-//未知对话
+//李逍遥：
+//师．．师父！？
 PartyWalkToBlock(34, 32, 1, 4);
 PartyWalkToBlock(36, 34, 0, 4);
 SetDlgCenter(0, false);
-//未知对话
+//Ｚ．．Ｚ．．Ｚ．．～
 WaitEventAutoScriptRun(8, false, false);
 SetDlgUpper(24, 0, false);
-//未知对话
-//未知对话
+//林月如：
+//他．．睡着了！？
 SetDlgLower(4, 0, false);
-//未知对话
-//未知对话
+//李逍遥：
+//看起来～好像是的．．
 VideoUpdate(0, false);
 SetDlgUpper(25, 0, false);
-//未知对话
-//未知对话
-//未知对话
+//林月如：
+//什么跟什么嘛！
+//又是一个来装神弄鬼的
 RoleSetDirFrame(1, 0, 0);
 VideoUpdate(0, false);
 SetDlgLower(2, 0, false);
-//未知对话
-//未知对话
-//未知对话
+//李逍遥：
+//不～师父的本领真的很高强
+//也许．．也许是．．
 VideoUpdate(0, false);
 SetDlgUpper(22, 0, false);
-//未知对话
-//未知对话
+//林月如：
+//也许是酒喝多了，是不是？
 EventSetAutoScript(115, 13, "@5129");
 WaitEventAutoScriptRun(8, false, false);
 RoleSetDirFrame(0, 0, 0);
 WaitEventAutoScriptRun(3, false, false);
 SetDlgLower(2, 0, false);
-//未知对话
-//未知对话
+//李逍遥：
+//月如！　等一下，你要去哪？
 WaitEventAutoScriptRun(0, false, false);
 SetDlgUpper(23, 0, false);
-//未知对话
-//未知对话
-//未知对话
+//林月如：
+//去找出妖怪呀！
+//难道还要在这里浪费时间？
 WaitEventAutoScriptRun(5, false, false);
 RoleSetDirFrame(3, 0, 0);
 WaitEventAutoScriptRun(6, false, false);
@@ -140,5 +140,5 @@ VideoWave(0, 0);
 MusicPlay(Music.宿命, true, false);
 ReplaceAndPause();
 SetDlgCenter(0, false);
-//未知对话
+//酒剑仙呼呼大睡中．．
 

@@ -28,7 +28,7 @@ RoleSetDirFrame(2, 0, 0);
 ViewportMove(4, -4, 24);
 ViewportMove(0, -2, 56);
 SetDlgLower(90, 0, false);
-//未知对话
+//逍遥哥．．哥．．
 EventSetState(145, 4, 1);
 PartySetRole(1, 0, 0);
 ViewportMove(0, 0, 0);
@@ -41,24 +41,24 @@ WaitEventAutoScriptRun(3, false, false);
 RoleMoveOneStep(-8, 4, 0);
 WaitEventAutoScriptRun(2, false, false);
 SetDlgLower(0, 0, false);
-//未知对话
-//未知对话
-//未知对话
+//李逍遥：
+//$09灵儿．．你．．真的．．
+//．．真的是你吗？~70
 ViewportMove(52, 11, -1);
 SetDlgLower(90, 0, false);
-//未知对话
-//未知对话
-//未知对话
-//未知对话
-//未知对话
+//$07我只是丑陋的蛇女
+//又失去化成人形的能力
+//活着对我来说．．已经
+//没有意义
+//你．．又何必犯险来救我~80
 ViewportMove(0, 0, 0);
 WaitEventAutoScriptRun(4, false, false);
 RoleSetDirFrame(3, 0, 0);
 WaitEventAutoScriptRun(4, false, false);
-//未知对话
+//$04不．．不可能！~70
 RoleSetDirFrame(0, 0, 0);
 VideoUpdate(0, false);
-//未知对话
+//$05我的灵儿．．我的灵儿是．．~60
 SceneEnter(170);
 PlayCDOrMusic(CD.情怨, Music.魂萦梦牵);
 FadeOut(2);

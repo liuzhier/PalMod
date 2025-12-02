@@ -76,21 +76,21 @@ ReplaceAndPauseWithNop("Event_00157_00021_Auto", 0);
 ['Event_00157_00056_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//未知对话
+//获得八卦镜
 AddItem(197, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 ['Event_00157_00064_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//未知对话
+//获得圣灵符
 AddItem(2, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 ['Event_00157_00057_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//未知对话
+//获得试炼果
 AddItem(52, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
