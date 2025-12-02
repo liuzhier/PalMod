@@ -10,19 +10,19 @@ SetDlgUpper(0, 0, false);
 //月如！　等等我．．
 VideoUpdate(0, false);
 SetDlgLower(82, 0, false);
-//老婆婆∶
+//老婆婆：
 //月神保佑．．
 //您可终于醒过来了！
 EventSetDirFrame(174, 4, 0, 2);
 VideoUpdate(0, false);
 SetDlgUpper(10, 0, false);
-//李逍遥∶
+//李逍遥：
 //我．．这里是．．
 VideoRestore();
 //她们．．月如和灵儿呢？
 VideoUpdate(0, false);
 SetDlgLower(82, 0, false);
-//老婆婆∶
+//老婆婆：
 //这里是我家，二位姑娘在
 //另外一间病房．．
 EventSetState(174, 4, 0);
@@ -32,7 +32,7 @@ WaitEventAutoScriptRun(2, false, false);
 EventSetDirFrame(174, 6, 3, 0);
 VideoUpdate(0, false);
 SetDlgUpper(82, 0, false);
-//老婆婆∶
+//老婆婆：
 //等等！你的伤的不轻啊
 //不可以乱动！~50
 PartyWalkToBlock(24, 36, 0, 8);
@@ -48,26 +48,26 @@ EventSetState(174, 6, 0);
 EventSetState(174, 7, 2);
 PartyWalkToBlock(18, 29, 0, 4);
 SetDlgLower(2, 0, false);
-//李逍遥∶
+//李逍遥：
 //　灵儿．．　听得见我吗？
 WaitEventAutoScriptRun(22, false, false);
 RoleSetDirFrame(3, 0, 0);
 WaitEventAutoScriptRun(4, false, false);
 SetDlgUpper(2, 0, false);
-//李逍遥∶
+//李逍遥：
 //老婆婆，灵儿要不要紧？
 VideoUpdate(0, false);
 SetDlgLower(82, 0, false);
-//老婆婆∶
+//老婆婆：
 //放心～女人虽弱、为母则强
 //照她的情形看来～死不了的！
 VideoUpdate(0, false);
 SetDlgUpper(1, 0, false);
-//李逍遥∶
+//李逍遥：
 //为母．．．？
 VideoUpdate(0, false);
 SetDlgLower(82, 0, false);
-//老婆婆∶
+//老婆婆：
 //这丫头一直凝聚着全身的真气
 //护着肚子里胎儿，只要这股气
 //不散，加上我的灵药，十天半
@@ -77,20 +77,20 @@ WaitEventAutoScriptRun(7, false, false);
 RoleSetDirFrame(3, 0, 0);
 VideoUpdate(0, false);
 SetDlgUpper(2, 0, false);
-//李逍遥∶
+//李逍遥：
 //胎儿．．我～我的？
 VideoUpdate(0, false);
 SetDlgLower(82, 0, false);
-//老婆婆∶
+//老婆婆：
 //这要问你自己，我怎么知道？
 RoleSetDirFrame(2, 0, 0);
 VideoUpdate(0, false);
 SetDlgUpper(3, 0, false);
-//李逍遥∶
+//李逍遥：
 //哈．．想不到我要当爹了)
 VideoUpdate(0, false);
 SetDlgLower(82, 0, false);
-//老婆婆∶
+//老婆婆：
 //别高兴的太早，她的身体能不
 //能复原还大有问题哩．．
 VideoRestore();
@@ -101,11 +101,11 @@ VideoRestore();
 RoleSetDirFrame(3, 0, 0);
 VideoUpdate(0, false);
 SetDlgUpper(4, 0, false);
-//李逍遥∶
+//李逍遥：
 //仙药？
 VideoUpdate(0, false);
 SetDlgLower(82, 0, false);
-//老婆婆∶
+//老婆婆：
 //要治好她们母子的伤
 //唯有得"凤凰蛋"、"麒麟角"二物
 VideoRestore();
@@ -119,7 +119,7 @@ VideoRestore();
 //则会遭天谴
 VideoUpdate(0, false);
 SetDlgUpper(9, 0, false);
-//李逍遥∶
+//李逍遥：
 //好～取药的事就交给我！
 VideoRestore();
 //对了．．月如呢？
@@ -130,7 +130,7 @@ VideoUpdate(0, false);
 EventSetDirFrame(174, 7, 0, 0);
 WaitEventAutoScriptRun(6, false, false);
 SetDlgLower(82, 0, false);
-//老婆婆∶
+//老婆婆：
 //唉．．有你这句话
 //她可以瞑目了．．
 RoleSetDirFrame(0, 0, 0);
@@ -146,7 +146,7 @@ VideoUpdate(0, false);
 EventSetDirFrame(174, 7, 3, 0);
 WaitEventAutoScriptRun(2, false, false);
 SetDlgLower(82, 0, false);
-//老婆婆∶
+//老婆婆：
 //$05天灵碎裂，回天乏术．．送到
 //我这里来时，就已经断气了
 RoleSetDirFrame(0, 0, 0);
@@ -187,27 +187,27 @@ ReplaceAndPause();
 
 ['Event_00175_00008_Trigger'];
 SetDlgLower(82, 0, false);
-//老婆婆∶
+//老婆婆：
 //你的伤好的差不多了
 //可以出去走走啦，两个丫头
 //婆婆我会替你看好的
 ReplaceAndPause();
 SetDlgLower(82, 0, false);
-//老婆婆∶
+//老婆婆：
 //千万记住喔～
 //金翅凤凰喜欢在巨树顶端筑巢
 //你到神木林高处找找，也许会
 //有收获
 ReplaceAndPause();
 SetDlgLower(82, 0, false);
-//老婆婆∶
+//老婆婆：
 //大理城外附近黑苗、白苗二族
 //经常发生战争，我建议你暂时
 //不要靠近那里，等局面平静些
 //再去火麟洞吧
 ReplaceAndPause();
 SetDlgLower(82, 0, false);
-//老婆婆∶
+//老婆婆：
 //对了．．我这房里有许多毒蛊
 //和灵药，你可以自由运用
 VideoRestore();
@@ -259,7 +259,7 @@ ReplaceAndPause();
 
 ['Event_00175_00011_Trigger'];
 SetDlgLower(0, 0, false);
-//李逍遥∶
+//李逍遥：
 //忆如～爹要出去打坏人
 //你要乖乖的喔！
 

@@ -182,48 +182,48 @@ BattleEnemyEscape();
 ['Enemy_00099_TurnStart'];
 JumpIfHeroInParty(6, "@A201");
 SetDlgLower(18, 0, false);
-//赵灵儿∶
+//赵灵儿：
 //快把梦慈姐姐放了！
 VideoUpdate(0, false);
 SetDlgUpper(60, 0, false);
-//石长老∶
+//石长老：
 //公主殿下请放心，我们的
 //目的不是韩姑娘。只要殿
 //下跟我们走，我们绝不为
 //难其他任何人
 VideoUpdate(0, false);
 SetDlgLower(11, 0, false);
-//赵灵儿∶
+//赵灵儿：
 //你们把梦慈姐姐抓来
 //就是为了把我们引来？
 VideoUpdate(0, false);
 SetDlgUpper(60, 0, false);
-//石长老∶
+//石长老：
 //为了大事，用了一点手段
 //还请殿下见谅．．
 VideoUpdate(0, false);
 SetDlgLower(7, 0, false);
-//李逍遥∶
+//李逍遥：
 //死了这条心吧！
 //灵儿不会跟你们走的
 VideoUpdate(0, false);
 SetDlgUpper(60, 0, false);
-//石长老∶
+//石长老：
 //哦？　如果软的不行
 //要我们来硬的也可以！
 VideoUpdate(0, false);
 SetDlgLower(9, 0, false);
-//李逍遥∶
+//李逍遥：
 //来呀！　怕你不成？
 VideoUpdate(0, false);
 SetDlgUpper(60, 0, false);
-//石长老∶
+//石长老：
 //哼！　不知死活的小子
 ReplaceAndPause();
 
 ['Enemy_00128_TurnStart'];
 SetDlgUpper(0, 0, false);
-//林天南∶
+//林天南：
 //拿出你的真本领吧！
 //不然．．死在我的剑下
 //就别怨我
@@ -232,7 +232,7 @@ ReplaceAndPause();
 ReplaceAndPause();
 ReplaceAndPause();
 SetDlgUpper(0, 0, false);
-//林天南∶
+//林天南：
 //　注意了！
 ReplaceAndPause();
 ReplaceAndPause();
@@ -243,7 +243,7 @@ BattleSetResult(BattleResult.脚本结束);
 EnemySetMagic(0, 0);
 ReplaceAndPause();
 SetDlgUpper(0, 0, false);
-//林天南∶
+//林天南：
 //好～　第二剑！
 EnemySetMagic(40, 0);
 ReplaceAndPause();
@@ -255,29 +255,29 @@ EnemySetMagic(79, 0);
 ReplaceAndPause();
 EnemySetMagic(78, 0);
 ReplaceAndPause();
-//林天南∶
+//林天南：
 //最后一招～看清楚了！
 EnemySetMagic(45, 0);
 ReplaceAndPause();
 
 ['Enemy_00038_TurnStart'];
 PlaySound(245);
-//蜘蛛精∶
+//蜘蛛精：
 //不自量力的家伙！
 ReplaceAndPause();
 ReplaceAndPause();
-//蜘蛛精∶
+//蜘蛛精：
 //可恶！给你们点厉害瞧瞧！
 EnemySetMagic(23, 0);
 ReplaceAndPause();
 ReplaceAndPause();
-//蜘蛛精∶
+//蜘蛛精：
 //哇～哈～哈～受不住了吧！
 //我还有更厉害的招术
 EnemySetMagic(24, 0);
 ReplaceAndPause();
 ReplaceAndPause();
-//蜘蛛精∶
+//蜘蛛精：
 //死吧！
 EnemySetMagic(25, 0);
 ReplaceAndPause();
@@ -311,29 +311,29 @@ ReplaceAndPause();
 EnemySetMagic(34, 0);
 ReplaceAndPause();
 SetDlgLower(10, 0, false);
-//李逍遥∶
+//李逍遥：
 //等等～！
 BattleSetResult(BattleResult.脚本结束);
 
 ['Enemy_00122_TurnStart'];
 SetDlgLower(5, 0, false);
-//李逍遥∶
+//李逍遥：
 //灵儿犯了什么罪？
 //你们要如此迫害于她！
 VideoUpdate(0, false);
 SetDlgUpper(0, 0, false);
-//镇狱明王∶
+//镇狱明王：
 //此蛇女具有极可怕的妖力潜能
 //如不将之铲除，一旦任其觉醒
 //必将危祸人世！
 VideoUpdate(0, false);
 SetDlgLower(5, 0, false);
-//李逍遥∶
+//李逍遥：
 //是妖怪又怎么样
 //她又不曾害过任何人！
 VideoUpdate(0, false);
 SetDlgUpper(0, 0, false);
-//镇狱明王∶
+//镇狱明王：
 //哼！幼虎虽温驯，谁敢保证将
 //来不会成为一头吃人的猛虎？
 VideoRestore();
@@ -342,18 +342,18 @@ VideoRestore();
 //绝不容情！
 VideoUpdate(0, false);
 SetDlgLower(5, 0, false);
-//李逍遥∶
+//李逍遥：
 //放屁！　神又怎么样
 //生了六只手、三只眼睛
 //一付嘴脸比妖怪更像妖怪
 VideoRestore();
 //灵儿天生灵力高强，是她的
-//的福气，你们嫉妒什么！？
+//福气，你们嫉妒什么！？
 //你呢～　你不也是法力无边
 //怎么不先杀掉你自己？
 VideoUpdate(0, false);
 SetDlgUpper(0, 0, false);
-//镇狱明王∶
+//镇狱明王：
 //无知愚民！我乃仙界之神明
 //不同于这般下等山精水怪
 VideoUpdate(0, false);
@@ -362,13 +362,13 @@ VideoUpdate(0, false);
 //炼狱之中，受永世劫火之苦！
 VideoUpdate(0, false);
 SetDlgLower(91, 0, false);
-//赵灵儿∶
+//赵灵儿：
 //我娘乃是女娲氏嫡系族裔
 //我身虽为妖，心却非魔
 //你怎可凭此而加罪于我！
 VideoUpdate(0, false);
 SetDlgUpper(0, 0, false);
-//镇狱明王∶
+//镇狱明王：
 //女娲？　西天如来座下、天界
 //神佛之中，并无此号人物在列
 VideoRestore();
@@ -379,7 +379,7 @@ VideoRestore();
 //觉悟吧！！
 ReplaceAndPause();
 SetDlgLower(91, 0, false);
-//赵灵儿∶
+//赵灵儿：
 //$06上天既赐予我不同于凡人之力
 //就有我必须去做的事，我若死
 //于此，不但有愧天地，更对不
@@ -404,11 +404,11 @@ SetDlgCenter(0, false);
 //"赵灵儿力量觉醒"~45
 VideoUpdate(0, false);
 SetDlgLower(9, 0, false);
-//李逍遥∶
+//李逍遥：
 //跟他拼了！~45
 VideoUpdate(0, false);
 SetDlgLower(21, 0, false);
-//林月如∶
+//林月如：
 //好　～！~45
 EnemySetMagic(81, 0);
 ReplaceAndPause();
@@ -466,12 +466,12 @@ ReplaceAndPauseWithNop("@A55D", 0);
 
 ['Enemy_00122_Action'];
 SetDlgLower(0, 0, false);
-//镇狱明王∶
+//镇狱明王：
 //哼　一群邪魔外道
 //让你们永世不得超生！~50
 ReplaceAndPause();
 SetDlgLower(0, 0, false);
-//镇狱明王∶
+//镇狱明王：
 //愚蠢的人类！下地狱吧！~50
 ReplaceAndPause();
 
@@ -538,7 +538,7 @@ ReplaceAndPause();
 ReplaceAndPause();
 ReplaceAndPause();
 ReplaceAndPause();
-//蛇妖∶
+//蛇妖：
 //可恶的人类～死吧！~45
 EnemySetMagic(41, 10);
 ReplaceAndPause();
@@ -798,12 +798,12 @@ ReplaceAndPauseWithNop("Enemy_00048_TurnStart", 0);
 
 ['Enemy_00077_TurnStart'];
 SetDlgLower(27, 0, false);
-//阿奴∶
+//阿奴：
 //快放了村长伯伯
 //还有～交出水灵珠
 //不然有你受的！
 VideoUpdate(0, false);
-//木道人∶
+//木道人：
 //哪来的小鬼！？找死吗？
 //胆敢插手本山人的事！
 ReplaceAndPause();
@@ -819,7 +819,7 @@ EnemySummonMonster(512, 0, "");
 EnemySetMagic(-1, 0);
 ReplaceAndPause();
 ReplaceAndPause();
-//木道人∶
+//木道人：
 //哼．．看不出你们这些小鬼
 //还颇有两下子的．．
 //看来～非拿出绝招不可了！~50
@@ -945,20 +945,20 @@ ReplaceAndPauseWithNop("Enemy_00023_TurnStart", 0);
 
 ['Enemy_00104_TurnStart'];
 SetDlgLower(1, 0, false);
-//李逍遥∶
+//李逍遥：
 //喂～　等等！
 //怎么见到人就打呀？
 VideoUpdate(0, false);
 SetDlgUpper(44, 0, false);
-//盖罗娇∶
+//盖罗娇：
 //你鬼鬼祟祟的跑到这做什么？
 VideoUpdate(0, false);
 SetDlgLower(1, 0, false);
-//李逍遥∶
+//李逍遥：
 //我？　这里不能来吗？
 VideoUpdate(0, false);
 SetDlgUpper(44, 0, false);
-//盖罗娇∶
+//盖罗娇：
 //来人可以，走人不行！
 ReplaceAndPause();
 
@@ -1057,7 +1057,7 @@ EnemySetMagic(77, 0);
 ReplaceAndPauseWithNop("Enemy_00066_Action", 0);
 
 ['Enemy_00149_TurnStart'];
-//拜月教主∶
+//拜月教主：
 //想打倒我？　哼！
 //再回去修练一百年吧
 ReplaceAndPause();

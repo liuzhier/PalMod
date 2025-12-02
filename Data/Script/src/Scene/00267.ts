@@ -52,19 +52,19 @@ RoleSetDirFrame(2, 0, 0);
 WaitEventAutoScriptRun(4, false, false);
 EventSetState(266, 4, 0);
 SetDlgLower(0, 0, false);
-//李逍遥∶
+//李逍遥：
 //咦？　这里．．
 //不就是山神庙吗
 EventSetAutoScript(266, 3, "@861A");
 WaitEventAutoScriptRun(7, false, false);
 SetDlgUpper(85, 0, false);
-//小孩∶
+//小孩：
 //哗！　你是仙人吗？
 //我看见你从天上下来
 //你一定是仙人！
 VideoUpdate(0, false);
 SetDlgLower(3, 0, false);
-//李逍遥∶
+//李逍遥：
 //我？　我怎么可能是．．
 VideoUpdate(0, false);
 EventSetDirFrame(266, 3, 2, 0);
@@ -72,7 +72,7 @@ WaitEventAutoScriptRun(4, false, false);
 EventSetDirFrame(266, 3, 0, 0);
 VideoUpdate(0, false);
 SetDlgUpper(85, 0, false);
-//小孩∶
+//小孩：
 //仙人，请你帮帮忙
 //在山神庙里面有一位老婆婆
 //受了伤，请你救救她好不好？
@@ -85,14 +85,14 @@ NpcMoveToBlock(32, 102, 1, 3);
 
 ['Event_00267_00007_Trigger'];
 EventSetState(266, 6, 2);
-//秀兰∶
+//秀兰：
 //大哥哥～你有没有看到
 //李家哥哥呀？
 VideoRestore();
 //大娘叫我来找李家哥哥
 //他再不回家，会被打屁股喔
 ReplaceAndPause();
-//秀兰∶
+//秀兰：
 //你看到李家哥哥了没？
 
 ['Event_00267_00007_Auto'];
@@ -126,7 +126,7 @@ WaitEventAutoScriptRun(16, false, false);
 RoleSetDirFrame(0, 0, 0);
 WaitEventAutoScriptRun(5, false, false);
 SetDlgLower(85, 0, false);
-//小孩∶
+//小孩：
 //喂！　不许动我的东西
 PartyWalkToBlock(34, 101, 0, 2);
 SetDlgUpper(6, 0, false);
@@ -134,7 +134,7 @@ SetDlgUpper(6, 0, false);
 //这些珠子都是你的吗？
 VideoUpdate(0, false);
 SetDlgLower(85, 0, false);
-//小孩∶
+//小孩：
 //那是我爹给我的！
 //不许你碰它
 EventSetAutoScript(267, 0, "@87E0");
@@ -151,14 +151,14 @@ SetDlgLower(3, 0, false);
 EventSetAutoScript(267, 0, "@87E8");
 WaitEventAutoScriptRun(4, false, false);
 SetDlgUpper(85, 0, false);
-//小孩∶
+//小孩：
 //真的！？
 VideoUpdate(0, false);
 SetDlgLower(3, 0, false);
 //真的没骗你，你要多少钱？
 VideoUpdate(0, false);
 SetDlgUpper(85, 0, false);
-//小孩∶
+//小孩：
 //我不要钱，你把你的宝剑给我
 //我就把这颗珠子送给你
 VideoUpdate(0, false);
@@ -167,7 +167,7 @@ SetDlgLower(1, 0, false);
 //万一伤到自己怎么办？
 VideoUpdate(0, false);
 SetDlgUpper(85, 0, false);
-//小孩∶
+//小孩：
 //我不管～我想要一把剑很久了
 //我要练成绝世武功，出去找我
 //爹娘！
@@ -177,7 +177,7 @@ SetDlgLower(9, 0, false);
 //我给你一把木剑
 VideoUpdate(0, false);
 SetDlgUpper(85, 0, false);
-//小孩∶
+//小孩：
 //可以～只要是剑就行了
 ReplaceAndPause();
 

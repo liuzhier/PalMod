@@ -29,7 +29,7 @@ ReplaceAndPause();
 PartySetPos(36, 65, 0);
 ViewportMove(0, 0, 0);
 SetDlgUpper(0, 0, false);
-//赵灵儿∶
+//赵灵儿：
 //太好了．．．
 FadeOut(0);
 SceneEnter(232);

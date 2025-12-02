@@ -21,7 +21,7 @@ PlaySound(192);
 EventSetDirFrame(251, 1, 0, 2);
 FadeToScene(4, -1);
 SetDlgLower(0, 0, false);
-//李逍遥∶
+//李逍遥：
 //娘娘．．．？！
 EventSetState(252, 0, 1);
 WaitEventAutoScriptRun(14, false, false);

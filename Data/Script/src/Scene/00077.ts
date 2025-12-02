@@ -24,7 +24,7 @@ ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 Call("@8E99");
 SetDlgBox(0);
 //获得九节鞭
-AddItem(0, 0);
+AddItem(104, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 ['Event_00077_00053_Trigger'];

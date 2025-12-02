@@ -17,23 +17,23 @@ FadeOut(0);
 EventSetState(-1, -1, 0);
 EventSetDirFrame(256, 6, 0, 0);
 VideoUpdate(0, false);
-//守卫∶
+//守卫：
 //这里是牢房重地
 //你跑进来做什么？
 RoleSetDirFrame(2, 0, 0);
 VideoUpdate(0, false);
 SetDlgLower(0, 0, false);
-//李逍遥∶
+//李逍遥：
 //我～我奉了大王的命令
 //要传话给巫后娘娘
 VideoUpdate(0, false);
 SetDlgUpper(0, 0, false);
-//守卫∶
+//守卫：
 //喔．．你进去吧！
 RoleSetDirFrame(3, 0, 0);
 
 ['Event_00257_00004_Trigger'];
-//王宫卫兵∶
+//王宫卫兵：
 //要见大王吗？
 //自己进去吧，别来烦我们！
 VideoRestore();
@@ -43,7 +43,7 @@ VideoRestore();
 //所以我不站在任何一边
 
 ['Event_00257_00005_Trigger'];
-//王宫卫兵∶
+//王宫卫兵：
 //真是没王法了，拜月教主
 //带着一堆士兵人拿着兵器
 //跑进王宫来，根本不把大
@@ -56,7 +56,7 @@ VideoRestore();
 //她的为人是大家有目共赌的
 
 ['Event_00257_00006_Trigger'];
-//王宫卫兵∶
+//王宫卫兵：
 //听说娘娘是半人半蛇的妖女
 //不知道这是真的还是假的
 //搞不好是拜月教捏造的罪名

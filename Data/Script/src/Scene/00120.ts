@@ -9,17 +9,17 @@ SetDlgCenter(0, false);
 //刘晋元睡着了．．
 
 ['Event_00120_00003_Trigger'];
-//婢女阿香∶
+//婢女阿香：
 //不知怎么搞的
 //少爷突然又陷入昏睡
 
 ['Event_00120_00004_Trigger'];
-//婢女阿萍∶
+//婢女阿萍：
 //夫人吩咐．．
 //不许任何人打扰少爷
 
 ['Event_00120_00007_Trigger'];
-//刘夫人∶
+//刘夫人：
 //唉．．　怎么办．．
 //这孩子究竟出了什么事
 
@@ -30,21 +30,21 @@ SetDlgCenter(0, false);
 //而刘晋元却不见了．．
 ReplaceAndPause();
 SetDlgLower(0, 0, false);
-//林月如∶
+//林月如：
 //云姨～　云姨～！
 ReplaceAndPause();
 SetDlgLower(1, 0, false);
-//李逍遥∶
+//李逍遥：
 //没用的．．她们一定是中了
 //什么法术，怎么叫也叫不醒
 VideoUpdate(0, false);
 SetDlgLower(24, 0, false);
-//林月如∶
+//林月如：
 //怎么办．．
 //李大哥～你可有办法？
 VideoUpdate(0, false);
 SetDlgLower(9, 0, false);
-//李逍遥∶
+//李逍遥：
 //若继续待在这屋内，恐怕
 //连我们也会有危险．．
 VideoRestore();

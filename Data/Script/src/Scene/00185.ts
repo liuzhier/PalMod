@@ -21,13 +21,13 @@ RoleSetDirFrame(2, 0, 0);
 RoleSetDirFrame(2, 0, 1);
 VideoUpdate(0, false);
 SetDlgLower(1, 0, false);
-//李逍遥∶
+//李逍遥：
 //这．．这是什么地方？
 //你要拿的东西就在这里？
 RoleSetDirFrame(0, 0, 0);
 VideoUpdate(0, false);
 SetDlgUpper(27, 0, false);
-//阿奴∶
+//阿奴：
 //对呀，昨天我潜进来过一次
 //确定东西就在这里面，可惜他
 //们的头头太厉害，我斗不过
@@ -36,17 +36,17 @@ SetDlgUpper(27, 0, false);
 //你助阵，这回铁定会成功！
 VideoUpdate(0, false);
 SetDlgLower(10, 0, false);
-//李逍遥∶
+//李逍遥：
 //搞了半天～
 //你是找我来当打手的？
 VideoUpdate(0, false);
 SetDlgUpper(29, 0, false);
-//阿奴∶
+//阿奴：
 //嘻嘻～能够打败圣兽金翅凤凰
 //的人，手底下的功夫应该不会
 //输给这里的小妖才对
 SetDlgLower(9, 0, false);
-//李逍遥∶
+//李逍遥：
 //啧～　上了贼船．．
 RoleSetDirFrame(0, 0, 0);
 VideoUpdate(0, false);
@@ -78,39 +78,39 @@ VideoUpdate(0, false);
 PlaySound(78);
 WaitEventAutoScriptRun(4, false, false);
 SetDlgUpper(30, 0, false);
-//阿奴∶
+//阿奴：
 //可恶．．是空的！
 //昨天明明看见他放在里面
 VideoUpdate(0, false);
 SetDlgLower(1, 0, false);
-//李逍遥∶
+//李逍遥：
 //你到底在找什么？
 RoleSetDirFrame(0, 0, 0);
 VideoUpdate(0, false);
 SetDlgUpper(27, 0, false);
-//阿奴∶
+//阿奴：
 //告诉你也无妨．．
 //　我在找水灵珠！
 RoleSetDirFrame(1, 0, 0);
 VideoUpdate(0, false);
 SetDlgLower(6, 0, false);
-//李逍遥∶
+//李逍遥：
 //灵珠？　我这儿有雷灵珠
 //和风灵珠，能代替吗？
 RoleSetDirFrame(0, 0, 0);
 VideoUpdate(0, false);
 SetDlgUpper(30, 0, false);
-//阿奴∶
+//阿奴：
 //你是真的不懂
 //还是在开我玩笑？
 VideoUpdate(0, false);
 SetDlgLower(1, 0, false);
-//李逍遥∶
+//李逍遥：
 //我只知道这些灵珠似乎是
 //妖怪用来修炼法术的法宝．．
 VideoUpdate(0, false);
 SetDlgUpper(28, 0, false);
-//阿奴∶
+//阿奴：
 //什么妖怪！不知道别乱讲
 VideoRestore();
 //在我们苗族相传，太古时代～
@@ -141,21 +141,21 @@ VideoRestore();
 //去占有了
 VideoUpdate(0, false);
 SetDlgLower(1, 0, false);
-//李逍遥∶
+//李逍遥：
 //原来还有这么一个典故．．
 VideoUpdate(0, false);
 SetDlgUpper(27, 0, false);
-//阿奴∶
+//阿奴：
 //据我追查的结果，水灵珠
 //就是在这里的妖怪手中
 VideoUpdate(0, false);
 SetDlgLower(1, 0, false);
-//李逍遥∶
+//李逍遥：
 //如果是真的，我们也犯不着
 //跟妖怪争抢吧，太冒险了！
 VideoUpdate(0, false);
 SetDlgUpper(28, 0, false);
-//阿奴∶
+//阿奴：
 //你以为我是找好玩的呀！？
 //我们苗疆闹大旱灾，很久很久
 //都没下雨了，河水都已干涸
@@ -164,12 +164,12 @@ SetDlgUpper(28, 0, false);
 //已经打了九年的战争了！
 VideoUpdate(0, false);
 SetDlgLower(1, 0, false);
-//李逍遥∶
+//李逍遥：
 //怪了～打仗能解决什么事？
 VideoUpdate(0, false);
 SetDlgUpper(27, 0, false);
-//阿奴∶
-//所以罗～　我得找到水灵珠
+//阿奴：
+//所以啰～　我得找到水灵珠
 VideoRestore();
 //我阿娘年轻的时候也曾遇到一
 //次大旱灾，巫后娘娘当时还只
@@ -179,7 +179,7 @@ VideoRestore();
 //就能解决这一切
 VideoUpdate(0, false);
 SetDlgLower(9, 0, false);
-//李逍遥∶
+//李逍遥：
 //呵～看不出你小小年纪
 //就有这种心志．．好～我帮你
 VideoRestore();
@@ -189,13 +189,13 @@ VideoRestore();
 RoleSetDirFrame(0, 0, 1);
 VideoUpdate(0, false);
 SetDlgUpper(29, 0, false);
-//阿奴∶
+//阿奴：
 //等一下！
 //先把这里的宝物全拿走再说
 RoleSetDirFrame(2, 0, 1);
 VideoUpdate(0, false);
 SetDlgUpper(29, 0, false);
-//阿奴∶
+//阿奴：
 //咱们不能白跑一趟
 //反正这些都是妖怪搜刮
 //来的，不拿白不拿！)

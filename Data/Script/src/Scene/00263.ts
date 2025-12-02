@@ -10,7 +10,7 @@ FadeOut(0);
 
 ['Event_00263_00003_Trigger'];
 SetDlgUpper(0, 0, false);
-//石长老∶
+//石长老：
 //你来这里干什么？走开！
 //这不是小兵该来的地方
 RoleSetDirFrame(3, 0, 0);

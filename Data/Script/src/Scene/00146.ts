@@ -41,8 +41,8 @@ WaitEventAutoScriptRun(3, false, false);
 RoleMoveOneStep(-8, 4, 0);
 WaitEventAutoScriptRun(2, false, false);
 SetDlgLower(0, 0, false);
-//李逍遥∶
-//$09灵儿．．　．．真的．．
+//李逍遥：
+//$09灵儿．．你．．真的．．
 //．．真的是你吗？~70
 ViewportMove(52, 11, -1);
 SetDlgLower(90, 0, false);

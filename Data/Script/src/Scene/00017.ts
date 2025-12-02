@@ -23,7 +23,7 @@ WaitEventAutoScriptRun(0, false, false);
 RoleMoveOneStep(-4, 2, 0);
 WaitEventAutoScriptRun(0, false, false);
 SetDlgLower(0, 0, false);
-//李逍遥∶
+//李逍遥：
 //　？　？　？
 
 ['Event_00017_00008_Auto'];
@@ -92,7 +92,7 @@ WaitEventAutoScriptRun(8, false, false);
 EventSetDirFrame(16, 8, 0, 10);
 WaitEventAutoScriptRun(2, false, false);
 SetDlgLower(0, 0, false);
-//少女∶
+//少女：
 //咦．．我的衣服呢？
 WaitEventAutoScriptRun(0, false, false);
 RoleSetDirFrame(0, 2, 0);
@@ -117,7 +117,7 @@ WaitEventAutoScriptRun(2, false, false);
 EventSetDirFrame(16, 8, 0, 15);
 WaitEventAutoScriptRun(3, false, false);
 SetDlgLower(0, 0, false);
-//少女∶
+//少女：
 //．．你．．你是谁！？
 EventSetDirFrame(16, 8, 0, 16);
 WaitEventAutoScriptRun(0, false, false);
@@ -136,17 +136,17 @@ SetDlgUpper(9, 0, false);
 EventSetDirFrame(16, 8, 0, 15);
 VideoUpdate(0, false);
 SetDlgLower(0, 0, false);
-//少女∶
+//少女：
 //仙丹．．？！
 //那是我师父的遗物
 //不可以随便给别人
 VideoUpdate(0, false);
 SetDlgUpper(9, 0, false);
-//那～你就要光着身子回家罗！
+//那～你就要光着身子回家啰！
 EventSetDirFrame(16, 8, 0, 16);
 VideoUpdate(0, false);
 SetDlgLower(0, 0, false);
-//少女∶
+//少女：
 //好．．好嘛～　我答应你
 //可是．．你先把衣服还我！
 HeroSetSprite(0, 2, true);
@@ -159,7 +159,7 @@ EventSetDirFrame(16, 8, 0, 15);
 VideoUpdate(0, false);
 PlaySound(89);
 SetDlgLower(0, 0, false);
-//少女∶
+//少女：
 //啊～！！你不要看！
 RoleSetDirFrame(0, 0, 0);
 VideoUpdate(0, false);
@@ -170,7 +170,7 @@ SetDlgUpper(10, 0, false);
 EventSetDirFrame(16, 8, 0, 16);
 VideoUpdate(0, false);
 SetDlgLower(0, 0, false);
-//少女∶
+//少女：
 //你．．你把我的衣服放着
 //走到五丈．．不！十丈外
 //等我穿好衣服才可以回来
@@ -290,7 +290,7 @@ EventSetState(16, 11, 1);
 PlaySound(170);
 WaitEventAutoScriptRun(32, false, false);
 SetDlgUpper(16, 0, false);
-//少女∶
+//少女：
 //你．．你好不要脸！
 //怎么可以．．可以．．。~40
 VideoRestore();
@@ -299,8 +299,8 @@ HeroSetSprite(0, 2, true);
 RoleSetDirFrame(1, 0, 0);
 VideoUpdate(0, false);
 SetDlgLower(2, 0, false);
-//李逍遥∶
-//哗．．　果然是仙女！
+//李逍遥：
+//哗．．你果然是仙女！
 VideoUpdate(0, false);
 EventSetPos(16, 9, 1032, 1288);
 EventSetState(16, 9, 1);
@@ -314,12 +314,12 @@ SetDlgLower(0, 0, false);
 //　哇～仙女饶命！
 VideoUpdate(0, false);
 SetDlgUpper(18, 0, false);
-//少女∶
+//少女：
 //从实招来！　不然．．
 //不然．．我劈死你这淫贼！
 VideoUpdate(0, false);
 SetDlgLower(0, 0, false);
-//李逍遥∶
+//李逍遥：
 //不不不！　杀生不好
 //杀了人会下地狱。仙女姐姐
 //最温柔、最可爱、最心地善良
@@ -333,11 +333,11 @@ VideoRestore();
 //死，保全仙女姐姐的名节。
 VideoUpdate(0, false);
 SetDlgUpper(11, 0, false);
-//少女∶
+//少女：
 //$06这么说．．．
 //你是为了救你的亲人？
 SetDlgLower(0, 0, false);
-//李逍遥∶
+//李逍遥：
 //$04是是．．小的听人说
 //仙灵岛上大慈大悲的仙女，有
 //起死回生的仙丹灵药，所以～
@@ -346,25 +346,25 @@ EventSetAutoScript(16, 10, "@15D4");
 WaitEventAutoScriptRun(16, false, false);
 MusicPlay(Music.小桥流水, true, true);
 SetDlgUpper(11, 0, false);
-//少女∶
-//$06你．．婶婶对你很好罗？
+//少女：
+//$06你．．婶婶对你很好啰？
 VideoUpdate(0, false);
 SetDlgLower(0, 0, false);
-//李逍遥∶
+//李逍遥：
 //$02犹如亲生爹娘！
 SetDlgUpper(11, 0, false);
-//少女∶
+//少女：
 //$06那．．你爹娘呢？
 VideoUpdate(0, false);
 SetDlgLower(0, 0, false);
-//李逍遥∶
+//李逍遥：
 //$05我．．我从小就没有爹娘
 //是婶婶一手把我带大的．．
 EventSetState(16, 10, 0);
 EventSetState(16, 12, 2);
 WaitEventAutoScriptRun(8, false, false);
 SetDlgUpper(11, 0, false);
-//少女∶
+//少女：
 //$07原来．．你和我一样．．
 WaitEventAutoScriptRun(6, false, false);
 EventSetDirFrame(16, 12, 2, 0);
@@ -372,7 +372,7 @@ WaitEventAutoScriptRun(5, false, false);
 EventSetDirFrame(16, 12, 3, 0);
 WaitEventAutoScriptRun(2, false, false);
 SetDlgUpper(11, 0, false);
-//少女∶
+//少女：
 //$02好吧．．．你跟我来～
 EventSetAutoScript(16, 12, "@15DC");
 WaitEventAutoScriptRun(12, false, false);

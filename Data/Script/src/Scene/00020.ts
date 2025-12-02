@@ -4,33 +4,33 @@ SceneEnter(21);
 FadeOut(0);
 
 ['Event_00020_00009_Trigger'];
-//墓碑上题字∶"恩师灵月之墓"
+//墓碑上题字："恩师灵月之墓"
 
 ['Event_00020_00019_Trigger'];
 SetDlgUpper(15, 0, false);
-//赵灵儿∶
+//赵灵儿：
 //姥姥～我．．都怪灵儿不好
 //没有好好听您的话．．
 VideoUpdate(0, false);
 SetDlgLower(1, 0, false);
-//李逍遥∶
+//李逍遥：
 //好了．．别难过了
 //我想你姥姥也不希望你一直
 //这么愁眉不展吧．．
 ReplaceAndPause();
 SetDlgUpper(17, 0, false);
-//赵灵儿∶
+//赵灵儿：
 //姥姥～灵儿就此拜别，您在天
 //有灵，保佑孩儿早日找到娘亲
 ReplaceAndPause();
-//墓碑上题字∶"姥姥姜氏之墓"
+//墓碑上题字："姥姥姜氏之墓"
 
 ['Event_00020_00004_Trigger'];
 EventSetTriggerMode(-1, -1, false, -1);
 NpcSetDirFrame(0, 0);
 VideoUpdate(0, false);
 SetDlgLower(14, 0, false);
-//少女∶
+//少女：
 //好极了，姥姥正好不在
 //你跟我进去拿药吧。
 NpcSetDirFrame(3, 0);
@@ -38,12 +38,12 @@ VideoUpdate(0, false);
 NpcSetDirFrame(2, 0);
 VideoUpdate(0, false);
 SetDlgLower(10, 0, false);
-//李逍遥∶
+//李逍遥：
 //要．．去见观音娘娘吗？
 NpcSetDirFrame(0, 0);
 VideoUpdate(0, false);
 SetDlgUpper(14, 0, false);
-//少女∶
+//少女：
 //呵呵！才不是呢！想拿药还不
 //快点，我姥姥最讨厌外人了，
 //等她回来就拿不成了。
@@ -61,7 +61,7 @@ ReplaceAndPause();
 //老夫人特地前来上香
 
 ['Event_00020_00010_Trigger'];
-//姥姥∶
+//姥姥：
 //唉～　阿玟．．
 //灵儿～这个月就满十六了
 //咱们两老盼了这久，总算是

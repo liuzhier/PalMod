@@ -54,14 +54,14 @@ PartySetPos(34, 111, 1);
 FadeOut(0);
 
 ['Event_00132_00012_Trigger'];
-//老鸨∶
+//老鸨：
 //哟呵～　英俊的公子爷～
 //第一次来吗？要叫姑娘吗？
 //一次只要二千文钱．．
 GotoWithSelect("@3E7F");
 VideoUpdate(0, false);
 CashModify(-2000, "@3E8D");
-//老鸨∶
+//老鸨：
 //呵呵呵～　公子～
 //您喜欢清纯一点的呀！
 VideoRestore();
@@ -70,12 +70,12 @@ VideoRestore();
 FadeOut(0);
 SceneEnter(134);
 ReplaceAndPause();
-//老鸨∶
+//老鸨：
 //怎么样？
 //公子．．还满意吗？
 GotoWithSelect("@3E60");
 VideoUpdate(0, false);
-//老鸨∶
+//老鸨：
 //呵呵呵～您满意就好了
 //下次再来啊！
 
@@ -100,7 +100,7 @@ WaitEventAutoScriptRun(2, false, false);
 ReplaceAndPauseWithNop("@3F37", 0);
 
 ['Event_00132_00013_Trigger'];
-//茶水小妹∶
+//茶水小妹：
 //公子您找错人了
 //我只是倒茶小妹，不接客的
 
@@ -110,7 +110,7 @@ NpcSetDirFrame(0, 0);
 
 ['Event_00132_00014_Trigger'];
 SetDlgUpper(56, 0, false);
-//莺莺夫人∶
+//莺莺夫人：
 //你．．你想对他怎么样？
 //你不要伤害他呀．．
 

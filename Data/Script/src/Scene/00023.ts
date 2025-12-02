@@ -7,14 +7,14 @@ PartySetPos(42, 24, 1);
 FadeOut(0);
 
 ['Event_00023_00001_Trigger'];
-//大宝∶
+//大宝：
 //一、二、三··嗯··
 ReplaceAndPause();
-//大宝∶
+//大宝：
 //五、六··八、十····
 
 ['Event_00023_00002_Trigger'];
-//二宝∶
+//二宝：
 //马儿快跑、马儿快跑
 //马儿不吃墙头草···
 
@@ -29,19 +29,19 @@ PartySetPos(37, 69, 1);
 FadeOut(0);
 
 ['Event_00023_00003_Trigger'];
-//小宝∶
+//小宝：
 //呜．．哥哥都不跟我玩
 
 ['Event_00023_00004_Trigger'];
-//员外∶
+//员外：
 //哎．．．．
 VideoUpdate(0, false);
 SetDlgLower(1, 0, false);
-//李逍遥∶
+//李逍遥：
 //老伯～　您为何唉声叹气呢？
 VideoUpdate(0, false);
 SetDlgUpper(0, 0, false);
-//员外∶
+//员外：
 //我的宝贝女儿小玉，前些日子
 //到城外河边游玩时人就不见了
 //我派许多人去找一直找不到
@@ -51,12 +51,12 @@ VideoRestore();
 //永远再也见不到小玉了．．
 VideoUpdate(0, false);
 SetDlgLower(11, 0, false);
-//赵灵儿∶
+//赵灵儿：
 //老伯，这也很难说呀
 //并非妖怪都是会害人的
 VideoUpdate(0, false);
 SetDlgUpper(0, 0, false);
-//员外∶
+//员外：
 //如果我女儿真的有什么三长
 //两短，只能怪她命不好
 VideoRestore();
@@ -65,17 +65,17 @@ VideoRestore();
 //要是．．要是．．叫她以后
 //如何做人呐！
 SetDlgLower(15, 0, false);
-//赵灵儿∶
+//赵灵儿：
 //．．．．．．．
 VideoUpdate(0, false);
 SetDlgUpper(0, 0, false);
-//员外∶
+//员外：
 //对了．．这位姑娘
 //你最好也要小心，那蛇妖所
 //抓走的，都是像你这般年纪
 //的女孩子
 ReplaceAndPause();
-//员外∶
+//员外：
 //呜．．我的女儿
 
 ['Scene_00023_Enter'];
@@ -124,11 +124,11 @@ WaitEventAutoScriptRun(5, false, false);
 ReplaceAndPauseWithNop("Event_00023_00005_Auto", 0);
 
 ['Event_00023_00005_Trigger'];
-//少女∶
+//少女：
 //大家都说苏州出美女
 //你们瞧～我算不算是美女啊
 ReplaceAndPause();
-//少女∶
+//少女：
 //哼～真没眼光
 
 ['Event_00023_00010_Trigger'];
@@ -143,31 +143,31 @@ ReplaceAndPause();
 //呵～　啊～！
 
 ['Event_00023_00012_Trigger'];
-//观众∶
+//观众：
 //哎呦．．好可怕
 ReplaceAndPause();
-//观众∶
+//观众：
 //把剑吞下去，肚子不痛吗？
 ReplaceAndPauseWithNop("Event_00023_00012_Trigger", 0);
 
 ['Event_00023_00013_Trigger'];
-//小孩∶
+//小孩：
 //他真的把剑吞到肚子里面吗？
 ReplaceAndPause();
-//小孩∶
+//小孩：
 //好像是真的呢
 
 ['Event_00023_00014_Trigger'];
-//观众∶
+//观众：
 //老把戏～看多啦！
 
 ['Event_00023_00015_Trigger'];
-//观众∶
+//观众：
 //这两位功夫耍的不错
 //就不知一天能赚多少钱
 
 ['Event_00023_00016_Trigger'];
-//小孩∶
+//小孩：
 //哗．．好厉害喔！
 
 ['Event_00023_00011_Auto'];

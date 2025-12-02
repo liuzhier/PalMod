@@ -25,7 +25,7 @@ FadeOut(0);
 
 ['Event_00286_00007_Trigger'];
 SceneEnter(287);
-PartySetPos(36, 65, 1);
+PartySetPos(29, 51, 0);
 FadeOut(0);
 
 ['Event_00286_00008_Trigger'];

@@ -30,11 +30,11 @@ WaitEventAutoScriptRun(4, false, false);
 NpcMoveToBlock(29, 86, 0, 3);
 
 ['Event_00274_00006_Trigger'];
-//船商∶
+//船商：
 //公子～我的船运行缺人手
 //您愿意来我这工作吗？
 ReplaceAndPause();
-//船商∶
+//船商：
 //如果你知道有合适的人
 //可以介绍给我，我会付
 //介绍费的！

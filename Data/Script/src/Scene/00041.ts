@@ -1,36 +1,36 @@
 ['Scene_00041_Teleport'];
 SetDlgLower(1, 0, false);
-//李逍遥∶
+//李逍遥：
 //这里就是蛇妖的洞窟吗？
 RoleSetDirFrame(3, 0, 0);
 VideoUpdate(0, false);
 SetDlgUpper(21, 0, false);
-//林月如∶
+//林月如：
 //没错，就是这里
 VideoUpdate(0, false);
 SetDlgLower(9, 0, false);
-//李逍遥∶
+//李逍遥：
 //你留下来，在这里等我
 SetDlgUpper(22, 0, false);
-//林月如∶
+//林月如：
 //不行～　我也要进去
 VideoUpdate(0, false);
 SetDlgLower(1, 0, false);
-//李逍遥∶
+//李逍遥：
 //你是女孩子，万一有个什么
 //．．岂不是太危险了！
 VideoUpdate(0, false);
 SetDlgUpper(21, 0, false);
-//林月如∶
+//林月如：
 //我要是出了什么事．．
 //你会保护我吧？
 VideoUpdate(0, false);
 SetDlgLower(1, 0, false);
-//李逍遥∶
+//李逍遥：
 //那是当然的
 VideoUpdate(0, false);
 SetDlgUpper(21, 0, false);
-//林月如∶
+//林月如：
 //嘻～这不就结了
 //还磨菇什么，走嘛！
 RoleSetDirFrame(1, 0, 0);

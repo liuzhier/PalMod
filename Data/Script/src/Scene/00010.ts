@@ -9,21 +9,21 @@ PartySetPos(18, 106, 1);
 FadeOut(0);
 
 ['Event_00010_00003_Trigger'];
-//居民∶
+//居民：
 //啊～　请随便坐
 
 ['Event_00010_00004_Trigger'];
-//居民∶
+//居民：
 //我有一个故事你想要听吗？
 GotoWithSelect("@0F55");
 VideoUpdate(0, false);
-//中年人∶
+//中年人：
 //你相不相信老夫就是十多年前
 //叱咤江南的名捕，人称铁臂神
 //鹰的皇甫英？
 GotoWithSelect("@0F55");
 VideoUpdate(0, false);
-//中年人∶
+//中年人：
 //哈哈～好小子！
 //终于有人相信我说的话了
 VideoRestore();
@@ -40,10 +40,10 @@ VideoRestore();
 //使得老夫自此退隐江湖
 VideoUpdate(0, false);
 SetDlgLower(1, 0, false);
-//李逍遥∶
+//李逍遥：
 //哦！是什么事情这么严重？
 VideoUpdate(0, false);
-//中年人∶
+//中年人：
 //说来就惭愧．．老夫不但数次
 //败在南盗侠夫妇的手下，还欠
 //下他们一份永远无法还的恩情
@@ -67,16 +67,16 @@ VideoRestore();
 //盗走苗人的圣物而被诅咒
 //所以才会突然暴毙的
 ReplaceAndPause();
-//中年人∶
+//中年人：
 //咦．．小伙子，我怎么越看你
 //越觉得～你跟南盗侠有几分神
 //似哩！
 ReplaceAndPause();
-//中年人∶
+//中年人：
 //呵．．怎么可能嘛，不要放
 //在心上，大概是我老眼昏花
-//看错痢?
-//?
+//看错了。
+
 
 ['Event_00010_00006_Trigger'];
 PlaySound(78);

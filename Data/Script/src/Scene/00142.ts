@@ -16,13 +16,13 @@ WaitEventAutoScriptRun(36, false, false);
 EventSetDirFrame(141, 1, 1, 0);
 WaitEventAutoScriptRun(4, false, false);
 SetDlgLower(0, 0, false);
-//刘晋元∶
+//刘晋元：
 //$07．．？
 //有只蝴蝶黏在蜘蛛网上了~30
 WaitEventAutoScriptRun(4, false, false);
 EventSetAutoScript(141, 1, "@56AF");
 WaitEventAutoScriptRun(8, false, false);
-//刘晋元∶
+//刘晋元：
 //哗．．好美的蝴蝶~30
 VideoRestore();
 //别怕！　我来救你了~40
@@ -38,7 +38,7 @@ WaitEventAutoScriptRun(0, false, false);
 EventModifyPos(141, 1, 8, 4);
 EventSetDirFrame(141, 1, 1, 0);
 WaitEventAutoScriptRun(0, false, false);
-//刘晋元∶
+//刘晋元：
 //哎呦～　好痛！
 //这蜘蛛会咬人呐？~40
 WaitEventAutoScriptRun(8, false, false);

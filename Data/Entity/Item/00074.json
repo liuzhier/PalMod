@@ -17,7 +17,7 @@
     "Equipable": false,
     "Throwable": true,
     "Consuming": true,
-    "ApplyToAll": true,
+    "ApplyToAll": false,
     "Sellable": true,
     "WhoCanEquip": ""
   }

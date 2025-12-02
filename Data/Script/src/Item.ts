@@ -729,7 +729,7 @@ RoleCurePoisonById(false, 2);
 RoleRemoveStatus(Status.AttackFriends);
 RoleRemoveStatus(Status.CannotAction);
 RoleRemoveStatus(Status.Sleep);
-RoleRemoveStatus(Status.AttackFriends);
+RoleRemoveStatus(Status.CannotUseMagic);
 
 ['Item_00056_Use'];
 RoleApplyPoison(false, 2);
@@ -844,38 +844,44 @@ RoleHalveHP();
 ['Item_00078_Throw'];
 SimulateRoleMagic(1, 0, 0);
 EnemyApplyPoison(false, 5);
-JumpIfEnemyNotPoisonedByKind(8, "");
+JumpIfEnemyNotPoisonedByKind(8, "@9A31");
 KillEnemy();
+['@9A31'];
 
 ['Item_00065_Throw'];
 SimulateRoleMagic(1, 0, 0);
 EnemyApplyPoison(false, 9);
-JumpIfEnemyNotPoisonedByKind(10, "");
+JumpIfEnemyNotPoisonedByKind(10, "@9A36");
 KillEnemy();
+['@9A36'];
 
 ['Item_00064_Throw'];
 SimulateRoleMagic(1, 0, 0);
 EnemyApplyPoison(false, 8);
-JumpIfEnemyNotPoisonedByKind(5, "");
+JumpIfEnemyNotPoisonedByKind(5, "@9A3B");
 KillEnemy();
+['@9A3B'];
 
 ['Item_00062_Throw'];
 SimulateRoleMagic(1, 0, 0);
 EnemyApplyPoison(false, 6);
-JumpIfEnemyNotPoisonedByKind(7, "");
+JumpIfEnemyNotPoisonedByKind(7, "@9A40");
 KillEnemy();
+['@9A40'];
 
 ['Item_00079_Throw'];
 SimulateRoleMagic(1, 0, 0);
 EnemyApplyPoison(false, 10);
-JumpIfEnemyNotPoisonedByKind(9, "");
+JumpIfEnemyNotPoisonedByKind(9, "@9A45");
 KillEnemy();
+['@9A45'];
 
 ['Item_00063_Throw'];
 SimulateRoleMagic(1, 0, 0);
 EnemyApplyPoison(false, 7);
-JumpIfEnemyNotPoisonedByKind(6, "");
+JumpIfEnemyNotPoisonedByKind(6, "@9A4A");
 KillEnemy();
+['@9A4A'];
 
 ['Item_00077_Throw'];
 SimulateRoleMagic(1, 0, 0);
@@ -1006,8 +1012,8 @@ NpcChaseSetRange(3, 600);
 SimulateRoleMagic(54, 0, 0);
 
 ['Item_00074_Throw'];
-JumpIfEnemyHPMoreThanPercentage(5, "@977C");
-KillEnemy();
+SimulateRoleMagic(1, 0, 0);
+GotoWithNop("@AA12", 0);
 
 ['Item_00208_Use'];
 RemoveItem(57, 1, "@9AB0");
@@ -1118,7 +1124,7 @@ RoleSetAttr(Attribute.SpriteIdInBattle, 7, 0);
 RoleInstallEquip(Body.Hand, 127);
 RoleSetEquipAttr(EquipEffectType.Hand, Attribute.AttrAttackStrength, 98);
 RoleSetEquipAttr(EquipEffectType.Hand, Attribute.AttrDexterity, 98);
-RoleSetEquipAttr(EquipEffectType.Ornament, Attribute.AttrFleeRate, 98);
+RoleSetEquipAttr(EquipEffectType.Hand, Attribute.AttrFleeRate, 98);
 RoleSetAttr(Attribute.SpriteIdInBattle, 7, 0);
 RoleSetAttr(Attribute.AttackAll, 1, 0);
 RoleSetStatus(Status.DualAttack, 32760);
@@ -1224,11 +1230,11 @@ RemoveItem(232, 0, "");
 ['Item_00233_Use'];
 VideoUpdate(0, false);
 SetDlgLower(0, 0, false);
-//手卷上记载著∶
+//手卷上记载著：
 //"飞龙探云手"以及"冰心诀"
 //的口诀及图解还有一封信
 VideoUpdate(0, false);
-//信上写著∶
+//信上写著：
 //逍遥．．
 //探云手乃你爹娘生前成名于江
 //湖的绝技，现在是传给你的时

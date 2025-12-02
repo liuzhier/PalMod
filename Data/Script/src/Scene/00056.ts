@@ -13,10 +13,10 @@ EventSetTriggerMode(55, 4, false, 1);
 EventSetTriggerMode(56, 0, false, 1);
 EventSetDirFrame(55, 4, 3, 0);
 EventSetDirFrame(56, 0, 3, 0);
-//苗人∶
+//苗人：
 //看什么看！　滚开！
 ReplaceAndPause();
-//苗人∶
+//苗人：
 //没听到是不是？！你欠扁吗？
 
 ['Scene_00056_Enter'];

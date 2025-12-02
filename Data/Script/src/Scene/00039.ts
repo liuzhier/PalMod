@@ -18,7 +18,7 @@ MusicPlay(Music.富甲一方, true, false);
 PartySetPos(48, 67, 0);
 RoleSetDirFrame(3, 0, 0);
 VideoUpdate(0, false);
-//春兰∶
+//春兰：
 //姑爷～您若是还有任何需要的
 //请尽量吩咐我们下人们，奴婢
 //先下去了
@@ -34,7 +34,7 @@ WaitEventAutoScriptRun(8, false, false);
 RoleSetDirFrame(2, 0, 0);
 WaitEventAutoScriptRun(4, false, false);
 SetDlgLower(1, 0, false);
-//李逍遥∶
+//李逍遥：
 //哇．．好漂亮的房子
 //大户人家就是不一样
 ReplaceAndPause();

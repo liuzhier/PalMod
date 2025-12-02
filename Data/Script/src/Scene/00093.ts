@@ -45,10 +45,10 @@ RoleSetDirFrame(0, 0, 0);
 
 ['Event_00093_00005_Trigger'];
 SetDlgUpper(42, 0, false);
-//姬三娘∶
+//姬三娘：
 //呦～这么快就追来啦？
 SetDlgLower(1, 0, false);
-//李逍遥∶
+//李逍遥：
 //看你还逃到哪去！
 VideoUpdate(0, false);
 NpcSetDirFrame(0, 0);
@@ -62,7 +62,7 @@ EventSetState(-1, -1, 0);
 EventSetState(92, 6, 2);
 WaitEventAutoScriptRun(4, false, false);
 SetDlgLower(41, 0, false);
-//女飞贼∶
+//女飞贼：
 //小哥哥～要奴家杀了你这
 //英俊小生，真有点舍不得呢
 SetBattleMusic(Music.战意昂);
@@ -86,11 +86,11 @@ ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 MusicPlay(Music.险境_1, true, false);
 VideoUpdate(0, false);
 SetDlgUpper(2, 0, false);
-//李逍遥∶
+//李逍遥：
 //这井底之下居然别有洞天！
 VideoUpdate(0, false);
 SetDlgLower(21, 0, false);
-//林月如∶
+//林月如：
 //这里面一定有什么名堂
 //我们进去探它一探
 ReplaceAndPause();
@@ -176,8 +176,8 @@ ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 ['Event_00093_00016_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//获得紫青玉蓉膏
-AddItem(0, 0);
+//获得紫菁玉蓉膏
+AddItem(43, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 Call("@8E99");

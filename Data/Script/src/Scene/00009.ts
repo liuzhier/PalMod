@@ -25,14 +25,14 @@ NpcSetDirFrame(3, 0);
 ReplaceAndPauseWithNop("Event_00009_00004_Auto", 0);
 
 ['Event_00009_00002_Trigger'];
-//丁大伯∶
+//丁大伯：
 //我．．我不行了．．呵～呵～
 ReplaceAndPause();
 //呵．．咳～
 
 ['Event_00009_00003_Trigger'];
 SetDlgUpper(52, 0, false);
-//香兰∶
+//香兰：
 //李家哥哥，拜托你帮帮忙
 //我爹爹的哮喘病的突然发作了
 //你能否帮我们把洪大夫请过来
@@ -45,11 +45,11 @@ ReplaceAndPause();
 
 ['Event_00009_00004_Trigger'];
 SetDlgUpper(35, 0, false);
-//秀兰∶
+//秀兰：
 //呜～怎么办．．怎么办．．
 
 ['Event_00009_00007_Trigger'];
-//老王∶
+//老王：
 //哦～逍遥老弟．．
 //你有没有看到我们家小虎子啊
 ReplaceAndPause();

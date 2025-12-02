@@ -4,14 +4,14 @@ RoleSetDirFrame(3, 0, 0);
 MusicPlay(Music.蝶恋_1_副本, true, false);
 VideoUpdate(0, false);
 SetDlgUpper(6, 0, false);
-//李逍遥∶
+//李逍遥：
 //蝶．．．啊不～嫂子
 //真对不起。先前我们错怪您了
 //幸好罪魁祸首已死，现在一切
 //都没事了．．
 VideoUpdate(0, false);
 SetDlgLower(49, 0, false);
-//彩　依∶
+//彩　依：
 //呜．．来不及了．．
 //相公．．已经没救了
 VideoRestore();
@@ -19,13 +19,13 @@ VideoRestore();
 //．．就没人能解了
 VideoUpdate(0, false);
 SetDlgUpper(37, 0, false);
-//酒剑仙∶
+//酒剑仙：
 //小蝴蝶．．你要面对现实
 //就算你赔上一命，那只蜘蛛精
 //也不可能履行诺言的
 VideoUpdate(0, false);
 SetDlgLower(49, 0, false);
-//彩　依∶
+//彩　依：
 //可是．．可是．．
 //我已经～没有别的办法了
 VideoRestore();
@@ -33,20 +33,20 @@ VideoRestore();
 EventSetAutoScript(140, 2, "@5745");
 WaitEventAutoScriptRun(42, false, false);
 SetDlgLower(0, 0, false);
-//酒剑仙∶
+//酒剑仙：
 //小蝴蝶．．　何苦．．
 //千年修行得来不易呀！
 WaitEventAutoScriptRun(12, false, false);
-//彩　依∶
+//彩　依：
 //我这条命．．是相公给我的
 //不能眼睁睁的．．看他死掉
 VideoUpdate(0, false);
 SetDlgLower(0, 0, false);
-//酒剑仙∶
+//酒剑仙：
 //你这样子～自废千年道行
 //也只能换得他十年的寿命而已
 VideoUpdate(0, false);
-//彩　依∶
+//彩　依：
 //只要相公能活下去
 //妾身．．此生心愿已了
 WaitEventAutoScriptRun(4, false, false);
@@ -54,16 +54,16 @@ EventSetDirFrame(140, 2, 0, 8);
 EventSetState(140, 1, 1);
 WaitEventAutoScriptRun(6, false, false);
 SetDlgLower(49, 0, false);
-//彩　依∶
+//彩　依：
 //这件事．．
 //请诸位永远不要让相公知道
 SetDlgUpper(24, 0, false);
-//林月如∶
+//林月如：
 //为什么？　你为刘大哥做如
 //此大的牺牲，还不要他知道！
 VideoUpdate(0, false);
 SetDlgLower(49, 0, false);
-//彩　依∶
+//彩　依：
 //因为．．如果让相公知道这件
 //事，只是徒令他自责伤心罢了
 VideoRestore();
@@ -111,7 +111,7 @@ EventSetState(141, 0, 0);
 MusicPlay(Music.蝶恋_3, true, false);
 VideoUpdate(5, false);
 SetDlgUpper(37, 0, false);
-//酒剑仙∶
+//酒剑仙：
 //$03唉．．哎．．
 //世间有无情人，妖却有深情
 VideoRestore();
@@ -129,18 +129,18 @@ WaitEventAutoScriptRun(5, false, false);
 EventSetDirFrame(140, 5, 1, 0);
 VideoUpdate(0, false);
 SetDlgLower(24, 0, false);
-//林月如∶
+//林月如：
 //$04李大哥．．如果～有一天
 //我也遇到这种事，你．．
 //会不会牺牲自己来救我？
 RoleSetDirFrame(3, 0, 0);
 VideoUpdate(0, false);
 SetDlgLower(5, 0, false);
-//李逍遥∶
+//李逍遥：
 //$02啧～别说这种不吉利的话！
 VideoUpdate(0, false);
 SetDlgLower(21, 0, false);
-//林月如∶
+//林月如：
 //问一问而已嘛．．
 //若换作是你，我也会这么做
 //因为～没有人希望自己心爱
@@ -151,64 +151,64 @@ SetDlgLower(21, 0, false);
 //我能体会
 VideoUpdate(0, false);
 SetDlgLower(6, 0, false);
-//李逍遥∶
+//李逍遥：
 //傻瓜～想这些干什么
 //这种事不会发生在我们身上的
 VideoUpdate(0, false);
 SetDlgLower(21, 0, false);
-//林月如∶
+//林月如：
 //女孩子比较多愁善感嘛～
 VideoUpdate(0, false);
 SetDlgLower(9, 0, false);
-//李逍遥∶
+//李逍遥：
 //哦！　你哪一点像女孩子了？
 VideoUpdate(0, false);
 SetDlgLower(22, 0, false);
-//林月如∶
+//林月如：
 //你！　真不知好歹
 EventSetDirFrame(140, 5, 3, 0);
 WaitEventAutoScriptRun(6, false, false);
 EventSetDirFrame(140, 4, 1, 0);
 VideoUpdate(0, false);
 SetDlgUpper(37, 0, false);
-//酒剑仙∶
+//酒剑仙：
 //我要走了，你们二人好自为之
 RoleSetDirFrame(1, 0, 0);
 VideoUpdate(0, false);
 SetDlgLower(1, 0, false);
-//李逍遥∶
-//师父！　您要去哪？
+//李逍遥：
+//师父！　您要去哪里？
 SetDlgUpper(37, 0, false);
-//酒剑仙∶
+//酒剑仙：
 //回蜀山闭关修炼去也
 PartyWalkToBlock(41, 82, 1, 4);
 EventSetDirFrame(140, 5, 1, 0);
 VideoUpdate(0, false);
 SetDlgLower(3, 0, false);
-//李逍遥∶
+//李逍遥：
 //蜀山！
 //师父，您认识独孤剑圣吗？
 EventSetDirFrame(140, 4, 3, 0);
 VideoUpdate(0, false);
 SetDlgUpper(37, 0, false);
-//酒剑仙∶
+//酒剑仙：
 //怎么不认识？他是我大师兄
 VideoUpdate(0, false);
 SetDlgLower(3, 0, false);
-//李逍遥∶
+//李逍遥：
 //太好了！　可否带徒儿前去？
 //徒儿有一位朋友被剑圣师伯
 //救走了，徒儿想去找她！
 VideoUpdate(0, false);
 SetDlgUpper(37, 0, false);
-//酒剑仙∶
+//酒剑仙：
 //也好～　你也算是仙剑派
 //的弟子，应该去师门看看
 EventSetDirFrame(140, 4, 1, 0);
 VideoUpdate(0, false);
 SetDlgUpper(37, 0, false);
-//酒剑仙∶
-//闭上双眼，我要施法罗！
+//酒剑仙：
+//闭上双眼，我要施法啰！
 FadeOut(2);
 SetPalette(Palette.动画_长空万里展飞仙);
 SetRng(3);

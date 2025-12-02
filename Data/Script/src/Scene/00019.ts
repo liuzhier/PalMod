@@ -9,7 +9,7 @@ ReplaceAndPause();
 RoleSetDirFrame(3, 0, 0);
 VideoUpdate(0, false);
 SetDlgUpper(1, 0, false);
-//李逍遥∶
+//李逍遥：
 //仙．．灵．．洞天！？
 RoleSetDirFrame(2, 0, 0);
 VideoUpdate(0, false);

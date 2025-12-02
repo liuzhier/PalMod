@@ -5,7 +5,7 @@ FadeOut(0);
 
 ['Event_00013_00002_Trigger'];
 NpcSetFrame(0);
-//曾伯∶
+//曾伯：
 //要买什么就自个儿挑吧．．
 VideoUpdate(0, false);
 ShowBuyItemMenu(2);

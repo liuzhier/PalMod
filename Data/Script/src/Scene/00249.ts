@@ -30,13 +30,13 @@ PartyWalkToBlock(31, 60, 0, 8);
 PartyWalkToBlock(32, 59, 0, 2);
 ViewportMove(8, -4, 14);
 SetDlgUpper(0, 0, false);
-//石长老∶
+//石长老：
 //你们聚集在这里想做什么？
 //这里是王宫，你们想造反吗？
 VideoUpdate(0, false);
 Call("@8413");
 SetDlgLower(0, 0, false);
-//众士兵∶
+//众士兵：
 //　我们要见教主！
 VideoUpdate(0, false);
 Call("@8420");
@@ -49,13 +49,13 @@ ViewportMove(2, -1, 32);
 WaitEventAutoScriptRun(24, false, false);
 Call("@8413");
 SetDlgLower(0, 0, false);
-//众士兵∶
+//众士兵：
 //教主英明！教主万岁！
 VideoUpdate(0, false);
 Call("@8420");
 VideoUpdate(0, false);
 SetDlgUpper(80, 0, false);
-//拜月教主∶
+//拜月教主：
 //各位！　我们的国家、我们
 //的人民，正面临着一场劫难
 VideoRestore();
@@ -66,12 +66,12 @@ VideoRestore();
 VideoUpdate(0, false);
 Call("@8413");
 SetDlgLower(0, 0, false);
-//众士兵∶
+//众士兵：
 //是蛇妖女！！
 VideoUpdate(0, false);
 Call("@8420");
 SetDlgUpper(80, 0, false);
-//拜月教主∶
+//拜月教主：
 //国之将亡、必有妖孽
 //历代先祖亡灵降坛昭示于我
 //南绍王国数百基业将毁于一
@@ -89,12 +89,12 @@ VideoRestore();
 VideoUpdate(0, false);
 Call("@8413");
 SetDlgLower(0, 0, false);
-//众士兵∶
+//众士兵：
 //教主英明！！教主万岁！！
 VideoUpdate(0, false);
 Call("@8420");
 SetDlgUpper(80, 0, false);
-//拜月教主∶
+//拜月教主：
 //请各位弟兄务必支持我
 //杀妖孽、清君侧！
 VideoRestore();
@@ -104,30 +104,30 @@ VideoRestore();
 VideoUpdate(0, false);
 Call("@8413");
 SetDlgLower(0, 0, false);
-//众士兵∶
+//众士兵：
 //　杀！　杀！　杀！
 EventSetAutoScript(248, 6, "@8173");
 WaitEventAutoScriptRun(3, false, false);
 Call("@8420");
 WaitEventAutoScriptRun(2, false, false);
 SetDlgLower(0, 0, false);
-//石长老∶
+//石长老：
 //教主！你这样做是犯上啊！
 //大王纵然有所不是，毕竟是
 //我们的大王啊。你带兵包围
 //王宫更不是大臣所应为！
 VideoUpdate(0, false);
 SetDlgUpper(80, 0, false);
-//拜月教主∶
+//拜月教主：
 //要救国家，就要用非常的手段
 //这时候墨守成规，就不是忠臣
 VideoUpdate(0, false);
 SetDlgLower(0, 0, false);
-//石长老∶
+//石长老：
 //　但是．．
 VideoUpdate(0, false);
 SetDlgUpper(80, 0, false);
-//拜月教主∶
+//拜月教主：
 //石长老，这件事你不必管
 //一切后果由我承担！
 EventSetAutoScript(248, 3, "@8178");
@@ -159,48 +159,48 @@ WaitEventAutoScriptRun(6, false, false);
 ViewportMove(-4, 2, 44);
 
 ['Event_00249_00020_Trigger'];
-//士兵∶
+//士兵：
 //东张西望贼头贼脑的干什么？
 //快去前面集合！
 
 ['Event_00249_00021_Trigger'];
-//士兵∶
+//士兵：
 //站王宫门口的卫兵真是辛苦
 
 ['Event_00249_00022_Trigger'];
-//士兵∶
+//士兵：
 //看什么？　有什么好看的？
 
 ['Event_00249_00023_Trigger'];
-//士兵∶
+//士兵：
 //今天雨终于停了
 //前些日子下的大雨真是可怕呀
 
 ['Event_00249_00004_Trigger'];
-//士兵∶
+//士兵：
 //教主万岁！
 
 ['Event_00249_00005_Trigger'];
-//士兵∶
+//士兵：
 //教主万岁！
 
 ['Event_00249_00007_Trigger'];
-//士兵∶
+//士兵：
 //这座王宫是先王所建
 //已经有五十年历史了
 
 ['Event_00249_00008_Trigger'];
-//士兵∶
+//士兵：
 //要进去就赶快进去
 //别在这逗留！
 
 ['Event_00249_00009_Trigger'];
-//士兵∶
+//士兵：
 //下一班卫兵什么时候来换班啊
 //我也想跟进去看热闹
 
 ['Event_00249_00010_Trigger'];
-//士兵∶
+//士兵：
 //唉．．希望别出乱子才好
 VideoRestore();
 //喂～你是站在哪一边的？

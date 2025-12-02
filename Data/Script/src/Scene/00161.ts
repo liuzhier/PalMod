@@ -10,19 +10,19 @@ FadeOut(0);
 
 ['Event_00161_00003_Trigger'];
 SetDlgLower(1, 0, false);
-//李逍遥∶
+//李逍遥：
 //这．．这不是灵儿戴的
 //玉佛珠吗！怎么会在这里？
 WaitEventAutoScriptRun(2, false, true);
 SetDlgUpper(0, 0, false);
-//青衣弟子∶
+//青衣弟子：
 //唉呀！你不能拿走哇
 //那是掌门师父交待我
 //要拿去炼丹炉销毁的
 //我差点给忘了
 VideoUpdate(0, false);
 SetDlgLower(0, 0, false);
-//李逍遥∶
+//李逍遥：
 //销毁？这怎么行！
 //这串佛珠是我一个朋友的
 EventSetState(-1, -1, 0);
@@ -32,36 +32,36 @@ SetDlgCenter(0, false);
 //"李逍遥收起玉佛珠"
 VideoUpdate(0, false);
 SetDlgUpper(0, 0, false);
-//青衣弟子∶
+//青衣弟子：
 //那佛珠是妖魔所化身的呀！
 //师父说不能留它在人间
 //虽然它的法力被师父封住了
 //但还是很危险的！
 VideoUpdate(0, false);
 SetDlgLower(0, 0, false);
-//李逍遥∶
+//李逍遥：
 //先把它交给我吧
 //我自会向你们掌门说清楚的
 VideoUpdate(0, false);
 RoleSetDirFrame(3, 0, 0);
 VideoUpdate(0, false);
 SetDlgUpper(0, 0, false);
-//李逍遥问道∶
+//李逍遥问道：
 //小石头！　小石头！
 //你还在吗？
 VideoUpdate(0, false);
 SetDlgLower(86, 0, false);
-//小石头∶
+//小石头：
 //呜．．．主人．．
 //主人被关起来了．．
 VideoUpdate(0, false);
 SetDlgUpper(0, 0, false);
-//李逍遥问道∶
+//李逍遥问道：
 //主人？．．是说灵儿吗！
 //到底发生什么事了，快告诉我
 VideoUpdate(0, false);
 SetDlgLower(86, 0, false);
-//小石头∶
+//小石头：
 //有一伙苗疆人为了争夺主人
 //跟一个独眼的打了起来
 //结果通通都死掉了。
@@ -75,18 +75,18 @@ VideoRestore();
 //主人关进锁妖塔
 VideoUpdate(0, false);
 SetDlgLower(23, 0, false);
-//林月如∶
+//林月如：
 //他们怎么可以这么不讲理！？
 VideoUpdate(0, false);
 SetDlgUpper(0, 0, false);
-//李逍遥∶
+//李逍遥：
 //怎么．．怎么可能！
 //灵儿是活生生的人呐
 //怎么会被剑圣前辈当作
 //妖怪捉起来了？
 VideoUpdate(0, false);
 SetDlgLower(86, 0, false);
-//小石头∶
+//小石头：
 //求求你们一定要救我的主人
 //一旦被关入锁妖塔的人，绝无
 //生还的机会啊！
@@ -95,7 +95,7 @@ EventSetTriggerScript(159, 1, "@59EF");
 EventSetTriggerScript(159, 2, "@59E5");
 
 ['Event_00161_00004_Trigger'];
-//阿青∶
+//阿青：
 //你好，我是负责炼丹的阿青
 
 ['Event_00161_00005_Trigger'];

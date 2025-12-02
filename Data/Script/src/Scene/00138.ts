@@ -14,7 +14,7 @@ NpcSetDirFrame(3, 0);
 ReplaceAndPauseWithNop("Event_00138_00003_Auto", 0);
 
 ['Event_00138_00002_Trigger'];
-//宋氏∶
+//宋氏：
 //听说二位打从扬州来？
 VideoRestore();
 //我家相公是个古董商
@@ -22,7 +22,7 @@ VideoRestore();
 //至今音讯全无，我好担心呐！
 
 ['Event_00138_00003_Trigger'];
-//书生∶
+//书生：
 //十年寒窗无人问
 //一举成名天下知．．
 VideoRestore();

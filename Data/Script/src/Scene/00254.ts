@@ -4,38 +4,38 @@ PartySetRole(1, 4, 0);
 RoleSetDirFrame(0, 0, 0);
 VideoUpdate(0, false);
 SetDlgUpper(0, 0, false);
-//李逍遥∶
+//李逍遥：
 //娘娘．．有件事
 //我不知道该不该问
 VideoUpdate(0, false);
 SetDlgLower(73, 0, false);
-//巫后∶
+//巫后：
 //你有什么要求就说吧
 VideoUpdate(0, false);
 SetDlgUpper(0, 0, false);
-//李逍遥∶
+//李逍遥：
 //不～我并不想要求报酬
 //而是想问您．．
 //．．您还爱巫王吗？
 RoleSetDirFrame(3, 1, 0);
 VideoUpdate(0, false);
 SetDlgLower(73, 0, false);
-//巫后∶
+//巫后：
 //．．．．．．
 VideoUpdate(0, false);
 SetDlgUpper(0, 0, false);
-//李逍遥∶
+//李逍遥：
 //您不便回答那就算了
 VideoUpdate(0, false);
 SetDlgLower(73, 0, false);
-//巫后∶
+//巫后：
 //我仍然像当初一样爱着他．．
 //不管他今天对我们母子做了
 //什么，毕竟～他给了我这八
 //年来幸福快乐的日子．．
 VideoUpdate(0, false);
 SetDlgUpper(0, 0, false);
-//李逍遥∶
+//李逍遥：
 //我想你丈夫不至于那么绝情
 //才是。那什么教主的不是好
 //东西，我猜都是他在搞鬼
@@ -45,7 +45,7 @@ VideoRestore();
 //们一家人团聚
 VideoUpdate(0, false);
 SetDlgLower(73, 0, false);
-//巫后∶
+//巫后：
 //唉．．你的好意我心领
 //我自己不敢抱这种希望了
 
@@ -60,48 +60,48 @@ RoleSetDirFrame(1, 0, 1);
 EventSetAutoScript(253, 2, "@8287");
 ViewportMove(-2, -1, 24);
 SetDlgLower(73, 0, false);
-//巫后∶
+//巫后：
 //大王．．．
 VideoUpdate(0, false);
 SetDlgUpper(71, 0, false);
-//巫王∶
+//巫王：
 //青儿．．你真的要背叛我吗？
 VideoUpdate(0, false);
 SetDlgLower(73, 0, false);
-//巫后∶
+//巫后：
 //大王～您误会臣妾了
 VideoUpdate(0, false);
 SetDlgUpper(71, 0, false);
-//巫王∶
+//巫王：
 //他们都说～你不是人、而是妖
 //你说，我该不该相信你呢？
 SetDlgLower(73, 0, false);
-//巫后∶
+//巫后：
 //臣妾．．臣妾对大王的
 //忠心天地可表，神人共知
 //臣妾绝无害大王之心啊！
 EventSetAutoScript(253, 3, "@828B");
 WaitEventAutoScriptRun(16, false, false);
 SetDlgUpper(80, 0, false);
-//拜月教主∶
+//拜月教主：
 //大王！不必听她狡辩
 //事实证明一切
 EventSetDirFrame(253, 3, 3, 0);
 VideoUpdate(0, false);
 SetDlgUpper(80, 0, false);
-//拜月教主∶
+//拜月教主：
 //属下就让她在您面前现
 //出原形，让她伏首认罪！
 VideoUpdate(0, false);
 SetDlgUpper(71, 0, false);
-//巫王∶
+//巫王：
 //．．．．．．．．
 EventSetDirFrame(253, 2, 0, 0);
 WaitEventAutoScriptRun(2, false, false);
 EventSetDirFrame(253, 2, 1, 0);
 WaitEventAutoScriptRun(3, false, false);
 SetDlgUpper(0, 0, false);
-//巫王∶
+//巫王：
 //你动手吧！
 EventSetAutoScript(253, 2, "@8289");
 WaitEventAutoScriptRun(4, false, false);
@@ -113,13 +113,13 @@ EventSetAutoScript(253, 4, "@8293");
 EventSetAutoScript(253, 5, "@8297");
 WaitEventAutoScriptRun(16, false, false);
 SetDlgLower(0, 0, false);
-//巫后∶
+//巫后：
 //大王．．！！
 VideoUpdate(0, false);
 EventSetDirFrame(253, 3, 0, 12);
 VideoUpdate(0, false);
 SetDlgUpper(80, 0, false);
-//拜月教主∶
+//拜月教主：
 //妖女！现出原形吧！
 PlaySound(175);
 FadeColor(79, 2, false);
@@ -132,7 +132,7 @@ WaitEventAutoScriptRun(4, false, false);
 RoleSetDirFrame(2, 0, 0);
 VideoUpdate(0, false);
 SetDlgLower(0, 0, false);
-//李逍遥∶
+//李逍遥：
 //哇呀～　！！(
 RoleSetDirFrame(1, 0, 0);
 WaitEventAutoScriptRun(4, false, false);
@@ -143,18 +143,18 @@ RoleSetDirFrame(0, 0, 0);
 EventSetDirFrame(254, 0, 0, 1);
 VideoUpdate(0, false);
 SetDlgLower(5, 0, false);
-//李逍遥∶
+//李逍遥：
 //你们想动她，先过我这一关！
 VideoUpdate(0, false);
 SetDlgUpper(80, 0, false);
-//拜月教主∶
+//拜月教主：
 //小子，你算哪根葱？
 EventSetDirFrame(254, 0, 0, 2);
 WaitEventAutoScriptRun(3, false, false);
 EventSetDirFrame(254, 0, 0, 3);
 VideoUpdate(0, false);
 SetDlgLower(0, 0, false);
-//巫后∶
+//巫后：
 //你敌不过他们的，快跟我走！
 EventSetAutoScript(254, 0, "@829B");
 WaitEventAutoScriptRun(4, false, false);

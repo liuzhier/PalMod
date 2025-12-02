@@ -23,24 +23,27 @@ JumpIfEnemyTurn("@A81F");
 EnemyApplyPoison(true, 10);
 
 ['Magic_00072_Use'];
-JumpIfEnemyTurn("");
+JumpIfEnemyTurn("@A823");
 RemoveItem(88, 1, "@A832");
+['@A823'];
 
 ['Magic_00071_Success'];
 JumpIfEnemyTurn("@A827");
 EnemyApplyPoison(true, 5);
 
 ['Magic_00071_Use'];
-JumpIfEnemyTurn("");
+JumpIfEnemyTurn("@A82B");
 RemoveItem(88, 1, "@A832");
+['@A82B'];
 
 ['Magic_00053_Success'];
 JumpIfEnemyTurn("Item_00078_Use");
 EnemyApplyPoison(false, 5);
 
 ['Magic_00053_Use'];
-JumpIfEnemyTurn("");
+JumpIfEnemyTurn("@A831");
 RemoveItem(88, 1, "@A832");
+['@A831'];
 
 ['Magic_00047_Use'];
 CashModify(-500, "@A838");
@@ -110,7 +113,7 @@ ReplaceAndPause();
 ReplaceAndPause();
 ReplaceAndPause();
 ReplaceAndPause();
-HeroRemoveMagic(30008, 0);
+HeroRemoveMagic(30008, 1);
 SetDlgCenter(0, false);
 //"酒神咒"使用次数已用尽
 

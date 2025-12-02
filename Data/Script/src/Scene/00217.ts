@@ -2,11 +2,11 @@
 MusicPlay(Music.神木林, true, false);
 VideoUpdate(0, false);
 SetDlgLower(1, 0, false);
-//李逍遥∶
+//李逍遥：
 //这是什么地方？
 VideoUpdate(0, false);
 SetDlgUpper(27, 0, false);
-//阿奴∶
+//阿奴：
 //这处洞穴我们称之为试炼之窟
 //里面栖息著非常多巨大的毒虫
 //、毒兽，是个很可怕的地方
@@ -19,11 +19,11 @@ VideoRestore();
 //有太古时代女娲娘娘的遗迹喔
 VideoUpdate(0, false);
 SetDlgLower(1, 0, false);
-//李逍遥∶
+//李逍遥：
 //　遗迹．．？
 VideoUpdate(0, false);
 SetDlgUpper(27, 0, false);
-//阿奴∶
+//阿奴：
 //听说很久很久以前，有人曾
 //曾在洞窟最深处，发现女娲
 //娘娘的陵墓

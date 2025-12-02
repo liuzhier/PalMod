@@ -130,7 +130,7 @@ WaitEventAutoScriptRun(3, false, false);
 ReplaceAndPauseWithNop("Event_00083_00017_Auto", 0);
 
 ['Event_00083_00024_Trigger'];
-//醉鬼∶
+//醉鬼：
 //辣块妈妈地，这县太爷真不是
 //东西···呃！··
 //我弟弟也没犯什么罪，无缘无
@@ -139,7 +139,7 @@ EventSetAutoScript(-1, -1, "@34AF");
 EventSetTriggerMode(-1, -1, false, -1);
 
 ['Event_00083_00025_Trigger'];
-//醉鬼∶
+//醉鬼：
 //呃！···好喝、真好喝！
 EventSetAutoScript(-1, -1, "@34C9");
 EventSetTriggerMode(-1, -1, false, -1);
@@ -172,67 +172,67 @@ ReplaceAndPause();
 ReplaceAndPauseWithNop("Event_00083_00025_Auto", 0);
 
 ['Event_00083_00018_Trigger'];
-//告示∶
+//告示：
 //"近日女飞贼集团目无法纪
 //於城中四处行窃、作恶多端
 //特颁此令，有消息密报经证
 //实者赏银二百两。"
 
 ['Event_00083_00019_Trigger'];
-//少女∶
+//少女：
 //客人，要买什么东西，尽管挑。
 VideoUpdate(0, false);
 ShowBuyItemMenu(12);
 
 ['Event_00083_00020_Trigger'];
-//当铺老板∶
+//当铺老板：
 //是不是要典当些什么东西啊？
 //赶紧拿出来吧！
 VideoUpdate(0, false);
 ShowSellItemMenu();
 
 ['Event_00083_00009_Trigger'];
-//大宝∶
+//大宝：
 //喂，你不要跑嘛！
 SetDlgLower(0, 0, false);
-//二宝∶
+//二宝：
 //你不要追，我就不会跑了呀！
 
 ['Event_00083_00014_Trigger'];
-//巡捕∶
+//巡捕：
 //小子，你是从哪儿来的？
 //一副贼头贼脑的样子，说！
 VideoUpdate(0, false);
 SetDlgLower(0, 0, false);
-//李逍遥∶
+//李逍遥：
 //我是从余杭县来的
 //只是要找人而已。
 
 ['Event_00083_00015_Trigger'];
-//官差∶
+//官差：
 //小伙子，在扬州城里可别
 //想动什么歪脑筋喔！
 
 ['Event_00083_00016_Trigger'];
-//官差∶
+//官差：
 //看你是外地来的吧？！
 //小心一点，晚上不要到处乱跑
 
 ['Event_00083_00012_Trigger'];
-//路人∶
+//路人：
 //最近女飞贼实在有够猖狂
 //什么好东西都偷走了
 //搞得我们只好喝西北风。
 
 ['Event_00083_00013_Trigger'];
-//路人∶
+//路人：
 //唉！这也难怪扬州城的治
 //安日渐恶化，太守没作为
 //养的手下又是一群废物
 //想破案，难喔！
 
 ['Event_00083_00011_Trigger'];
-//居民∶
+//居民：
 //城内人心惶惶，老百姓们都
 //想要快快离开这个鬼地方。
 

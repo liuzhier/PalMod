@@ -18,3 +18,8 @@ SceneEnter(286);
 PartySetPos(50, 45, 1);
 FadeOut(0);
 
+['Event_00287_00016_Trigger'];
+SceneEnter(286);
+PartySetPos(43, 38, 1);
+FadeOut(0);
+

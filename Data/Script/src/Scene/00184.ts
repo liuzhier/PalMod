@@ -5,21 +5,21 @@ RoleSetDirFrame(1, 0, 0);
 PartySetPos(32, 80, 1);
 VideoUpdate(0, false);
 SetDlgLower(6, 0, false);
-//李逍遥∶
+//李逍遥：
 //恭喜三位一切圆满
 //我们也该告辞了．．
 VideoUpdate(0, false);
 SetDlgUpper(0, 0, false);
-//老村长∶
+//老村长：
 //等等，老朽有个东西
 //想赠予二位英雄
 VideoUpdate(0, false);
 SetDlgLower(27, 0, false);
-//阿奴∶
+//阿奴：
 //哦！　是什么宝物？)
 VideoUpdate(0, false);
 SetDlgUpper(0, 0, false);
-//老村长∶
+//老村长：
 //请女英雄在您左手边
 //的井口内一探便知．．
 RoleSetDirFrame(0, 0, 0);
@@ -28,13 +28,13 @@ WaitEventAutoScriptRun(18, false, false);
 EventSetAutoScript(183, 1, "@6B36");
 WaitEventAutoScriptRun(14, false, false);
 SetDlgLower(28, 0, false);
-//阿奴∶
+//阿奴：
 //哗～　你看！
 //是琥珀雕成的葫芦呢
 RoleSetDirFrame(1, 0, 0);
 VideoUpdate(0, false);
 SetDlgLower(1, 0, false);
-//李逍遥∶
+//李逍遥：
 //老伯，这东西太贵重了
 //我们不能收
 EventSetDirFrame(183, 1, 1, 0);
@@ -42,13 +42,13 @@ WaitEventAutoScriptRun(6, false, false);
 EventSetDirFrame(183, 1, 2, 0);
 VideoUpdate(0, false);
 SetDlgLower(30, 0, false);
-//阿奴∶
+//阿奴：
 //喂！　你很死脑筋呢
 //人家诚心诚意要送我们的
 //你不收，我可没说不要
 VideoUpdate(0, false);
 SetDlgUpper(0, 0, false);
-//老村长∶
+//老村长：
 //呵呵～此物乃是寿葫芦
 //是我年轻时在一次偶然的
 //机会中所得到的稀世珍宝
@@ -62,22 +62,22 @@ VideoRestore();
 //有所帮助
 VideoUpdate(0, false);
 SetDlgLower(1, 0, false);
-//李逍遥∶
+//李逍遥：
 //晚辈就恭敬不如从命了
 VideoUpdate(0, false);
 SetDlgUpper(0, 0, false);
-//老村长∶
+//老村长：
 //呵呵～天下无不散的宴席
 //让老朽送你们一程．．
 EventSetDirFrame(183, 1, 1, 0);
 VideoUpdate(0, false);
 SetDlgLower(27, 0, false);
-//阿奴∶
+//阿奴：
 //你不会也要我们喝仙水
 //把这里的事忘掉吧？
 VideoUpdate(0, false);
 SetDlgUpper(0, 0, false);
-//老村长∶
+//老村长：
 //二位是我们的恩人
 //我们怎会如此对待呢？
 VideoRestore();
@@ -107,7 +107,7 @@ WaitEventAutoScriptRun(4, false, false);
 EventSetDirFrame(183, 1, 1, 0);
 VideoUpdate(0, false);
 SetDlgLower(10, 0, false);
-//李逍遥∶
+//李逍遥：
 //原来你们是桃树精！
 //那～宋兄．．．
 VideoUpdate(0, false);

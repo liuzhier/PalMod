@@ -546,7 +546,7 @@ WaitEventAutoScriptRun(14, false, false);
 EventSetState(185, 74, 0);
 WaitEventAutoScriptRun(4, false, false);
 SetDlgLower(1, 0, false);
-//李逍遥∶
+//李逍遥：
 //对不起啦！　凤凰妈妈
 //借您生的蛋一用
 EventSetState(185, 71, 1);
@@ -559,23 +559,23 @@ PartyWalkToBlock(9, 16, 1, 2);
 PartyWalkToBlock(7, 19, 1, 4);
 WaitEventAutoScriptRun(4, false, false);
 SetDlgUpper(5, 0, false);
-//李逍遥∶
+//李逍遥：
 //喂！　小偷～把蛋还给我啊！
 EventSetDirFrame(185, 71, 0, 27);
 VideoUpdate(0, false);
 SetDlgUpper(30, 0, false);
-//阿奴∶
+//阿奴：
 //你才是小偷呢！
 VideoRestore();
 //这是我们族人守护圣兽
 //的蛋，不许你碰它！
 VideoUpdate(0, false);
 SetDlgUpper(7, 0, false);
-//李逍遥∶
-//你．．不给我就用抢的！
+//李逍遥：
+//你．．不给我就用抢的啰！
 VideoUpdate(0, false);
 SetDlgUpper(29, 0, false);
-//阿奴∶
+//阿奴：
 //嘻～抢得到就来呀！
 RoleSetDirFrame(0, 0, 0);
 WaitEventAutoScriptRun(5, false, false);
@@ -599,24 +599,24 @@ PartyWalkToBlock(6, 29, 1, 4);
 EventSetDirFrame(185, 71, 0, 27);
 VideoUpdate(0, false);
 SetDlgUpper(3, 0, false);
-//李逍遥∶
+//李逍遥：
 //你己经没有去路了
 //乖乖的把凤凰蛋交给我吧！
 VideoUpdate(0, false);
 SetDlgLower(28, 0, false);
-//阿奴∶
+//阿奴：
 //想得美咧～才不要给你！
 EventSetDirFrame(185, 71, 0, 10);
 WaitEventAutoScriptRun(4, false, false);
 SetDlgUpper(10, 0, false);
-//李逍遥∶
+//李逍遥：
 //你．．你想做什么？
 EventSetDirFrame(185, 71, 0, 15);
 WaitEventAutoScriptRun(3, false, false);
 EventSetDirFrame(185, 71, 0, 16);
 WaitEventAutoScriptRun(0, false, false);
 PartyWalkToBlock(7, 30, 0, 4);
-//李逍遥∶
+//李逍遥：
 //喂～别做傻事啊！
 PartyWalkToBlock(8, 31, 0, 4);
 EventSetAutoScript(185, 71, "@66E0");
@@ -638,7 +638,7 @@ EventSetState(185, 79, 1);
 ViewportMove(31, 39, -1);
 WaitEventAutoScriptRun(4, false, false);
 SetDlgLower(0, 0, false);
-//阿奴∶
+//阿奴：
 //　　哎呀呀．．(
 FadeOut(2);
 SceneEnter(189);

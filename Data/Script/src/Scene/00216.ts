@@ -34,16 +34,16 @@ BattleEnd();
 EventSetState(215, 12, 1);
 WaitEventAutoScriptRun(18, false, false);
 SetDlgLower(0, 0, false);
-//阿奴∶
+//阿奴：
 //通通给我住手！！
 WaitEventAutoScriptRun(18, false, false);
 SetDlgLower(28, 0, false);
-//阿奴∶
+//阿奴：
 //盖姐！你这是做什么？
 //为何对逍遥大哥动手？
 VideoUpdate(0, false);
 SetDlgUpper(44, 0, false);
-//盖罗娇∶
+//盖罗娇：
 //此人看见我军的机密
 //为了谨慎起见，所以属下
 //必须将他擒下
@@ -52,51 +52,51 @@ VideoRestore();
 //可不能让外人知道啊！
 VideoUpdate(0, false);
 SetDlgLower(30, 0, false);
-//阿奴∶
+//阿奴：
 //他是我和婆婆的朋友
 //你们不许对他无礼！
 //而且，是婆婆要他来这里的
 VideoUpdate(0, false);
 SetDlgUpper(44, 0, false);
-//盖罗娇∶
+//盖罗娇：
 //是．．既然是圣姑的朋友
 //那也就是我族的朋友
 VideoUpdate(0, false);
 SetDlgLower(1, 0, false);
-//李逍遥∶
+//李逍遥：
 //阿奴～盖将军是职责所在
 //这只是一场误会，大家把话
 //说明白就没事了
 EventSetDirFrame(215, 12, 3, 0);
 VideoUpdate(0, false);
 SetDlgUpper(27, 0, false);
-//阿奴∶
+//阿奴：
 //逍遥哥～你有没有怎样？
 VideoUpdate(0, false);
 SetDlgLower(1, 0, false);
-//李逍遥∶
+//李逍遥：
 //我．．没什么～还好
 VideoUpdate(0, false);
 SetDlgUpper(44, 0, false);
-//盖罗娇∶
+//盖罗娇：
 //小少主．．．
 //你怎么跟这汉人在一起？
 //他可是有妻室的人呢．．
 EventSetDirFrame(215, 12, 1, 0);
 VideoUpdate(0, false);
 SetDlgLower(27, 0, false);
-//阿奴∶
+//阿奴：
 //盖姐～　你别管人家嘛！
 VideoUpdate(0, false);
 SetDlgLower(1, 0, false);
-//李逍遥∶
+//李逍遥：
 //盖大姐，我来此地别无他意
 //而是此谷盛产傀儡虫，老婆婆
 //要我替他前来采集，还请大姐
 //通融放行．．
 VideoUpdate(0, false);
 SetDlgUpper(44, 0, false);
-//盖罗娇∶
+//盖罗娇：
 //呦～李公子这么说就太客
 //气了，您可是位大贵人呢！
 //我等先前无知冒犯，还请您
@@ -116,11 +116,11 @@ WaitEventAutoScriptRun(2, false, false);
 RoleSetDirFrame(1, 0, 0);
 WaitEventAutoScriptRun(2, false, false);
 SetDlgLower(1, 0, false);
-//李逍遥∶
+//李逍遥：
 //你怎么也来了？我女儿呢？
 VideoUpdate(0, false);
 SetDlgUpper(27, 0, false);
-//阿奴∶
+//阿奴：
 //小宝宝要妈妈抱才肯乖乖的
 //其他人抱着就一直哭个不停
 //我就交给灵儿姐姐啦
@@ -129,18 +129,18 @@ VideoRestore();
 //是婆婆要你来收集傀儡虫吗？
 VideoUpdate(0, false);
 SetDlgLower(1, 0, false);
-//李逍遥∶
+//李逍遥：
 //是的，要凑齐三十六只
 VideoUpdate(0, false);
 SetDlgUpper(27, 0, false);
-//阿奴∶
+//阿奴：
 //这么多啊！？
 VideoRestore();
 //奇怪．．婆婆一次要
 //这么多傀儡虫做什么？
 VideoUpdate(0, false);
 SetDlgLower(1, 0, false);
-//李逍遥∶
+//李逍遥：
 //我也不清楚．．总之～
 //你快完成老婆婆交待的事吧
 EventSetState(215, 12, 0);

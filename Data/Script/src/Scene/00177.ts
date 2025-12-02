@@ -83,7 +83,7 @@ EventSetState(-1, -1, 0);
 VideoUpdate(0, false);
 PlaySound(78);
 SetDlgBox(0);
-//得灵山仙芝
+//获得灵山仙芝
 AddItem(47, 0);
 
 ['Event_00177_00016_Auto'];

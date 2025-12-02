@@ -44,7 +44,7 @@ ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 Call("@8E99");
 SetDlgBox(0);
 //获得腐尸肉
-AddItem(0, 0);
+AddItem(56, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 Call("@8E99");

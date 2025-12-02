@@ -25,80 +25,80 @@ FadeOut(0);
 
 ['Event_00036_00009_Trigger'];
 SetDlgUpper(21, 0, false);
-//林月如∶
+//林月如：
 //瞧！我这身衣裳好不好看？
 VideoUpdate(0, false);
 SetDlgLower(1, 0, false);
-//李逍遥∶
+//李逍遥：
 //喔～好．．好看
 VideoUpdate(0, false);
 SetDlgUpper(22, 0, false);
-//林月如∶
+//林月如：
 //就这样子而已吗．．？！
 //人家可是好不容易才穿一次呢
 VideoUpdate(0, false);
 SetDlgLower(8, 0, false);
-//李逍遥∶
+//李逍遥：
 //林姑娘，我能否私下问你一
 //个问题，请你老实回答我
 SetDlgUpper(21, 0, false);
-//林月如∶
-//　你说啊！？
+//林月如：
+//　　说啊！？
 VideoUpdate(0, false);
 SetDlgLower(7, 0, false);
-//李逍遥∶
+//李逍遥：
 //你．．当真想要嫁给我？
 VideoUpdate(0, false);
 SetDlgUpper(21, 0, false);
-//林月如∶
+//林月如：
 //不是我嫁给你，是你入赘到
 //我们林家
 VideoUpdate(0, false);
 SetDlgLower(10, 0, false);
-//李逍遥∶
+//李逍遥：
 //不是指这个，我是指比武
 //招亲太草率了，这门亲事
 //不一定要算数
 VideoUpdate(0, false);
 SetDlgUpper(21, 0, false);
-//林月如∶
+//林月如：
 //没关系，我爹说了就算
 VideoUpdate(0, false);
 SetDlgLower(2, 0, false);
-//李逍遥∶
+//李逍遥：
 //这．．其实我今天上擂你与你
 //比武，只是想化解误会，并未
 //想到招亲这一层．．
 SetDlgUpper(21, 0, false);
-//林月如∶
+//林月如：
 //嘻～谁叫你要打赢我
 //现在全苏州城的人都知道你是
 //林家的新姑爷了，难道你想赖
 //帐不成？
 VideoUpdate(0, false);
 SetDlgLower(2, 0, false);
-//李逍遥∶
+//李逍遥：
 //可是～我们认识才不过二天
 VideoUpdate(0, false);
 SetDlgUpper(25, 0, false);
-//林月如∶
+//林月如：
 //说了半天，原来你讨厌我！
 VideoUpdate(0, false);
 SetDlgLower(6, 0, false);
-//李逍遥∶
+//李逍遥：
 //不．．而是．．
 //我总觉得这样太随便了
 SetDlgUpper(21, 0, false);
-//林月如∶
+//林月如：
 //我才不是随随便便的女人呢！
 //我在做什么，心里清楚的很
 VideoUpdate(0, false);
 SetDlgLower(7, 0, false);
-//李逍遥∶
+//李逍遥：
 //你该不会是为了昨天的事
 //还怀恨在心，故意捉弄我吧？
 SetDlgUpper(21, 0, false);
-//林月如∶
+//林月如：
 //嘻．．你说呢？)
 EventSetState(35, 13, 2);
 EventSetTriggerScript(34, 4, "@21D0");
@@ -124,7 +124,7 @@ ReplaceAndPause();
 
 ['Event_00036_00013_Trigger'];
 EventSetTriggerMode(-1, -1, false, 1);
-//秋菊∶
+//秋菊：
 //姑爷！
 //老爷在前厅请您过去一趟
 ReplaceAndPause();
@@ -133,26 +133,26 @@ ReplaceAndPause();
 
 ['Event_00036_00016_Trigger'];
 EventSetTriggerMode(-1, -1, false, -1);
-//丫鬟∶
+//丫鬟：
 //妖怪呀！有妖怪啊！
 
 ['Event_00036_00015_Trigger'];
 EventSetTriggerMode(-1, -1, false, 1);
 SetDlgLower(5, 0, false);
-//李逍遥∶
+//李逍遥：
 //究竟发生了什么事？
 VideoUpdate(0, false);
 SetDlgUpper(23, 0, false);
-//林月如∶
+//林月如：
 //蛇妖，是只半人半蛇的妖怪
 //就在西厢房里面！
 RoleMoveOneStep(-16, 8, 0);
 VideoUpdate(0, false);
 SetDlgLower(2, 0, false);
-//李逍遥∶
+//李逍遥：
 //灵儿！灵儿人呢？
 SetDlgUpper(23, 0, false);
-//林月如∶
+//林月如：
 //赵姑娘不见了！
 RoleSetDirFrame(0, 0, 0);
 VideoUpdate(0, false);
@@ -179,20 +179,20 @@ RoleMoveOneStep(-16, 8, 0);
 EventWalkOneStep(-1, -1, -16, 8);
 VideoUpdate(0, false);
 SetDlgUpper(24, 0, false);
-//林月如∶
+//林月如：
 //等一等！很危险呀！
 //现在里面一片漆黑，什么也看
 //不见，我已经叫人去取灯火了
 RoleSetDirFrame(2, 0, 0);
 VideoUpdate(0, false);
 SetDlgLower(2, 0, false);
-//李逍遥∶
+//李逍遥：
 //灵儿一定还在里面
 //我去救灵儿出来！
 RoleSetDirFrame(0, 0, 0);
 VideoUpdate(0, false);
 SetDlgUpper(24, 0, false);
-//林月如∶
+//林月如：
 //我跟你去！
 EventSetState(-1, -1, 0);
 HeroSetSprite(2, 245, false);
@@ -212,7 +212,7 @@ VideoUpdate(0, false);
 RoleMoveOneStep(-16, 8, 0);
 
 ['Event_00036_00014_Trigger'];
-//丫鬟∶
+//丫鬟：
 //这里是小姐住的西厢房
 
 ['Event_00036_00010_Auto'];
@@ -267,16 +267,16 @@ NpcMoveToBlock(49, 49, 1, 3);
 EventSetState(-1, -1, 0);
 
 ['Event_00036_00010_Trigger'];
-//丫鬟∶
+//丫鬟：
 //姑爷好！有什么事吗？
 SetDlgLower(0, 0, false);
-//李逍遥∶
+//李逍遥：
 //别叫我姑爷！
 //你知不知道跟我一道来
 //的那位姑娘的房间在哪里？
 VideoUpdate(0, false);
 SetDlgUpper(0, 0, false);
-//丫鬟∶
+//丫鬟：
 //她住在西厢房，从后花园的
 //小径一直走就可以看见了。
 

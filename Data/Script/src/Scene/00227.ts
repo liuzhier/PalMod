@@ -14,8 +14,8 @@ PartySetPos(48, 44, 1);
 FadeOut(0);
 
 ['Event_00227_00005_Trigger'];
-SceneEnter(226);
-PartySetPos(43, 75, 1);
+SceneEnter(227);
+PartySetPos(34, 93, 1);
 FadeOut(0);
 
 ['Event_00227_00006_Trigger'];
@@ -114,8 +114,8 @@ PartySetPos(28, 90, 1);
 FadeOut(0);
 
 ['Event_00227_00025_Trigger'];
-SceneEnter(226);
-PartySetPos(36, 56, 1);
+SceneEnter(227);
+PartySetPos(53, 71, 0);
 FadeOut(0);
 
 ['Event_00227_00026_Trigger'];

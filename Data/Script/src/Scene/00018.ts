@@ -169,7 +169,7 @@ SetDlgBox(0);
 SceneEnter(19);
 
 ['Event_00018_00003_Trigger'];
-//观音像上刻着一行字∶
+//观音像上刻着一行字：
 //"苦海无涯　回头是岸"
 
 ['Event_00018_00004_Trigger'];

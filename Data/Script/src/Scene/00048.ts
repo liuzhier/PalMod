@@ -13,45 +13,45 @@ EventSetTriggerMode(-1, -1, false, 1);
 EventModifyPos(-1, -1, -16, -8);
 NpcSetDirFrame(3, 0);
 VideoUpdate(0, false);
-//少女∶
+//少女：
 //啊～！？　不要杀我！
 ReplaceAndPause();
-//少女∶
+//少女：
 //我只是在这儿倒倒茶、端端
 //东西，什么都不知道！
 
 ['Event_00048_00006_Trigger'];
-//少女∶
+//少女：
 //你是谁？不要杀我！
 //我··我什么都不知道。
 
 ['Event_00048_00007_Trigger'];
-//少女∶
+//少女：
 //小英雄，求求你救救我们
 //这些女孩子吧！
 
 ['Event_00048_00008_Trigger'];
-//少女∶
+//少女：
 //救命啊！
 //不···不要杀我，求求你。
 
 ['Event_00048_00009_Trigger'];
-//少女∶
+//少女：
 //我原先住在河东黑水镇，是
 //在熟睡中不知不觉地被带到
 //这儿来的。
 
 ['Event_00048_00010_Trigger'];
-//少女∶
+//少女：
 //快救我们出去吧！求求你。
 
 ['Event_00048_00011_Trigger'];
-//少女∶
+//少女：
 //求求你，我是来自附近村镇的
 //请你救救我们。
 
 ['Event_00048_00012_Trigger'];
-//小玉∶
+//小玉：
 //你是谁？
 //是我爹娘请你来救我的吗？
 VideoRestore();
@@ -66,47 +66,47 @@ SetDlgLower(1, 0, false);
 //你们都是被蛇妖抓来的吗？
 VideoUpdate(0, false);
 SetDlgUpper(0, 0, false);
-//晓慧∶
+//晓慧：
 //是啊～那时候我真吓坏了！
 //还好到这以后，妖怪只要我
 //们做一些打杂的工作，并没
 //有伤害我们。
 
 ['Event_00048_00004_Trigger'];
-//妖狐女∶
+//妖狐女：
 //你们．．想干什么？
 VideoUpdate(0, false);
 SetDlgLower(5, 0, false);
-//李逍遥∶
+//李逍遥：
 //灵儿呢？你们把她藏在哪里？
 VideoUpdate(0, false);
 SetDlgUpper(0, 0, false);
-//妖狐女∶
+//妖狐女：
 //老娘这儿是有不少丫鬟
 //是从外头抓来的。有慧儿
 //、珠儿、湘儿、兰儿、
 //就是没有一个叫灵儿的
 VideoUpdate(0, false);
 SetDlgLower(5, 0, false);
-//李逍遥∶
+//李逍遥：
 //今天我可是豁出去了
 //不要以为你是女的我就
 //不敢对你怎么样
 //不交出人，我一样杀了你！
 VideoUpdate(0, false);
 SetDlgLower(24, 0, false);
-//林月如∶
+//林月如：
 //李大哥，你冷静点．．
 //先问清楚再说
 VideoUpdate(0, false);
 SetDlgLower(5, 0, false);
-//李逍遥∶
+//李逍遥：
 //管不了那么多了！
 //灵儿要是少了一根寒毛
 //我就要这里的妖怪全部陪葬
 VideoUpdate(0, false);
 SetDlgUpper(0, 0, false);
-//妖狐女∶
+//妖狐女：
 //好大的口气！
 VideoRestore();
 //老伴！
@@ -115,13 +115,13 @@ VideoRestore();
 //老伴？
 VideoUpdate(0, false);
 SetDlgLower(5, 0, false);
-//李逍遥∶
+//李逍遥：
 //叫也没用！
 //门口那只半人蛇妖
 //已经死在我剑下了
 VideoUpdate(0, false);
 SetDlgUpper(0, 0, false);
-//妖狐女∶
+//妖狐女：
 //什么！？　你杀了我相公
 //老娘跟你拼了！
 EventSetState(-1, -1, 0);
@@ -135,25 +135,25 @@ SetDlgBox(0);
 BattleEnd();
 VideoUpdate(0, false);
 SetDlgLower(24, 0, false);
-//林月如∶
+//林月如：
 //李大哥．．
 //刚才你的神情好骇人
 VideoUpdate(0, false);
 SetDlgLower(4, 0, false);
-//李逍遥∶
+//李逍遥：
 //我．．．我．．
 VideoUpdate(0, false);
 SetDlgLower(24, 0, false);
-//林月如∶
+//林月如：
 //可能．．赵姑娘真的
 //不在这里
 VideoUpdate(0, false);
 SetDlgLower(4, 0, false);
-//李逍遥∶
+//李逍遥：
 //那．．会是谁干的？
 VideoUpdate(0, false);
 SetDlgLower(24, 0, false);
-//林月如∶
+//林月如：
 //．．．．．．．
 VideoRestore();
 //我们先把这里被妖怪
@@ -162,14 +162,14 @@ VideoRestore();
 //从头查起吧．．
 VideoUpdate(0, false);
 SetDlgLower(4, 0, false);
-//李逍遥∶
+//李逍遥：
 //好．．．好吧
 
 ['Event_00048_00014_Trigger'];
 EventSetTriggerMode(-1, -1, false, -1);
 EventSetAutoScript(-1, -1, "@2590");
 ReplaceAndPause();
-//少女∶
+//少女：
 //救命啊！不···
 //不要杀我，求求你。
 
@@ -180,7 +180,7 @@ ReplaceAndPause();
 EventSetTriggerMode(-1, -1, false, -1);
 EventSetAutoScript(-1, -1, "@259E");
 ReplaceAndPause();
-//少女∶
+//少女：
 //救命啊！不要过来
 
 ['Event_00048_00016_Trigger'];

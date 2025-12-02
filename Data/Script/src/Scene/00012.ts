@@ -3,28 +3,28 @@ MusicPlay(Music.停止播放, true, false);
 VideoUpdate(0, false);
 EventSetTriggerMode(-1, -1, false, 1);
 SetDlgUpper(37, 0, false);
-//醉道士∶
+//醉道士：
 //哈哈哈！小伙子你果然守信
 VideoUpdate(0, false);
 SetDlgLower(6, 0, false);
-//李逍遥∶
+//李逍遥：
 //要不是婶婶看得紧，晚辈原本
 //还想替老前辈带几壶好酒来
 SetDlgUpper(37, 0, false);
-//醉道士∶
+//醉道士：
 //呵呵！那倒不必了
 //老夫喝遍天下名酒，要不是酒
 //虫闹得凶，才不稀罕那掺了水
 //的酸酒。
 VideoUpdate(0, false);
 SetDlgLower(1, 0, false);
-//李逍遥∶
+//李逍遥：
 //让前辈见笑了，乡下小店没啥
 //美酒佳肴，怠慢不周之处还请
 //前辈多多见谅
 VideoUpdate(0, false);
 SetDlgUpper(37, 0, false);
-//醉道士∶
+//醉道士：
 //哈～哈哈！这样说才像句人话
 //我一生从不亏欠别人，现在就
 //教你一式剑招，算是回报你赐
@@ -56,22 +56,22 @@ EventSetTriggerScript(4, 21, "Event_00005_00021_Trigger");
 EventSetTriggerScript(4, 20, "Event_00005_00020_Trigger");
 VideoUpdate(0, false);
 SetDlgLower(1, 0, false);
-//李逍遥∶
+//李逍遥：
 //前辈！请您收我为徒。
 SetDlgUpper(37, 0, false);
-//醉道士∶
+//醉道士：
 //贫道一向漂泊惯了
 //不想收徒弟
 VideoUpdate(0, false);
 RoleSetDirFrame(0, 8, 0);
 VideoUpdate(0, false);
 SetDlgLower(10, 0, false);
-//李逍遥∶
+//李逍遥：
 //前辈～求求您．．晚辈愿意孝
 //敬您下半辈子，跟随您行侠仗
 //义，云游四海．．
 SetDlgUpper(37, 0, false);
-//醉道士∶
+//醉道士：
 //你学此一招剑法，便可一生受
 //用无穷，你我缘尽于此，回家
 //去吧．．
@@ -89,7 +89,7 @@ WaitEventAutoScriptRun(2, false, false);
 RoleSetDirFrame(0, 0, 0);
 VideoUpdate(0, false);
 SetDlgLower(0, 0, false);
-//李逍遥∶
+//李逍遥：
 //前．．前辈！
 //还不知道您尊姓大名呢
 VideoUpdate(0, false);

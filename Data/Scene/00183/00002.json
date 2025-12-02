@@ -5,7 +5,7 @@
   "Y": 1296,
   "Layer": 0,
   "Trigger": {
-    "StateCode": 1,
+    "StateCode": 0,
     "IsAutoTrigger": false,
     "Range": 0
   },

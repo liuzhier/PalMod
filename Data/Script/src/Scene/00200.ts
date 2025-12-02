@@ -2,7 +2,7 @@
 PartySetPos(52, 26, 1);
 VideoUpdate(2, false);
 SetDlgLower(21, 0, false);
-//林月如∶
+//林月如：
 //$04从今以后你我就是好姐妹啦！~60
 VideoRestore();
 //我们三人要永远在一起

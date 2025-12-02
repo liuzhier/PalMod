@@ -650,7 +650,7 @@ BattleStart(265, "@A073", "@A071");
 GotoWithNop("@A0A7", 0);
 BattleStart(266, "@A073", "@A071");
 GotoWithNop("@A0A7", 0);
-['Event_00287_00016_Trigger'];
+['Event_00290_00002_Trigger'];
 BattleStart(267, "@A073", "@A071");
 GotoWithNop("@A0A7", 0);
 ['Event_00280_00007_Trigger'];

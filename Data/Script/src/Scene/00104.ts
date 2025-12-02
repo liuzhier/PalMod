@@ -16,54 +16,54 @@ FadeOut(0);
 ['Event_00104_00005_Trigger'];
 VideoUpdate(0, true);
 SetDlgUpper(83, 0, false);
-//女子∶
+//女子：
 //你们擅自闯进我家来
 //不觉得失礼吗？
 VideoUpdate(0, false);
 SetDlgLower(6, 0, false);
-//李逍遥∶
+//李逍遥：
 //是．．恕在下冒昧
 //我们只是想问个路
 VideoUpdate(0, false);
 SetDlgUpper(83, 0, false);
-//女子∶
+//女子：
 //没路了．．
 //这山谷往北的栈道被我拆了
 //再过几天，我得把往南的山
 //路封起来
 SetDlgLower(23, 0, false);
-//林月如∶
+//林月如：
 //　这是为什么？
 VideoUpdate(0, false);
 SetDlgUpper(83, 0, false);
-//女子∶
+//女子：
 //省得再有无聊的男人闯进来
 VideoUpdate(0, false);
 SetDlgLower(1, 0, false);
-//李逍遥∶
+//李逍遥：
 //姑娘，这里是来往必经之路
 //就算这座山谷是你的，你也
 //不能这样做呀！
 VideoUpdate(0, false);
 SetDlgUpper(83, 0, false);
-//女子∶
+//女子：
 //你管不着！
 VideoUpdate(0, false);
 SetDlgLower(23, 0, false);
-//林月如∶
-//喂．．　这个人很不讲理喔！
+//林月如：
+//喂．．你这个人很不讲理喔！
 VideoUpdate(0, false);
 SetDlgUpper(83, 0, false);
-//女子∶
+//女子：
 //这是我住的地方
 //请你们出去！
 SetDlgLower(1, 0, false);
-//李逍遥∶
+//李逍遥：
 //好好～算我们失礼
 RoleSetDirFrame(3, 0, 0);
 VideoUpdate(0, false);
 SetDlgLower(1, 0, false);
-//李逍遥∶
+//李逍遥：
 //月如～算了，咱们走吧
 RoleMoveOneStep(16, 8, 0);
 VideoUpdate(0, false);
@@ -72,7 +72,7 @@ VideoUpdate(0, false);
 SceneSetScript(102, "@53EC", "");
 ReplaceAndPause();
 SetDlgUpper(83, 0, false);
-//女子∶
+//女子：
 //你们还不走吗！？
 RoleSetDirFrame(3, 0, 0);
 RoleMoveOneStep(16, 8, 0);

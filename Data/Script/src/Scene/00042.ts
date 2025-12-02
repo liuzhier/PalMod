@@ -21,20 +21,20 @@ FadeOut(0);
 ['Event_00042_00002_Trigger'];
 EventSetTriggerMode(-1, -1, false, 1);
 SetDlgUpper(57, 0, false);
-//蛇妖男∶
+//蛇妖男：
 //你们闯进我的洞府来做什么？
 VideoUpdate(0, false);
 SetDlgLower(5, 0, false);
-//李逍遥∶
+//李逍遥：
 //你就是那只蛇妖！？
 //把灵儿还我
 VideoUpdate(0, false);
 SetDlgUpper(57, 0, false);
-//蛇妖男∶
+//蛇妖男：
 //谁是灵儿？
 VideoUpdate(0, false);
 SetDlgLower(5, 0, false);
-//李逍遥∶
+//李逍遥：
 //再不交出人就吃我一剑！
 NpcSetFrame(1);
 SetBattleMusic(Music.心急如焚);

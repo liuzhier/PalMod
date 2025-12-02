@@ -400,7 +400,7 @@ FadeOut(0);
 ['Event_00193_00057_Trigger'];
 EventSetAutoScript(-1, -1, "");
 SetDlgLower(1, 0, false);
-//李逍遥∶
+//李逍遥：
 //小猴子，借过一下好不好？
 NpcSetFrame(1);
 WaitEventAutoScriptRun(2, false, false);
@@ -416,13 +416,13 @@ NpcSetFrame(0);
 WaitEventAutoScriptRun(2, false, false);
 ReplaceAndPause();
 SetDlgLower(7, 0, false);
-//李逍遥∶
+//李逍遥：
 //不走开我打你喔！
 VideoUpdate(0, false);
 NpcSetFrame(2);
 WaitEventAutoScriptRun(4, false, false);
 SetDlgLower(5, 0, false);
-//李逍遥∶
+//李逍遥：
 //这死猴子．．．
 ReplaceAndPause();
 SetDlgCenter(0, false);

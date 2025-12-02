@@ -31,7 +31,7 @@ FadeOut(0);
 ['Event_00004_00013_Trigger'];
 EventSetTriggerMode(-1, -1, false, 2);
 SetDlgUpper(55, 0, false);
-//李大娘∶
+//李大娘：
 //搞什么～慢吞吞的！
 EventSetDirFrame(-1, -1, 2, 0);
 VideoUpdate(0, false);
@@ -43,12 +43,12 @@ VideoUpdate(0, false);
 Delay(4);
 EventSetDirFrame(-1, -1, 1, 0);
 VideoUpdate(0, false);
-//李大娘∶
+//李大娘：
 //各位客官．．里边儿请．．
 VideoUpdate(0, false);
 EventSetDirFrame(-1, -1, 3, 0);
 VideoUpdate(0, false);
-//李大娘∶
+//李大娘：
 //逍遥！帮我招呼客官们歇歇腿
 //我到厨房准备酒菜．．
 EventSetAutoScript(3, 13, "@0175");
@@ -58,31 +58,31 @@ EventSetAutoScript(3, 17, "@019B");
 EventSetAutoScript(3, 18, "@01A4");
 WaitEventAutoScriptRun(15, false, false);
 SetDlgUpper(59, 0, false);
-//苗人头领∶
+//苗人头领：
 //小二！这间客栈我们包下了，
 //除了老板和伙计，其他不相干
 //的人全都给我请出去
 SetDlgLower(3, 0, false);
-//李逍遥∶
+//李逍遥：
 //小店今天没别的客人，各位客
 //官．．啊～不！请问各位大爷
 //们还有啥吩咐的？
 VideoUpdate(0, false);
 SetDlgUpper(59, 0, false);
-//苗人头领∶
+//苗人头领：
 //以后没有我们的吩咐，不许闲
 //杂人等上楼来，知道了吗？
 SetDlgLower(6, 0, false);
-//李逍遥∶
+//李逍遥：
 //是．．这容易，小的一定照办
 VideoUpdate(0, false);
 SetDlgUpper(59, 0, false);
-//苗人头领∶
+//苗人头领：
 //很好！这些银子你拿去，往后
 //这几天只要你乖乖听我们的话
 //办事，赏银不会少你的。
 SetDlgLower(3, 0, false);
-//李逍遥∶
+//李逍遥：
 //是～谢大爷的赏．．
 //小店一定让您宾至如归！
 EventSetTriggerScript(1, 10, "@005E");
@@ -94,23 +94,23 @@ WaitEventAutoScriptRun(8, false, false);
 RoleSetDirFrame(0, 0, 0);
 WaitEventAutoScriptRun(0, false, false);
 SetDlgLower(0, 0, false);
-//李逍遥∶
+//李逍遥：
 //哇哈！真是遇到财神爷了
 ReplaceAndPause();
 //别怠慢了客人
 
 ['Event_00004_00016_Trigger'];
 SetDlgUpper(59, 0, false);
-//苗人头领∶
+//苗人头领：
 //没事了．．去忙你的吧
 
 ['Event_00004_00017_Trigger'];
-//苗人喽罗∶
+//苗人喽啰：
 //没事．．你可以走了
 
 ['Event_00004_00018_Trigger'];
 EventSetTriggerMode(-1, -1, false, 2);
-//苗人喽罗∶
+//苗人喽啰：
 //喂！店小二，大爷们饿了
 //快点把酒菜送上来
 ReplaceAndPause();
@@ -139,10 +139,10 @@ FadeOut(0);
 
 ['Event_00004_00005_Trigger'];
 SetDlgCenter(0, false);
-//"婶婶房传来声音．．"
+//"婶婶房里传来声音．．"
 VideoUpdate(0, false);
 SetDlgUpper(0, 0, false);
-//李大娘∶
+//李大娘：
 //是逍遥吗？　要去哪呀？
 //怎么这么晚了怎么还不睡啊？
 //你是不是又想溜出去鬼混哪？
@@ -151,7 +151,7 @@ PartySetPos(39, 91, 1);
 RoleSetDirFrame(2, 0, 0);
 VideoUpdate(0, false);
 SetDlgLower(1, 0, false);
-//李逍遥∶
+//李逍遥：
 //啊．．没事
 //我这就回房去了
 VideoUpdate(0, false);

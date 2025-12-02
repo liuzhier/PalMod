@@ -12,14 +12,14 @@ PartySetPos(10, 23, 1);
 VideoWave(2, 0);
 MusicPlay(Music.险境_2, true, false);
 SetBattlefield(FbpWin.水底密道_1);
-
+GotoWithNop("@0002", 0);
 ['Event_00253_00004_Trigger'];
 EventSetState(-1, -1, 0);
 WaitEventAutoScriptRun(0, false, true);
 EventSetState(252, 3, 1);
 FadeToScene(0, -1);
 SetDlgLower(80, 0, false);
-//拜月教主∶
+//拜月教主：
 //哈哈哈～想水遁？
 //你们就等着变成我的
 //水魔兽的饵食吧！
@@ -34,14 +34,14 @@ WaitEventAutoScriptRun(5, false, false);
 RoleSetDirFrame(3, 0, 0);
 VideoUpdate(0, false);
 SetDlgUpper(73, 0, false);
-//巫后∶
+//巫后：
 //你．．！
 //你竟然真的在培养邪魔兽？
 //你可知道这会召来多么严重
 //的灾祸吗！？
 VideoUpdate(0, false);
 SetDlgLower(80, 0, false);
-//拜月教主∶
+//拜月教主：
 //只不过引来小小的洪水罢了
 //这点损失根本不算什么
 //更何况，全族的人都相信
@@ -50,12 +50,12 @@ SetDlgLower(80, 0, false);
 //你只有一死！
 VideoUpdate(0, false);
 SetDlgUpper(73, 0, false);
-//巫后∶
+//巫后：
 //果然～
 //这一切都是你算计好的！？
 VideoUpdate(0, false);
 SetDlgLower(80, 0, false);
-//拜月教主∶
+//拜月教主：
 //呵呵～这就要怪你不是人类
 //没有人会相信一只蛇妖的话
 VideoRestore();
@@ -72,17 +72,17 @@ BattleEnd();
 RoleSetDirFrame(1, 0, 0);
 WaitEventAutoScriptRun(8, false, false);
 SetDlgLower(5, 0, false);
-//李逍遥∶
+//李逍遥：
 //这只家伙还在动！？
 VideoUpdate(0, false);
 SetDlgLower(0, 0, false);
-//巫后∶
+//巫后：
 //水魔兽遇水则生
 //只在水中它就是不死之身
 //不管把它砍成几截也没用
 VideoUpdate(0, false);
 SetDlgLower(10, 0, false);
-//李逍遥∶
+//李逍遥：
 //哇．．那只有逃啦！(
 
 ['Event_00253_00002_Auto'];

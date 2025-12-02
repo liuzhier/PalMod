@@ -34,7 +34,7 @@ WaitEventAutoScriptRun(0, false, false);
 RoleMoveOneStep(8, 4, 0);
 WaitEventAutoScriptRun(2, false, false);
 SetDlgUpper(0, 0, false);
-//黑蜘蛛∶
+//黑蜘蛛：
 //唧～唧～　擅入者死！
 EventSetState(139, 4, 0);
 BattleStart(43, "@A073", "");

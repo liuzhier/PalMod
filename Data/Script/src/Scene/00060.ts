@@ -192,7 +192,7 @@ MusicPlay(Music.十面埋伏, true, false);
 EventSetState(59, 67, 1);
 WaitEventAutoScriptRun(22, false, false);
 SetDlgLower(86, 0, false);
-//小石头∶
+//小石头：
 //主人～他就是赤鬼王！
 VideoUpdate(0, false);
 SetDlgUpper(61, 0, false);
@@ -269,7 +269,7 @@ SetDlgLower(11, 0, false);
 VideoUpdate(0, false);
 SetDlgUpper(3, 0, false);
 //哈！　既然是千年古物．．
-//应该值不少钱！
+//应该值不少钱啰！
 SetDlgLower(22, 0, false);
 //就只会想到钱！
 VideoUpdate(0, false);

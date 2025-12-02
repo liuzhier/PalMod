@@ -6,7 +6,7 @@ RoleSetDirFrame(0, 0, 0);
 PartySetPos(37, 46, 1);
 VideoUpdate(0, false);
 SetDlgLower(11, 0, false);
-//赵灵儿∶
+//赵灵儿：
 //$08娘亲．．．孩儿来看您了
 VideoUpdate(0, false);
 MusicPlay(Music.今生情不悔, true, false);
@@ -32,7 +32,7 @@ VideoUpdate(0, false);
 EventSetDirFrame(233, 1, 0, 1);
 FadeToScene(3, -1);
 SetDlgLower(11, 0, false);
-//赵灵儿∶
+//赵灵儿：
 //娘．．．！
 FadeOut(0);
 EventSetState(233, 1, 0);
@@ -57,7 +57,7 @@ VideoUpdate(0, false);
 EventSetDirFrame(233, 3, 2, 0);
 VideoUpdate(0, false);
 SetDlgLower(88, 0, false);
-//赵灵儿∶
+//赵灵儿：
 //$02走吧～到祭坛去！
 //我要学娘一样施法祭天祈雨
 //只要解除干旱，大家就不必

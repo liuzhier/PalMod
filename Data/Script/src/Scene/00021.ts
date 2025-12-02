@@ -20,82 +20,82 @@ EventSetTriggerMode(-1, -1, false, 1);
 EventSetTriggerScript(14, 1, "@10AB");
 AddItem(213, 0);
 SetDlgUpper(11, 0, false);
-//赵灵儿∶
+//赵灵儿：
 //让你婶婶服下这颗"紫金丹"，再
 //睡上几个时辰就会好起来的
 VideoUpdate(0, false);
 SetDlgLower(1, 0, false);
-//李逍遥∶
+//李逍遥：
 //仙女姊姊的大恩大德，我．．
 //我真不知该如何报答。
 VideoUpdate(0, false);
 SetDlgUpper(14, 0, false);
-//少女∶
+//少女：
 //嘻嘻嘻．．！
 //你真的以为我是仙女？
 VideoUpdate(0, false);
 SetDlgLower(2, 0, false);
-//李逍遥∶
+//李逍遥：
 //难道．．你．．
 //你是菩萨娘娘！！
 SetDlgUpper(14, 0, false);
-//少女∶
+//少女：
 //呵呵～怎么可能嘛～
 //我可是有名字的，不要一直
 //仙女、菩萨的这样叫人家
 VideoUpdate(0, false);
 SetDlgLower(1, 0, false);
-//李逍遥∶
+//李逍遥：
 //那～姑娘的芳名是？
 VideoUpdate(0, false);
 SetDlgUpper(11, 0, false);
-//少女∶
+//少女：
 //我叫赵灵儿～你呢？
 SetDlgLower(1, 0, false);
-//李逍遥∶
+//李逍遥：
 //敝姓李，名逍遥
 VideoUpdate(0, false);
 SetDlgUpper(14, 0, false);
-//赵灵儿∶
+//赵灵儿：
 //刚才你好笨喔～只用一点
 //小法术就把你吓得团团转
 //喂．．你几岁啦？
 SetDlgLower(1, 0, false);
-//李逍遥∶
+//李逍遥：
 //我今年十九。
 VideoUpdate(0, false);
 SetDlgUpper(14, 0, false);
-//赵灵儿∶
+//赵灵儿：
 //你还比我大三岁哩！
 //那．．你应该比较知道
 //外头有什么新鲜好玩的？
 SetDlgLower(6, 0, false);
-//李逍遥∶
+//李逍遥：
 //啊．．这．．
 VideoUpdate(0, false);
 SetDlgUpper(17, 0, false);
-//赵灵儿∶
+//赵灵儿：
 //说给我听嘛～人家已经不是
 //小孩子了，姥姥还是不许我
 //到外头去，每天在宫内修炼
 //都快闷死了。
 VideoUpdate(0, false);
 SetDlgLower(3, 0, false);
-//李逍遥∶
+//李逍遥：
 //那．．下回有机会我再陪你到
 //城里头逛逛庙会
 SetDlgUpper(12, 0, false);
-//赵灵儿∶
+//赵灵儿：
 //嘻！你可不能赖皮喔．．
 //我们来打勾勾！
 VideoUpdate(0, false);
 SetDlgLower(1, 0, false);
-//李逍遥∶
+//李逍遥：
 //好！打勾勾，赖皮的是小狗
 EventSetState(20, 8, 2);
 ReplaceAndPause();
 SetDlgUpper(14, 0, false);
-//赵灵儿∶
+//赵灵儿：
 //不许赖皮喔．．
 
 ['Event_00021_00008_Trigger'];
@@ -113,7 +113,7 @@ VideoUpdate(0, false);
 SetDlgUpper(54, 0, false);
 //小子！你怎么进来的？
 SetDlgLower(2, 0, false);
-//李逍遥∶
+//李逍遥：
 //哇．．．我．．我．．。
 EventSetDirFrame(20, 2, 0, 0);
 EventSetPos(20, 2, 632, 1444);
@@ -164,7 +164,7 @@ SetDlgLower(17, 0, false);
 //可～可是．．他．．
 VideoUpdate(0, false);
 SetDlgLower(10, 0, false);
-//李逍遥∶
+//李逍遥：
 //老婆婆．．请你不要责怪她
 //我马上离开这里就是了
 SetDlgUpper(54, 0, false);
@@ -271,7 +271,7 @@ SetDlgUpper(54, 0, false);
 //你好大的狗胆哪！
 //竟敢欺负我宝贝的灵儿？
 SetDlgLower(10, 0, false);
-//李逍遥∶
+//李逍遥：
 //那．．纯属意外．．意外！
 VideoUpdate(0, false);
 SetDlgUpper(54, 0, false);
@@ -285,7 +285,7 @@ VideoUpdate(0, false);
 RoleMoveOneStep(-16, 8, 0);
 VideoUpdate(0, false);
 SetDlgLower(2, 0, false);
-//李逍遥∶
+//李逍遥：
 //那～　没第三条路了吗？
 VideoUpdate(0, false);
 NpcSetDirFrame(2, 0);
@@ -294,7 +294,7 @@ SetDlgUpper(54, 0, false);
 //要我现在就吃了你也行！
 VideoUpdate(0, false);
 SetDlgLower(10, 0, false);
-//李逍遥∶
+//李逍遥：
 //　我娶．．我娶！
 MusicStop(1);
 FadeOut(3);
@@ -307,14 +307,14 @@ RoleSetDirFrame(0, 0, 0);
 PartySetPos(37, 71, 0);
 VideoFadeAndUpdate(1);
 SetDlgLower(7, 0, false);
-//李逍遥∶
+//李逍遥：
 //我一定得想办法逃出去．．
 //你．．能不能帮我？
 VideoUpdate(0, false);
 SetDlgUpper(11, 0, false);
 //那．．你还会不会再回来？
 SetDlgLower(8, 0, false);
-//李逍遥∶
+//李逍遥：
 //开玩笑！？
 //要是跟一只会吃人的老妖怪住
 //在一起，有几条命也不够用！
@@ -331,7 +331,7 @@ VideoRestore();
 //你会发现其实她对人很好
 VideoUpdate(0, false);
 SetDlgLower(8, 0, false);
-//李逍遥∶
+//李逍遥：
 //不不．．我若不把灵药带回去
 //婶婶就活不成了
 VideoRestore();
@@ -356,13 +356,13 @@ SetDlgLower(0, 0, false);
 //真的！？　太好了！
 VideoUpdate(0, false);
 SetDlgLower(3, 0, false);
-//李逍遥∶
-//谢谢～谢谢　！
+//李逍遥：
+//谢谢～谢谢你！
 EventSetState(20, 6, 1);
 EventSetState(20, 4, 0);
 VideoUpdate(0, false);
 SetDlgLower(3, 0, false);
-//李逍遥∶
+//李逍遥：
 //大恩大德，我李逍遥永世不忘
 WaitEventAutoScriptRun(10, false, false);
 SetDlgUpper(15, 0, false);
@@ -373,7 +373,7 @@ WaitEventAutoScriptRun(8, false, false);
 EventSetDirFrame(20, 3, 0, 2);
 WaitEventAutoScriptRun(10, false, false);
 SetDlgUpper(0, 0, false);
-//赵灵儿低头吟唱着∶
+//赵灵儿低头吟唱着：
 //$08既不回头　何必不忘
 //既然无缘　何须誓言
 //今日种种　似水无痕
@@ -388,7 +388,7 @@ EventSetState(20, 4, 0);
 EventSetState(20, 5, 1);
 WaitEventAutoScriptRun(5, false, false);
 SetDlgLower(1, 0, false);
-//李逍遥∶
+//李逍遥：
 //你不要这样嘛～　我．．
 //我既然答应说要娶你
 //就一定说话算话！
@@ -405,7 +405,7 @@ EventSetDirFrame(20, 5, 0, 1);
 EventSetDirFrame(20, 3, 0, 13);
 VideoUpdate(0, false);
 SetDlgLower(1, 0, false);
-//李逍遥∶
+//李逍遥：
 //句句出自肺腑．．相信我
 WaitEventAutoScriptRun(8, false, false);
 EventSetState(20, 3, 0);
@@ -441,7 +441,7 @@ WaitEventAutoScriptRun(6, false, false);
 RoleSetDirFrame(3, 0, 0);
 WaitEventAutoScriptRun(8, false, false);
 SetDlgLower(0, 0, false);
-//李逍遥∶
+//李逍遥：
 //$07天亮了．．我必须走了。~60
 FadeOut(3);
 EventSetState(20, 7, 0);
@@ -453,7 +453,7 @@ PartySetPos(16, 94, 1);
 RoleSetDirFrame(2, 0, 0);
 VideoUpdate(3, false);
 SetDlgLower(1, 0, false);
-//李逍遥∶
+//李逍遥：
 //$02灵儿～ 等我．．
 //我一定会尽快回来接你
 SetDlgUpper(11, 0, false);
@@ -494,7 +494,7 @@ SetDlgUpper(77, 0, false);
 //以后～　灵儿就托付给你了
 VideoUpdate(0, false);
 SetDlgLower(10, 0, false);
-//李逍遥∶
+//李逍遥：
 //给．．给我！？
 VideoUpdate(0, false);
 SetDlgUpper(77, 0, false);
@@ -506,11 +506,11 @@ VideoRestore();
 //不然我做鬼也不饶你！
 VideoUpdate(0, false);
 SetDlgLower(10, 0, false);
-//李逍遥∶
+//李逍遥：
 //好好．．我明白．．
 //您安心的去吧
 VideoUpdate(0, false);
-//"李逍遥心想∶惨啦．．"
+//"李逍遥心想：惨啦．．"
 //"这下子可惹个大麻烦上身了"
 VideoUpdate(0, false);
 SetDlgUpper(77, 0, false);
@@ -549,7 +549,7 @@ VideoUpdate(0, false);
 RoleSetDirFrame(2, 0, 0);
 WaitEventAutoScriptRun(4, false, false);
 SetDlgLower(0, 0, false);
-//李逍遥∶
+//李逍遥：
 //别难过了．．先把她们安葬吧
 EventSetState(-1, -1, 0);
 EventSetState(20, 10, 0);
@@ -610,7 +610,7 @@ WaitEventAutoScriptRun(0, false, false);
 RoleMoveOneStep(8, -4, 0);
 WaitEventAutoScriptRun(0, false, false);
 SetDlgLower(2, 0, false);
-//李逍遥∶
+//李逍遥：
 //天啊！好惨．．
 RoleMoveOneStep(8, -4, 0);
 WaitEventAutoScriptRun(0, false, false);

@@ -1,5 +1,6 @@
 ['Scene_00005_Enter'];
 MusicPlay(Music.晨光, true, false);
+['@0002'];
 ReplaceAndPause();
 
 ['Event_00005_00019_Trigger'];
@@ -29,52 +30,52 @@ EventSyncState(4, 28, 0);
 ReplaceAndPauseWithNop("Event_00005_00029_Auto", 0);
 
 ['Event_00005_00010_Trigger'];
-//旺财嫂∶
+//旺财嫂：
 //喂～　你知道吗？
 //听说卖盐的老王，上个月生了
 //一场怪病，所有大夫都说没得
 //医了，结果你猜怎么着？
 SetDlgLower(0, 0, false);
-//来福婶∶
+//来福婶：
 //怎么了？
 //老王还活着好好的啊！
 VideoUpdate(0, false);
 SetDlgUpper(0, 0, false);
-//旺财嫂∶
+//旺财嫂：
 //那是他的儿子小虎跑到"仙灵岛"
 //上，死求活求的，结果岛上的
 //仙女给他一颗仙丹，老王吃了
 //仙丹，病马上好了一大半．
 SetDlgLower(0, 0, false);
-//来福婶∶
+//来福婶：
 //真有这种新鲜事？　呵～
 //看不出来，小虎子还真行哪．
 ReplaceAndPause();
-//旺财嫂∶
+//旺财嫂：
 //常言道．．好人有好命
 //而且老王平日一向乐善好施
 //应该说是老天有眼．．
 
 ['Event_00005_00011_Trigger'];
-//来福婶∶
+//来福婶：
 //嗨～小李子！你婶婶还在店
 //里头忙啊？怎么没见她来这
 //洗衣服．．
 VideoUpdate(0, false);
 SetDlgLower(1, 0, false);
-//李逍遥∶
+//李逍遥：
 //是啊．．今天一大早就来了
 //一伙人要住店
 VideoUpdate(0, false);
 SetDlgUpper(0, 0, false);
-//来福婶∶
+//来福婶：
 //李大娘真是劳碌命啊．．
 ReplaceAndPause();
-//来福婶∶
+//来福婶：
 //洗呀～　洗呀～
 
 ['Event_00005_00012_Trigger'];
-//阿珠∶
+//阿珠：
 //咕．．咕．．
 //快快吃，快快长大喔．．
 
@@ -99,29 +100,29 @@ ReplaceAndPauseWithNop("Event_00005_00012_Auto", 0);
 VideoUpdate(0, false);
 EventSetTriggerMode(-1, -1, false, 2);
 SetDlgUpper(87, 0, false);
-//王小虎∶
+//王小虎：
 //逍遥哥哥！你今天再带我去
 //树林里去找鸟窝，好不好吗
 SetDlgLower(1, 0, false);
-//李逍遥∶
+//李逍遥：
 //小虎子，大哥哥还有事要忙
-//今天不能带你去．．
+//今天不能带你去啰．．
 VideoUpdate(0, false);
 SetDlgUpper(87, 0, false);
-//王小虎∶
+//王小虎：
 //呜．．好可惜喔
 //那明天．．
 //明天你要带我去喔！
 SetDlgLower(6, 0, false);
-//李逍遥∶
+//李逍遥：
 //呵．．再说啦
 ReplaceAndPause();
 ['@0360'];
-//王小虎∶
+//王小虎：
 //明天你一定要带我去玩
 //不可以赖皮喔！
 SetDlgLower(0, 0, false);
-//李逍遥∶
+//李逍遥：
 //好啦，好啦，你去玩你的吧！
 ReplaceAndPauseWithNop("@0360", 0);
 
@@ -144,26 +145,26 @@ GotoWithNop("Event_00005_00001_Auto", 0);
 EventSetDirFrame(4, 7, 0, 4);
 VideoUpdate(0, false);
 EventSetAutoScript(4, 7, "@8D77");
-//丁大伯∶
+//丁大伯：
 //年青人应该勤快些，可别学人
 //好吃懒做！
 ReplaceAndPause();
 EventSetDirFrame(4, 7, 0, 4);
 VideoUpdate(0, false);
 EventSetAutoScript(4, 7, "@8D77");
-//丁大伯∶
+//丁大伯：
 //李大娘也真辛苦，守这么多年
 //寡，自己一个人经营这间客栈
 //还把你一手带大，你啊～应该
 //好好孝顺她！
 SetDlgLower(0, 0, false);
-//李逍遥∶
+//李逍遥：
 //是～丁伯伯，我知道啦．
 ReplaceAndPause();
 EventSetDirFrame(4, 7, 0, 4);
 VideoUpdate(0, false);
 EventSetAutoScript(4, 7, "@8D77");
-//丁大伯∶
+//丁大伯：
 //不是我爱说你，你也这么大了
 //还整天不正经似的，该找份工
 //作，老老实实的做人才对
@@ -172,28 +173,28 @@ EventSetAutoScript(4, 7, "@8D77");
 VideoUpdate(0, false);
 EventSetTriggerMode(-1, -1, false, 2);
 SetDlgUpper(52, 0, false);
-//香兰∶
+//香兰：
 //李家哥哥．．早安～
 //我．．我想．．
 SetDlgLower(1, 0, false);
-//李逍遥∶
+//李逍遥：
 //哦？什么事．．说啊！
 VideoUpdate(0, false);
 SetDlgUpper(52, 0, false);
-//香兰∶
+//香兰：
 //没．．没什么．．
 
 ['Event_00005_00009_Trigger'];
 SetDlgUpper(33, 0, false);
-//秀兰∶
+//秀兰：
 //李大哥今天怎么起的这么早啊
 SetDlgLower(6, 0, false);
-//李逍遥∶
+//李逍遥：
 //啊．．早，秀兰妹子今天这么
 //早就在帮丁伯伯挑水浇菜呀．
 VideoUpdate(0, false);
 SetDlgUpper(33, 0, false);
-//秀兰∶
+//秀兰：
 //可不是嘛．．谁能像你这么闲
 //我大姊今天天没亮就起了个早
 //烧了一大锅甜粥，也不知道是
@@ -203,7 +204,7 @@ SetDlgUpper(33, 0, false);
 EventSetTriggerScript(4, 8, "@04D5");
 ReplaceAndPause();
 SetDlgUpper(33, 0, false);
-//秀兰∶
+//秀兰：
 //李大哥．．早～
 
 ['Event_00005_00008_Auto'];
@@ -347,11 +348,11 @@ PartySetPos(31, 96, 0);
 FadeOut(0);
 
 ['Event_00005_00037_Trigger'];
-//林木匠∶
+//林木匠：
 //啊～逍遥，你来的正好
 //过来帮帮我吧．．
 SetDlgLower(0, 0, false);
-//李逍遥∶
+//李逍遥：
 //喔．．林师父，对不起啦
 //我家里头还有事，帮不了您了
 ReplaceAndPause();
@@ -360,7 +361,7 @@ ReplaceAndPause();
 //洞也没人管，还得我这把老骨
 //头动手来修
 SetDlgLower(0, 0, false);
-//李逍遥∶
+//李逍遥：
 //林师父的木工手艺是咱们这镇
 //上最在行的，这种事只要您出
 //马就搞定了
@@ -372,23 +373,23 @@ ReplaceAndPause();
 //别老是在这儿碍手碍脚的
 
 ['Event_00005_00002_Trigger'];
-//孩童唱道∶
+//孩童唱道：
 //小李子、志气高
 //想学剑仙登云霄
 //日上三竿不觉醒
 //天天梦里乐陶陶。
 VideoUpdate(0, false);
 SetDlgLower(0, 0, false);
-//李逍遥∶
+//李逍遥：
 //你们三个小鬼
 //竟敢编歌来笑我！
 VideoUpdate(0, false);
 SetDlgUpper(0, 0, false);
-//孩童∶
+//孩童：
 //呵呵！这是我哥教我的
 //全村的孩童都会唱呢！
 ReplaceAndPause();
-//孩童唱道∶
+//孩童唱道：
 //吕洞宾，乘风飘
 //肩背龙剑斩群妖
 //悲心救苦传妙道
@@ -398,7 +399,7 @@ ReplaceAndPause();
 //雪拥蓝关难行马
 //曾度文公上九霄。
 ReplaceAndPause();
-//孩童唱道∶
+//孩童唱道：
 //曹国舅，爱逍遥
 //不恋荣华卸锦袍
 //世上万般修行好
@@ -408,7 +409,7 @@ ReplaceAndPause();
 //虔心修炼长生法
 //挂拐登云蔼蔼飘。
 ReplaceAndPause();
-//孩童唱道∶
+//孩童唱道：
 //汉钟离，性儿矫
 //识透人情事态枭
 //终南山上修妙道
@@ -418,7 +419,7 @@ ReplaceAndPause();
 //苦志真修千百载
 //也归仙界乐逍遥。
 ReplaceAndPause();
-//孩童唱道∶
+//孩童唱道：
 //蓝采和，年纪小
 //最爱修行却富饶
 //名山修炼成真果
@@ -428,7 +429,7 @@ ReplaceAndPause();
 //倒骑驴子呵呵笑
 //竟把繁华世界抛。
 ReplaceAndPause();
-//孩童∶
+//孩童：
 //嘻．．哈．．
 
 ['Event_00005_00002_Auto'];
