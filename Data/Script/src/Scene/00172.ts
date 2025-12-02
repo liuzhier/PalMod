@@ -8,9 +8,9 @@ WaitEventAutoScriptRun(14, false, false);
 RoleSetDirFrame(0, 18, 0);
 VideoUpdate(0, false);
 SetDlgLower(0, 0, false);
-//$07你放心．．我李逍遥可以对天
-//发誓，从今以后决不会让你一
-//个人孤苦伶仃！~70
+//未知对话
+//未知对话
+//未知对话
 VideoUpdate(0, false);
 RoleSetDirFrame(0, 19, 0);
 WaitEventAutoScriptRun(10, false, false);

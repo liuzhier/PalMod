@@ -38,45 +38,45 @@ RoleSetDirFrame(2, 0, 0);
 WaitEventAutoScriptRun(3, false, false);
 EventSetDirFrame(271, 0, 0, 0);
 VideoUpdate(0, false);
-//小女孩：
-//啊．．．~40
+//未知对话
+//未知对话
 EventSetAutoScript(271, 0, "@86B6");
 WaitEventAutoScriptRun(10, false, false);
-//小女孩：
-//客人～对不起，老板娘有事
-//出去了，请你等一下再来
+//未知对话
+//未知对话
+//未知对话
 VideoUpdate(0, false);
 SetDlgLower(1, 0, false);
-//李逍遥：
-//小妹妹～
-//这客栈是你家开的吗？
+//未知对话
+//未知对话
+//未知对话
 VideoUpdate(0, false);
 SetDlgUpper(0, 0, false);
-//小女孩：
-//不是，因为李家哥哥不见了
-//李大娘出去找他回来，要我
-//替她看店
+//未知对话
+//未知对话
+//未知对话
+//未知对话
 ReplaceAndPause();
 
 ['Event_00271_00010_Trigger'];
 SetDlgLower(0, 0, false);
-//李逍遥：
-//小妹妹～你叫什么名字？
+//未知对话
+//未知对话
 VideoUpdate(0, false);
 SetDlgUpper(0, 0, false);
-//小女孩：
-//我叫丁香兰
+//未知对话
+//未知对话
 VideoUpdate(0, false);
 SetDlgLower(0, 0, false);
-//李逍遥：
-//原来香兰姐小时候就这么乖巧
+//未知对话
+//未知对话
 VideoUpdate(0, false);
 SetDlgUpper(0, 0, false);
-//小女孩：
-//？？
+//未知对话
+//未知对话
 ReplaceAndPause();
 SetDlgUpper(0, 0, false);
-//小女孩：
-//客人～请您出去吧
-//老板娘说今天暂时不作生意了
+//未知对话
+//未知对话
+//未知对话
 

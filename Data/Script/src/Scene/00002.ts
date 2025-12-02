@@ -600,19 +600,19 @@ ReplaceAndPauseWithNop("Event_00002_00026_Auto", 0);
 ['Event_00002_00032_Trigger'];
 PlaySound(78);
 SetDlgBox(0);
-//发现净衣符
+//未知对话
 AddItem(4, 0);
 EventSetState(-1, -1, 0);
 
 PlaySound(78);
 SetDlgBox(0);
-//发现灵心符
+//未知对话
 AddItem(5, 0);
 EventSetState(-1, -1, 0);
 
 PlaySound(78);
 SetDlgBox(0);
-//发现天师符
+//未知对话
 AddItem(6, 0);
 EventSetState(-1, -1, 0);
 

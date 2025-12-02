@@ -11,7 +11,7 @@ PartySetPos(37, 17, 0);
 VideoWave(2, 0);
 VideoUpdate(0, false);
 SetDlgBox(0);
-//七星磐龙柱
+//未知对话
 ReplaceAndPause();
 
 ['Event_00145_00001_Trigger'];
@@ -54,7 +54,7 @@ MusicPlay(Music.停止播放, true, false);
 BattleEnd();
 VideoUpdate(0, false);
 SetDlgCenter(0, false);
-//七根龙柱全部毁去
+//未知对话
 MusicPlay(Music.蒙难, true, false);
 VideoShake(99, 1);
 WaitEventAutoScriptRun(10, false, false);

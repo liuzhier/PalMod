@@ -20,87 +20,87 @@ Replace();
 MusicPlay(Music.蝶舞春园_1, true, false);
 
 ['Event_00109_00007_Trigger'];
-//婢女：
-//林小姐、李公子．．
-//夫人要奴婢过来请二位
-//到餐厅用膳
+//未知对话
+//未知对话
+//未知对话
+//未知对话
 FadeOut(0);
 EventSetState(-1, -1, 0);
 SceneSetScript(121, "@465F", "");
 SceneEnter(121);
 
 ['Event_00109_00004_Trigger'];
-//婢　女：
-//这里是少爷和少夫人
-//居住的的厢房
+//未知对话
+//未知对话
+//未知对话
 ReplaceAndPause();
-//婢　女：
-//少夫人和少爷非常恩爱呢
-//每天少夫人都陪在生病的
-//少爷枕榻边，一步也没离开
+//未知对话
+//未知对话
+//未知对话
+//未知对话
 VideoRestore();
-//少夫人除了每天亲自伺候少爷
-//用膳、沐浴更衣，还每天为少
-//爷煎药，都不让下人们代劳
+//未知对话
+//未知对话
+//未知对话
 ReplaceAndPause();
-//婢　女：
-//有的时后，少爷因为身体不适
-//会乱发脾气，少夫人也不曾有
-//怨言
+//未知对话
+//未知对话
+//未知对话
+//未知对话
 
 ['Event_00109_00005_Trigger'];
-//婢　女：
-//少夫人非常爱花呢，房间
-//里里外外栽满了各种花卉
+//未知对话
+//未知对话
+//未知对话
 VideoRestore();
-//而且～少夫人还是养花高手
-//院子里这么多盛开的牡丹花
-//都是少夫人亲手植的
+//未知对话
+//未知对话
+//未知对话
 VideoRestore();
-//有许多老爷的朋友出高价想
-//买几株回去观赏，少夫人怎
-//么也不肯割爱
+//未知对话
+//未知对话
+//未知对话
 ReplaceAndPause();
-//婢　女：
-//别小看这些牡丹哦！
-//它们在市面上都是极为名贵的
+//未知对话
+//未知对话
+//未知对话
 VideoRestore();
-//少夫人有空的时候
-//就会到花园里来赏花
+//未知对话
+//未知对话
 
 ['Event_00109_00006_Trigger'];
 EventSetTriggerMode(-1, -1, false, 1);
 WaitEventAutoScriptRun(2, false, true);
 SetDlgLower(6, 0, false);
-//李逍遥：
-//嗯．．好香呀！
-//这些花都是你种的啊？
+//未知对话
+//未知对话
+//未知对话
 VideoUpdate(0, false);
 SetDlgUpper(48, 0, false);
-//彩　依：
-//公子也喜欢牡丹花吗？
+//未知对话
+//未知对话
 SetDlgLower(9, 0, false);
-//李逍遥：
-//美丽的事物，谁不喜欢呢？
+//未知对话
+//未知对话
 RoleSetDirFrame(3, 0, 0);
 VideoUpdate(0, false);
 SetDlgLower(21, 0, false);
-//林月如：
-//哗～这里这么多蝴蝶．．
-//想必也是被花香吸引来的
+//未知对话
+//未知对话
+//未知对话
 WaitEventAutoScriptRun(4, false, false);
 NpcSetDirFrame(3, 0);
 VideoUpdate(0, false);
 SetDlgUpper(48, 0, false);
-//彩　依：
-//是啊．．蝴蝶的生命很短暂
-//但求飞舞在最美丽的花朵身边
-//伴着花儿盛开、随着花儿凋谢
-//这一生心愿足矣．．．
+//未知对话
+//未知对话
+//未知对话
+//未知对话
+//未知对话
 RoleSetDirFrame(0, 0, 0);
 ReplaceAndPause();
-//彩　依：
-//这些牡丹很美吧？
+//未知对话
+//未知对话
 NpcSetDirFrame(3, 0);
 
 ['Event_00109_00011_Trigger'];
@@ -120,74 +120,74 @@ RoleSetDirFrame(0, 0, 0);
 RoleSetDirFrame(0, 0, 1);
 WaitEventAutoScriptRun(2, false, false);
 SetDlgLower(0, 0, false);
-//刘夫人：
-//哎啊！晋元，外面风这么大
-//你怎么可以跑出来。彩依呢？
-//彩依怎么没有陪着你？
+//未知对话
+//未知对话
+//未知对话
+//未知对话
 VideoUpdate(0, false);
 SetDlgUpper(0, 0, false);
-//刘晋元：
-//娘！　您快去请爹回来做主。
+//未知对话
+//未知对话
 SetDlgLower(0, 0, false);
-//刘夫人：
-//你爹还尚未归来呀．．
-//到底发生什么大事了？
+//未知对话
+//未知对话
+//未知对话
 EventWalkOneStep(-1, -1, -8, 4);
 VideoUpdate(0, false);
 EventWalkOneStep(-1, -1, -8, 4);
 VideoUpdate(0, false);
 SetDlgUpper(0, 0, false);
-//刘晋元：
-//娘～您要救救孩儿
-//彩依．．她要害我呀！
+//未知对话
+//未知对话
+//未知对话
 VideoUpdate(0, false);
 SetDlgLower(0, 0, false);
-//刘夫人：
-//说这什么话！？
-//彩依为什么要害你呢？
+//未知对话
+//未知对话
+//未知对话
 VideoUpdate(0, false);
 SetDlgUpper(0, 0, false);
-//刘晋元：
-//彩依．．她．．她是妖怪！
-//她会施妖法，她想害死孩儿啊
+//未知对话
+//未知对话
+//未知对话
 VideoUpdate(0, false);
 SetDlgLower(0, 0, false);
-//刘夫人：
-//怎么可能呢．．！？我可怜的
-//孩子～你一定是身体不舒服
-//所以神智有些不清楚．．
+//未知对话
+//未知对话
+//未知对话
+//未知对话
 VideoRestore();
-//听娘的话～　回房去躺着
-//娘炖了两份莲子燕窝汤，
-//给你和彩依补补身子
+//未知对话
+//未知对话
+//未知对话
 EventWalkOneStep(-1, -1, 8, -4);
 VideoUpdate(0, false);
 EventWalkOneStep(-1, -1, 8, -4);
 VideoUpdate(0, false);
 SetDlgUpper(0, 0, false);
-//刘晋元：
-//不要！　我不要回去那里
-//我不要吃药，我会死掉的
-//我会被害死的！！
+//未知对话
+//未知对话
+//未知对话
+//未知对话
 VideoUpdate(0, false);
 SetDlgLower(76, 0, false);
-//婢女阿香：
-//夫人．．依奴婢之见
-//少爷可能是梦魇未醒
-//或是受了惊吓也说不定
+//未知对话
+//未知对话
+//未知对话
+//未知对话
 VideoUpdate(0, false);
 EventSetDirFrame(108, 8, 0, 0);
 VideoUpdate(0, false);
 SetDlgLower(0, 0, false);
-//刘夫人：
-//嗯．．说的对～
-//那该如何是好？
+//未知对话
+//未知对话
+//未知对话
 VideoUpdate(0, false);
 SetDlgLower(76, 0, false);
-//婢女阿香：
-//可以请"道士"来替少爷作法收惊
-//在奴婢的家乡，发生这种症状
-//的人，都是这么做就好了
+//未知对话
+//未知对话
+//未知对话
+//未知对话
 VideoUpdate(0, false);
 EventSetDirFrame(108, 8, 1, 0);
 VideoUpdate(0, false);
@@ -196,13 +196,13 @@ WaitEventAutoScriptRun(8, false, false);
 EventSetDirFrame(108, 8, 0, 0);
 WaitEventAutoScriptRun(2, false, false);
 SetDlgLower(0, 0, false);
-//刘夫人：
-//你们先带少爷到我房间
-//这件事我自有打算
+//未知对话
+//未知对话
+//未知对话
 VideoUpdate(0, false);
 SetDlgLower(0, 0, false);
-//婢女齐声道：
-//是！
+//未知对话
+//未知对话
 EventSetAutoScript(108, 9, "@4B1A");
 EventSetAutoScript(108, 10, "@4B1D");
 WaitEventAutoScriptRun(2, false, false);
@@ -211,8 +211,8 @@ WaitEventAutoScriptRun(2, false, false);
 EventSetDirFrame(108, 8, 2, 0);
 WaitEventAutoScriptRun(14, false, false);
 SetDlgLower(76, 0, false);
-//婢女阿香：
-//少爷！　请吧．．
+//未知对话
+//未知对话
 EventSetAutoScript(108, 11, "@4B20");
 EventSetAutoScript(108, 9, "@4B25");
 EventSetAutoScript(108, 10, "@4B27");
@@ -222,25 +222,25 @@ WaitEventAutoScriptRun(10, false, false);
 EventSetAutoScript(108, 8, "@4B2A");
 WaitEventAutoScriptRun(16, false, false);
 SetDlgUpper(67, 0, false);
-//刘夫人：
-//唉．．老爷又不在
-//我实在不知该怎么办才好
+//未知对话
+//未知对话
+//未知对话
 EventSetDirFrame(108, 8, 1, 0);
 VideoUpdate(0, false);
 SetDlgUpper(67, 0, false);
-//刘夫人：
-//月如、李公子．．
-//你们世面见得多，这件事
-//可否请你们替我拿个主意？
+//未知对话
+//未知对话
+//未知对话
+//未知对话
 RoleSetDirFrame(3, 0, 0);
 VideoUpdate(0, false);
 SetDlgLower(21, 0, false);
-//林月如：
-//好的．．云姨，您放心！
-//我们一定会帮您的
+//未知对话
+//未知对话
+//未知对话
 SetDlgUpper(67, 0, false);
-//刘夫人：
-//老身先谢过二位了．．
+//未知对话
+//未知对话
 EventSetAutoScript(108, 8, "@4B2C");
 EventSetTriggerScript(129, 0, "@4B6F");
 EventSetTriggerScript(108, 4, "@4AFF");
@@ -261,61 +261,61 @@ EventWalkOneStep(-1, -1, 8, -4);
 
 ['Event_00109_00008_Trigger'];
 SetDlgUpper(67, 0, false);
-//刘夫人：
-//若是要用到钱
-//尽管向云姨开口吧
+//未知对话
+//未知对话
+//未知对话
 VideoUpdate(0, false);
 CashModify(30000, "");
 SetDlgBox(0);
-//得三万文钱
+//未知对话
 ['@4B3D'];
 VideoUpdate(0, false);
 SetDlgUpper(67, 0, false);
-//刘夫人：
-//那么．．一切拜托你们了
+//未知对话
+//未知对话
 ReplaceAndPause();
 CashModify(-30000, "@4B45");
 CashModify(30000, "");
 GotoWithNop("@4B3D", 0);
 ['@4B45'];
 SetDlgUpper(67, 0, false);
-//刘夫人：
-//还需要用钱吗？
+//未知对话
+//未知对话
 GotoWithSelect("@4B3D");
 VideoUpdate(0, false);
 SetDlgUpper(67, 0, false);
-//刘夫人：
-//只要能救晋元
-//花多少钱都没关系
+//未知对话
+//未知对话
+//未知对话
 CashModify(30000, "");
 SetDlgBox(0);
-//得三万文钱
+//未知对话
 ['@4B51'];
 VideoUpdate(0, false);
 SetDlgUpper(67, 0, false);
-//刘夫人：
-//那么．．拜托你们了
+//未知对话
+//未知对话
 ReplaceAndPause();
 CashModify(-30000, "@4B59");
 CashModify(30000, "");
 GotoWithNop("@4B51", 0);
 ['@4B59'];
 SetDlgUpper(67, 0, false);
-//刘夫人：
-//钱还不够吗？
+//未知对话
+//未知对话
 GotoWithSelect("@4B51");
 VideoUpdate(0, false);
 SetDlgUpper(67, 0, false);
-//刘夫人：
-//没关系～我这还有．．
+//未知对话
+//未知对话
 CashModify(30000, "");
 SetDlgBox(0);
-//得三万文钱
+//未知对话
 VideoUpdate(0, false);
 Replace();
 SetDlgUpper(67, 0, false);
-//刘夫人：
-//找道士来．．会有用吗？
+//未知对话
+//未知对话
 
 ['Event_00109_00012_Auto'];
 Call("@4CE9");
@@ -326,7 +326,7 @@ GotoWithNop("Event_00109_00012_Auto", 0);
 
 ['Event_00109_00013_Trigger'];
 SetDlgCenter(0, false);
-//此人熟睡中．．
+//未知对话
 
 ['Event_00109_00015_Trigger'];
 EventSetTriggerMode(-1, -1, false, -1);
@@ -339,36 +339,36 @@ WaitEventAutoScriptRun(6, false, false);
 NpcSetDirFrame(0, 0);
 WaitEventAutoScriptRun(2, false, false);
 SetDlgLower(48, 0, false);
-//彩　依：
-//李公子～你们．．
+//未知对话
+//未知对话
 VideoUpdate(0, false);
 SetDlgUpper(21, 0, false);
-//林月如：
-//李大哥，你来的正好
-//她把刘晋元抓到花丛中藏身
-//被我给找出来啦！我们合力
-//拿下这妖女
+//未知对话
+//未知对话
+//未知对话
+//未知对话
+//未知对话
 NpcSetDirFrame(1, 0);
 VideoUpdate(0, false);
 SetDlgLower(48, 0, false);
-//彩　依：
-//不．．因为相公今天没有服药
-//病情恶化了。妾身只好带他来
-//这里，用百花之精气为他驱毒
+//未知对话
+//未知对话
+//未知对话
+//未知对话
 VideoUpdate(0, false);
 SetDlgLower(2, 0, false);
-//李逍遥：
-//大嫂．．竟然是只蝶精！
+//未知对话
+//未知对话
 NpcSetDirFrame(0, 0);
 VideoUpdate(0, false);
 SetDlgLower(48, 0, false);
-//彩　依：
-//你．．看得见我的原形？！
+//未知对话
+//未知对话
 VideoUpdate(0, false);
 SetDlgUpper(22, 0, false);
-//林月如：
-//光着身子，露出背后那么
-//大一双翅膀，谁会看不出来？
+//未知对话
+//未知对话
+//未知对话
 WaitEventAutoScriptRun(2, false, false);
 NpcSetDirFrame(1, 0);
 WaitEventAutoScriptRun(6, false, false);
@@ -377,23 +377,23 @@ WaitEventAutoScriptRun(6, false, false);
 NpcSetDirFrame(1, 0);
 WaitEventAutoScriptRun(2, false, false);
 SetDlgLower(48, 0, false);
-//彩　依：
-//奇怪～　难道．．
-//我施的幻术被破解了！
+//未知对话
+//未知对话
+//未知对话
 VideoUpdate(0, false);
 SetDlgUpper(23, 0, false);
-//林月如：
-//快把刘大哥放了！
-//不然别怪我对你不客气
+//未知对话
+//未知对话
+//未知对话
 VideoUpdate(0, false);
 SetDlgLower(48, 0, false);
-//彩　依：
-//不～不可以！
-//一旦停下来，就前功尽弃了
+//未知对话
+//未知对话
+//未知对话
 SetDlgUpper(23, 0, false);
-//林月如：
-//还想拿这种话骗人
-//当我们是三岁小孩吗？
+//未知对话
+//未知对话
+//未知对话
 PartySetRole(3, 1, 0);
 SetBattleMusic(Music.御剑伏魔_1);
 SetBattlefield(FbpWin.尚书府);
@@ -423,6 +423,6 @@ EventSetState(118, 0, 1);
 EventSetState(-1, -1, 0);
 VideoUpdate(0, false);
 SetDlgBox(0);
-//拾得一瓶天仙玉露
+//未知对话
 AddItem(49, 0);
 

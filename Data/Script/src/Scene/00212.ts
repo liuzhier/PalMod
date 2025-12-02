@@ -24,39 +24,39 @@ ReplaceAndPauseWithNop("Event_00212_00005_Auto", 0);
 
 ['Event_00212_00005_Trigger'];
 EventSetTriggerMode(-1, -1, false, 1);
-//守卫：
-//少主，带外族人进入神殿
-//是违反族规的
+//未知对话
+//未知对话
+//未知对话
 VideoUpdate(0, false);
 SetDlgLower(27, 0, false);
-//阿奴：
-//我只是带他参观一下不行？
+//未知对话
+//未知对话
 VideoUpdate(0, false);
 SetDlgUpper(0, 0, false);
-//守卫：
-//属下是按律行事．．
-//请少主不要为难属下
+//未知对话
+//未知对话
+//未知对话
 VideoUpdate(0, false);
 SetDlgLower(30, 0, false);
-//阿奴：
-//我是族长的女儿
-//我说了算！
+//未知对话
+//未知对话
+//未知对话
 VideoUpdate(0, false);
 SetDlgUpper(0, 0, false);
-//守卫：
-//是．．．
+//未知对话
+//未知对话
 ReplaceAndPause();
-//守卫：
-//少主您可别让族长知道啊
+//未知对话
+//未知对话
 
 ['Event_00212_00003_Trigger'];
-//守卫：
-//此神殿乃供奉女娲娘娘圣灵
-//之所在，而且也是城内唯一
-//仅存的水源之处
+//未知对话
+//未知对话
+//未知对话
+//未知对话
 
 ['Event_00212_00004_Trigger'];
-//守卫：
-//我等奉命在此严密看守
-//以防敌人潜入破坏
+//未知对话
+//未知对话
+//未知对话
 

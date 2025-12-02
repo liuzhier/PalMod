@@ -67,14 +67,14 @@ EventSetState(-1, -1, 0);
 ['Event_00094_00016_Trigger'];
 RoleSetDirFrame(2, 0, 0);
 VideoUpdate(0, false);
-//无赖：
-//小娘子，你好香喔！
-//让大爷抱一抱吧！
+//未知对话
+//未知对话
+//未知对话
 VideoRestore();
-//看你细皮嫩肉的，真想捏你一把
+//未知对话
 VideoRestore();
-//晚上有没有空啊？
-//跟咱们快活快活。
+//未知对话
+//未知对话
 EventSetState(-1, -1, 0);
 EventSetAutoScript(93, 10, "");
 EventSetAutoScript(93, 11, "");
@@ -82,7 +82,7 @@ EventSetAutoScript(93, 12, "");
 EventSetState(93, 17, 2);
 EventSetDirFrame(93, 10, 2, 0);
 VideoUpdate(0, false);
-//哼．．！
+//未知对话
 WaitEventAutoScriptRun(4, false, false);
 EventSetDirFrame(93, 11, 2, 0);
 WaitEventAutoScriptRun(10, false, false);
@@ -94,8 +94,8 @@ EventSetState(93, 14, 1);
 EventSetState(93, 15, 1);
 WaitEventAutoScriptRun(15, false, false);
 SetDlgLower(1, 0, false);
-//李逍遥：
-//哇．．好悍的女人
+//未知对话
+//未知对话
 
 ['Event_00094_00013_Auto'];
 WaitEventAutoScriptRun(4, false, false);
@@ -119,56 +119,56 @@ NpcSetFrame(2);
 PlaySound(93);
 
 ['Event_00094_00017_Trigger'];
-//柳媚娘：
-//那三个白痴只是中了醍醐香
-//躺在那睡上一个时辰自会醒来
+//未知对话
+//未知对话
+//未知对话
 ReplaceAndPause();
-//这是我的房间，请你们出去！
+//未知对话
 
 ['Event_00094_00018_Trigger'];
 EventSetState(97, 7, 1);
-//掌柜：
-//客官，如果想住宿的话
-//只剩下楼上最右边的一间厢房。
+//未知对话
+//未知对话
+//未知对话
 VideoUpdate(0, false);
 SetDlgLower(0, 0, false);
-//李逍遥：
-//哦？一间房···
+//未知对话
+//未知对话
 VideoUpdate(0, false);
 SetDlgUpper(0, 0, false);
-//掌柜：
-//你们小俩口挤一下
-//有什么关系呢？
+//未知对话
+//未知对话
+//未知对话
 VideoUpdate(0, false);
 SetDlgLower(0, 0, false);
-//李逍遥：
-//不是、不是，您老误会了
-//我们不是夫妻。
+//未知对话
+//未知对话
+//未知对话
 VideoUpdate(0, false);
-//林月如：
-//·····
+//未知对话
+//未知对话
 VideoUpdate(0, false);
 SetDlgUpper(0, 0, false);
-//掌柜：
-//不是．．也没办法啊！
-//全扬州城就我们一家客栈
-//到了晚上，一般老百姓又不
-//得任意外出，你们不住这儿
-//就没地方睡了。
+//未知对话
+//未知对话
+//未知对话
+//未知对话
+//未知对话
+//未知对话
 VideoUpdate(0, false);
 SetDlgLower(0, 0, false);
-//李逍遥：
-//嗯··好吧！只好将就一下。
+//未知对话
+//未知对话
 ReplaceAndPause();
-//掌柜：
-//你们的房间在楼上
-//最右边的那间
+//未知对话
+//未知对话
+//未知对话
 
 ['Event_00094_00037_Trigger'];
 EventSetTriggerMode(-1, -1, false, -1);
 SetDlgUpper(23, 0, false);
-//林月如：
-//李大哥！你快拦下她
+//未知对话
+//未知对话
 SetBattlefield(FbpWin.客栈);
 BattleStart(29, "@35D7", "");
 ['@35D7'];
@@ -187,85 +187,85 @@ WaitEventAutoScriptRun(12, false, false);
 EventSetState(-1, -1, 0);
 PartyWalkToBlock(23, 31, 1, 8);
 SetDlgLower(1, 0, false);
-//李逍遥：
-//如妹！  别追了
+//未知对话
+//未知对话
 VideoUpdate(0, false);
 RoleSetDirFrame(3, 0, 0);
 VideoUpdate(0, false);
 SetDlgUpper(22, 0, false);
-//林月如：
-//不能这样就算了．．啊～
-//李大哥．．刚才你怎么这么快
-//就赶过来了！？
+//未知对话
+//未知对话
+//未知对话
+//未知对话
 VideoUpdate(0, false);
 SetDlgLower(6, 0, false);
-//李逍遥：
-//有个人替我盖被子，还在我耳
-//边讲一些奇怪的话，我怎么可
-//能不知不觉？
+//未知对话
+//未知对话
+//未知对话
+//未知对话
 SetDlgUpper(24, 0, false);
-//林月如：
-//原来．．你都听到了！
-//你．．你好坏。
+//未知对话
+//未知对话
+//未知对话
 VideoUpdate(0, false);
 SetDlgLower(9, 0, false);
-//李逍遥：
-//你也太逞强了，那个黑衣贼
-//身手不弱，你一个人对付她
-//太冒险了
+//未知对话
+//未知对话
+//未知对话
+//未知对话
 VideoUpdate(0, false);
 SetDlgUpper(21, 0, false);
-//林月如：
-//我们二人联手就不怕她了吧！
-//走！　咱们出去逮那黑衣贼
+//未知对话
+//未知对话
+//未知对话
 
 ['Event_00094_00019_Trigger'];
-//掌柜：
-//快去抓贼呀！
-//别让那飞贼跑了
+//未知对话
+//未知对话
+//未知对话
 
 ['Event_00094_00023_Trigger'];
-//旅客：
-//奉了师父之命，要到京城去
-//谁知道一经过扬州，竟然出
-//不了城，这该怎么办才好？
+//未知对话
+//未知对话
+//未知对话
+//未知对话
 
 ['Event_00094_00026_Trigger'];
-//旅客：
-//最近女飞贼集团闹得满城风雨
-//家家户户不得安宁，这新上任
-//的太守，我看还是没什么办法
-//可以解决。
+//未知对话
+//未知对话
+//未知对话
+//未知对话
+//未知对话
 
 ['Event_00094_00025_Trigger'];
-//旅客：
-//我看呐、这新任的太守八成也
-//是用走后门的。京里头在传言
-//现在普通的县令，两千两银子
-//就可以买到，六百两银子一个
-//师爷、二百两就可以买到一个
-//巡捕的位子，你看是不是很夸
-//张？
+//未知对话
+//未知对话
+//未知对话
+//未知对话
+//未知对话
+//未知对话
+//未知对话
+//未知对话
 ReplaceAndPause();
-//旅客：
-//赶明儿个出城后
-//我也去买个县令的位子玩玩。
+//未知对话
+//未知对话
+//未知对话
 
 ['Event_00094_00020_Trigger'];
-//客人：
-//怎么办，扬州城再继续
-//这样下去，哪还能住人啊？
+//未知对话
+//未知对话
+//未知对话
 
 ['Event_00094_00022_Trigger'];
-//客人：
-//我就是因为城里那么乱
-//才特地请到威震镖局的
-//人来保护我一家大小的性命
+//未知对话
+//未知对话
+//未知对话
+//未知对话
 
 ['Event_00094_00021_Trigger'];
-//客人：
-//我是泉州「威震镖局」总镖头
-//─萧剑虹，要是还有鼠辈来骚
-//扰，我见一个杀一个，来两个
-//杀一双。
+//未知对话
+//未知对话
+//未知对话
+//未知对话
+//未知对话
 

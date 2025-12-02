@@ -21,21 +21,21 @@ FadeOut(0);
 ['Event_00042_00002_Trigger'];
 EventSetTriggerMode(-1, -1, false, 1);
 SetDlgUpper(57, 0, false);
-//蛇妖男：
-//你们闯进我的洞府来做什么？
+//未知对话
+//未知对话
 VideoUpdate(0, false);
 SetDlgLower(5, 0, false);
-//李逍遥：
-//你就是那只蛇妖！？
-//把灵儿还我
+//未知对话
+//未知对话
+//未知对话
 VideoUpdate(0, false);
 SetDlgUpper(57, 0, false);
-//蛇妖男：
-//谁是灵儿？
+//未知对话
+//未知对话
 VideoUpdate(0, false);
 SetDlgLower(5, 0, false);
-//李逍遥：
-//再不交出人就吃我一剑！
+//未知对话
+//未知对话
 NpcSetFrame(1);
 SetBattleMusic(Music.心急如焚);
 SetBattlefield(FbpWin.隐龙窟);
@@ -43,24 +43,24 @@ BattleStart(45, "@A073", "");
 SetBattleMusic(Music.战意昂);
 ReplaceAndPause();
 SetDlgCenter(0, false);
-//蛇妖已死．．
+//未知对话
 
 ['Event_00042_00014_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//获得３００文钱
+//未知对话
 CashModify(300, "");
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 Call("@8E99");
 SetDlgBox(0);
-//获得４００文钱
+//未知对话
 CashModify(400, "");
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 Call("@8E99");
 SetDlgBox(0);
-//获得５００文钱
+//未知对话
 CashModify(500, "");
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 

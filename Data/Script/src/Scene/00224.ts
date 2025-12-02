@@ -45,49 +45,49 @@ FadeOut(0);
 ['Event_00224_00020_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//获得三尸蛊
+//未知对话
 AddItem(78, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 ['Event_00224_00023_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//获得鹤顶红
+//未知对话
 AddItem(62, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 ['Event_00224_00026_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//获得孔雀胆
+//未知对话
 AddItem(63, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 ['Event_00224_00029_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//获得血海棠
+//未知对话
 AddItem(64, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 ['Event_00224_00033_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//获得金蚕蛊
+//未知对话
 AddItem(79, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 ['Event_00224_00035_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//获得无影毒
+//未知对话
 AddItem(77, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 ['Event_00224_00032_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//获得毒龙胆
+//未知对话
 AddItem(218, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 

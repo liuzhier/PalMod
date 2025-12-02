@@ -12,80 +12,80 @@ FadeOut(0);
 EventSetState(-1, -1, 0);
 VideoUpdate(0, false);
 SetDlgBox(0);
-//获得戒刀
+//未知对话
 AddItem(114, 0);
 
 Call("@8E99");
 SetDlgBox(0);
-//获得柳月刀
+//未知对话
 AddItem(117, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 Call("@8E99");
 SetDlgBox(0);
-//获得九节鞭
+//未知对话
 AddItem(104, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 ['Event_00077_00053_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//获得武士披风
+//未知对话
 AddItem(167, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 Call("@8E99");
 SetDlgBox(0);
-//获得护心镜
+//未知对话
 AddItem(168, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 ['Event_00077_00054_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//获得铁锁衣
+//未知对话
 AddItem(151, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 Call("@8E99");
 SetDlgBox(0);
-//获得夜行衣
+//未知对话
 AddItem(152, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 Call("@8E99");
 SetDlgBox(0);
-//获得青铜甲
+//未知对话
 AddItem(153, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 Call("@8E99");
 SetDlgBox(0);
-//获得罗汉袍
+//未知对话
 AddItem(154, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 Call("@8E99");
 SetDlgBox(0);
-//获得铁鳞甲
+//未知对话
 AddItem(155, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 Call("@8E99");
 SetDlgBox(0);
-//获得天师道袍
+//未知对话
 AddItem(156, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 Call("@8E99");
 SetDlgBox(0);
-//获得精铁战甲
+//未知对话
 AddItem(157, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 Call("@8E99");
 SetDlgBox(0);
-//获得金缕衣
+//未知对话
 AddItem(158, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 

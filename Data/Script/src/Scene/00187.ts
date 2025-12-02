@@ -22,7 +22,7 @@ FadeOut(0);
 
 ['Event_00187_00006_Trigger'];
 SetDlgBox(0);
-//摘得一颗"蟠果"
+//未知对话
 AddItem(42, 0);
 ReplaceAndPause();
 
@@ -36,6 +36,6 @@ EventSetState(-1, -1, 0);
 VideoUpdate(0, false);
 PlaySound(78);
 SetDlgBox(0);
-//摘得醍醐香
+//未知对话
 AddItem(66, 0);
 

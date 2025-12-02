@@ -20,18 +20,18 @@ WaitEventAutoScriptRun(4, false, false);
 EventSetDirFrame(150, 2, 1, 0);
 VideoUpdate(0, false);
 SetDlgLower(63, 0, false);
-//剑圣：
-//$03你怎么不阻止他们呢！？~60
+//未知对话
+//未知对话
 WaitEventAutoScriptRun(4, false, false);
 EventSetDirFrame(150, 1, 3, 0);
 VideoUpdate(0, false);
 SetDlgUpper(37, 0, false);
-//$05师兄．．你不觉得
-//这是天意吗？~70
+//未知对话
+//未知对话
 VideoUpdate(0, false);
 SetDlgLower(63, 0, false);
-//剑圣：
-//$02岂有此理！~60
+//未知对话
+//未知对话
 EventSetDirFrame(150, 2, 3, 0);
 WaitEventAutoScriptRun(4, false, false);
 EventSetState(150, 2, 0);
@@ -40,7 +40,7 @@ WaitEventAutoScriptRun(8, false, false);
 EventSetDirFrame(150, 1, 2, 0);
 WaitEventAutoScriptRun(12, false, false);
 SetDlgLower(37, 0, false);
-//$05唉．．．．~65$02
+//未知对话
 FadeOut(0);
 VideoShake(99, 0);
 SetRng(4);

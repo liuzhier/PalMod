@@ -159,18 +159,18 @@ ReplaceAndPauseWithNop("@105A", 0);
 
 ['Event_00018_00002_Trigger'];
 SetDlgBox(0);
-//摘得一颗雪莲子
+//未知对话
 AddItem(48, 0);
 ReplaceAndPause();
 SetDlgBox(0);
-//一朵空的莲蓬．．
+//未知对话
 
 ['Event_00018_00029_Trigger'];
 SceneEnter(19);
 
 ['Event_00018_00003_Trigger'];
-//观音像上刻着一行字：
-//"苦海无涯　回头是岸"
+//未知对话
+//未知对话
 
 ['Event_00018_00004_Trigger'];
 VideoUpdate(0, false);
@@ -184,8 +184,8 @@ JumpIfEventStateMatches(17, 7, 2, "");
 JumpIfEventStateMatches(17, 8, 2, "");
 JumpIfEventStateMatches(17, 9, 2, "");
 SetDlgCenter(0, false);
-//"第六具石像亦应声而碎
-//然而破天锤也断了"
+//未知对话
+//未知对话
 RemoveItem(219, 0, "");
 EventSetState(17, 29, 1);
 
@@ -210,7 +210,7 @@ ReplaceAndPauseWithNop("Event_00018_00029_Auto", 0);
 Call("@8E99");
 VideoUpdate(0, false);
 SetDlgBox(0);
-//得到五张灵符
+//未知对话
 AddItem(7, 0);
 AddItem(8, 0);
 AddItem(9, 0);

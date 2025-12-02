@@ -5,10 +5,10 @@ WaitEventAutoScriptRun(8, false, false);
 EventSetDirFrame(198, 0, 0, 2);
 WaitEventAutoScriptRun(10, false, false);
 SetDlgUpper(24, 0, false);
-//林月如：
-//$07唉．．．．~70
+//未知对话
+//未知对话
 VideoRestore();
-//李大哥．．在你心中
-//我到底是什么呢？~60
+//未知对话
+//未知对话
 SceneEnter(199);
 

@@ -11,7 +11,7 @@ FadeOut(0);
 ['Event_00072_00009_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//获得迷魂香
+//未知对话
 AddItem(75, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 

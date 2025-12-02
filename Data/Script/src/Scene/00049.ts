@@ -6,13 +6,13 @@ FadeOut(0);
 ['Event_00049_00007_Trigger'];
 EventSetAutoScript(48, 7, "@8D77");
 WaitEventAutoScriptRun(0, false, false);
-//老农夫：
-//这处林子里有许多野鹿呢
-//如果运气好，你也许能碰到
+//未知对话
+//未知对话
+//未知对话
 ReplaceAndPause();
-//不过～野鹿跑的很快，只有在
-//经常经过的路上设下陷阱，才
-//能捕捉的到
+//未知对话
+//未知对话
+//未知对话
 
 ['Event_00049_00008_Trigger'];
 EventSetTriggerMode(-1, -1, false, -1);
@@ -40,7 +40,7 @@ EventSetState(-1, -1, 0);
 AddItem(225, 0);
 VideoUpdate(0, false);
 SetDlgBox(0);
-//收起捕兽夹
+//未知对话
 
 ['Event_00049_00009_Auto'];
 JumpIfEventNotInZone(48, 8, 0, "Event_00049_00009_Auto");
@@ -48,12 +48,12 @@ Call("@28BB");
 EventSetState(-1, -1, 0);
 
 ['Event_00049_00010_Trigger'];
-//猎户：
-//这位小兄弟，我在前面的林子
-//里放了捕兽夹，你走这条路可
-//要留神点，别踩着了。
+//未知对话
+//未知对话
+//未知对话
+//未知对话
 ReplaceAndPause();
-//这次我一定要逮到那头雄鹿
+//未知对话
 ReplaceAndPauseWithNop("Event_00049_00010_Trigger", 0);
 
 ['Scene_00049_Enter'];
@@ -63,20 +63,20 @@ RoleSetDirFrame(0, 0, 0);
 SetPaletteTime(0);
 VideoUpdate(0, false);
 SetDlgUpper(0, 0, false);
-//少女：
-//多谢公子相救之恩
-//请受小女子一拜．．
+//未知对话
+//未知对话
+//未知对话
 VideoUpdate(0, false);
 SetDlgLower(0, 0, false);
-//李逍遥：
-//不，这点小事你不必放在心上
-//我们也是举手之劳而已。
+//未知对话
+//未知对话
+//未知对话
 VideoUpdate(0, false);
 SetDlgUpper(0, 0, false);
-//少女：
-//寒舍就在前面不远的白河村
-//二位若不嫌弃，欢迎到寒舍
-//来奉茶
+//未知对话
+//未知对话
+//未知对话
+//未知对话
 WaitEventAutoScriptRun(30, false, false);
 VideoFadeAndUpdate(-4);
 EventSetState(48, 2, 0);
@@ -86,16 +86,16 @@ EventSetState(48, 5, 0);
 EventSetState(48, 6, 0);
 VideoUpdate(2, false);
 SetDlgLower(4, 0, false);
-//李逍遥：
-//唉．．无心插柳～
+//未知对话
+//未知对话
 VideoUpdate(0, false);
 SetDlgUpper(21, 0, false);
-//林月如：
-//别灰心嘛～我相信灵儿妹子
-//一定不会有事的．．
+//未知对话
+//未知对话
+//未知对话
 SetDlgLower(4, 0, false);
-//李逍遥：
-//看来．．只得从头找起了
+//未知对话
+//未知对话
 Replace();
 SetBattlefield(FbpWin.鬼阴山_山脚竹林);
 

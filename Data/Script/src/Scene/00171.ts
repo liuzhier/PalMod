@@ -8,7 +8,7 @@ WaitEventAutoScriptRun(8, false, false);
 EventSetDirFrame(171, 0, 0, 10);
 WaitEventAutoScriptRun(4, false, false);
 SetDlgLower(0, 0, false);
-//$05我的衣服呢？~65
+//未知对话
 WaitEventAutoScriptRun(0, false, false);
 RoleSetDirFrame(0, 2, 0);
 WaitEventAutoScriptRun(8, false, false);

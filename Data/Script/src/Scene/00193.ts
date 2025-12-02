@@ -400,8 +400,8 @@ FadeOut(0);
 ['Event_00193_00057_Trigger'];
 EventSetAutoScript(-1, -1, "");
 SetDlgLower(1, 0, false);
-//李逍遥：
-//小猴子，借过一下好不好？
+//未知对话
+//未知对话
 NpcSetFrame(1);
 WaitEventAutoScriptRun(2, false, false);
 NpcSetFrame(0);
@@ -416,22 +416,22 @@ NpcSetFrame(0);
 WaitEventAutoScriptRun(2, false, false);
 ReplaceAndPause();
 SetDlgLower(7, 0, false);
-//李逍遥：
-//不走开我打你喔！
+//未知对话
+//未知对话
 VideoUpdate(0, false);
 NpcSetFrame(2);
 WaitEventAutoScriptRun(4, false, false);
 SetDlgLower(5, 0, false);
-//李逍遥：
-//这死猴子．．．
+//未知对话
+//未知对话
 ReplaceAndPause();
 SetDlgCenter(0, false);
-//"小猴子不理你．．"
+//未知对话
 
 ['Event_00193_00058_Trigger'];
 EventSetAutoScript(-1, -1, "");
 NpcSetFrame(5);
-//呜．．！
+//未知对话
 ReplaceAndPause();
 
 ['Event_00193_00060_Auto'];
@@ -469,6 +469,6 @@ EventSetState(-1, -1, 0);
 VideoUpdate(0, false);
 PlaySound(78);
 SetDlgBox(0);
-//摘得玉菩提
+//未知对话
 AddItem(13, 0);
 

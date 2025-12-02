@@ -11,20 +11,20 @@ FadeOut(0);
 ['Event_00190_00031_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//获得火蚕蛊
+//未知对话
 AddItem(83, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 ['Event_00190_00033_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//获得爆烈蛊
+//未知对话
 AddItem(86, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 Call("@8E99");
 SetDlgBox(0);
-//获得盐巴
+//未知对话
 AddItem(17, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 

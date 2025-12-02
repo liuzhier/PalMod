@@ -14,8 +14,8 @@ NpcMoveToBlock(13, 106, 1, 3);
 ['Event_00118_00006_Trigger'];
 EventSetTriggerMode(-1, -1, false, 1);
 SetDlgCenter(0, false);
-//一张巨大的蜘蛛网
-//挡住了树林的入口
+//未知对话
+//未知对话
 
 ['Event_00118_00001_Trigger'];
 SceneEnter(140);

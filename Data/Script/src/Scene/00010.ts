@@ -81,14 +81,14 @@ ReplaceAndPause();
 ['Event_00010_00006_Trigger'];
 PlaySound(78);
 SetDlgBox(0);
-//发现糯米糕
+//未知对话
 AddItem(16, 0);
 EventSetState(-1, -1, 0);
 
 ['Event_00010_00005_Trigger'];
 PlaySound(78);
 SetDlgBox(0);
-//发现烧肉
+//未知对话
 AddItem(33, 0);
 EventSetState(-1, -1, 0);
 

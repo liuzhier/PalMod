@@ -2,29 +2,29 @@
 PartySetPos(12, 109, 0);
 FadeToScene(4, -1);
 SetDlgUpper(9, 0, false);
-//李逍遥：
-//$04我只是一个不学无术的浪子
-//你跟着我，不怕到时候两人
-//一起去当要饭的？~55
+//未知对话
+//未知对话
+//未知对话
+//未知对话
 EventSetDirFrame(198, 2, 2, 0);
 VideoUpdate(0, false);
 SetDlgLower(21, 0, false);
-//林月如：
-//如果真是这样
-//就怪我自己倒霉啦！~55
+//未知对话
+//未知对话
+//未知对话
 VideoUpdate(0, false);
 SetDlgUpper(3, 0, false);
-//李逍遥：
-//好吧～等我找到灵儿的下落~50
+//未知对话
+//未知对话
 VideoRestore();
-//把一切事情都结束后
-//我带你四处游山玩水，一同
-//吃遍天下珍味，看遍人间美景~55
+//未知对话
+//未知对话
+//未知对话
 EventSetDirFrame(198, 2, 2, 0);
 VideoUpdate(0, false);
 SetDlgLower(21, 0, false);
-//林月如：
-//$03嘻．．吃到老！　玩到老！~60
+//未知对话
+//未知对话
 WaitEventAutoScriptRun(0, false, false);
 EventWalkOneStep(198, 2, 4, -2);
 WaitEventAutoScriptRun(2, false, false);
@@ -38,13 +38,13 @@ WaitEventAutoScriptRun(2, false, false);
 EventSetDirFrame(198, 1, 0, 0);
 VideoUpdate(0, false);
 SetDlgUpper(0, 0, false);
-//李逍遥：
-//$08那．．我们．．．．~70
+//未知对话
+//未知对话
 EventSetState(199, 0, 2);
 WaitEventAutoScriptRun(18, false, false);
 SetDlgUpper(0, 0, false);
-//彩　依：
-//$02啊．．！！~35
+//未知对话
+//未知对话
 EventWalkOneStep(198, 1, 8, -4);
 WaitEventAutoScriptRun(0, false, false);
 EventWalkOneStep(198, 2, -8, 4);

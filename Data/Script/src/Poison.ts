@@ -98,7 +98,7 @@ ReplaceAndPause();
 EnemyModifyHP(false, 8);
 ReplaceAndPause();
 SetDlgBox(0);
-//由食妖虫炼成一只灵蛊
+//未知对话
 AddItem(85, 0);
 EnemyCurePoisonById(false, 11);
 ReplaceAndPause();
@@ -122,7 +122,7 @@ ReplaceAndPause();
 EnemyModifyHP(false, 8);
 ReplaceAndPause();
 SetDlgBox(0);
-//由碧血蚕炼成一只赤血蚕
+//未知对话
 AddItem(89, 0);
 EnemyCurePoisonById(false, 12);
 ReplaceAndPause();

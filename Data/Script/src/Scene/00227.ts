@@ -146,14 +146,14 @@ FadeOut(0);
 ['Event_00227_00033_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//获得天蚕丝带
+//未知对话
 AddItem(145, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 ['Event_00227_00034_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//获得天蚕宝衣
+//未知对话
 AddItem(160, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 

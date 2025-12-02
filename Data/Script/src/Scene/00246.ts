@@ -2,8 +2,8 @@
 PlaySound(256);
 PartySetPos(39, 46, 0);
 VideoUpdate(0, false);
-//白苗族长：
-//$05这．．这是神迹啊！~70
+//未知对话
+//未知对话
 SetRng(8);
 PlaySound(256);
 FadeOut(0);
@@ -15,9 +15,9 @@ EventSetState(245, 4, 1);
 EventSetStateSequence(245, 7, 245, 15, 1);
 PartySetPos(26, 61, 0);
 VideoUpdate(0, false);
-//士兵：
-//$00哗～　快逃啊！
-//女娲娘娘显灵了！~50
+//未知对话
+//未知对话
+//未知对话
 PlaySound(256);
 WaitEventAutoScriptRun(30, false, false);
 PlaySound(256);
@@ -25,8 +25,8 @@ WaitEventAutoScriptRun(10, false, false);
 EventSetDirFrame(245, 7, 0, 0);
 WaitEventAutoScriptRun(0, false, false);
 SetDlgLower(81, 0, false);
-//拜月教主：
-//不许退！　通通不许走！~50$02
+//未知对话
+//未知对话
 PlaySound(256);
 VideoFadeAndUpdate(-2);
 HeroSetSprite(0, 232, true);

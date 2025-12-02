@@ -240,7 +240,7 @@ WaitEventAutoScriptRun(0, false, false);
 ['Event_00004_00024_Trigger'];
 PlaySound(78);
 SetDlgBox(0);
-//发现水果
+//未知对话
 AddItem(32, 0);
 EventSetState(-1, -1, 0);
 

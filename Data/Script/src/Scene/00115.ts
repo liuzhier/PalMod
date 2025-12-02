@@ -12,6 +12,6 @@ FadeOut(0);
 MusicPlay(Music.春风恋牡丹, true, false);
 
 ['Event_00115_00009_Trigger'];
-//婢　女：
-//林小姐好、李公子好
+//未知对话
+//未知对话
 

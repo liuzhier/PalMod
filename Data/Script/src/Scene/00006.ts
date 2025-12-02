@@ -396,21 +396,21 @@ ReplaceAndPauseWithNop("Event_00006_00002_Auto", 0);
 ['Event_00006_00029_Trigger'];
 PlaySound(78);
 SetDlgBox(0);
-//发现止血草
+//未知对话
 AddItem(39, 0);
 EventSetState(-1, -1, 0);
 
 ['Event_00006_00033_Trigger'];
 PlaySound(78);
 SetDlgBox(0);
-//发现蜂王蜜
+//未知对话
 AddItem(71, 0);
 EventSetState(-1, -1, 0);
 
 ['Event_00006_00032_Trigger'];
 PlaySound(78);
 SetDlgBox(0);
-//发现蜂巢
+//未知对话
 AddItem(55, 0);
 EventSetState(-1, -1, 0);
 

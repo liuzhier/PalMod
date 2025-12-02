@@ -11,51 +11,51 @@ FadeOut(0);
 ['Event_00293_00045_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//获得巫月神刀
+//未知对话
 AddItem(128, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 ['Event_00293_00048_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//获得龙纹披风
+//未知对话
 AddItem(173, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 Call("@8E99");
 SetDlgBox(0);
-//获得布袍
+//未知对话
 AddItem(148, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 Call("@8E99");
 SetDlgBox(0);
-//获得丝衣
+//未知对话
 AddItem(150, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 ['Event_00293_00052_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//获得朱雀战衣
+//未知对话
 AddItem(164, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 Call("@8E99");
 SetDlgBox(0);
-//获得草鞋
+//未知对话
 AddItem(175, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 Call("@8E99");
 SetDlgBox(0);
-//获得木鞋
+//未知对话
 AddItem(176, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 Call("@8E99");
 SetDlgBox(0);
-//获得布靴
+//未知对话
 AddItem(177, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 

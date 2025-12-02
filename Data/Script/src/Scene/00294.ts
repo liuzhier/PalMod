@@ -11,14 +11,14 @@ FadeOut(0);
 ['Event_00294_00020_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//获得玄武战袍
+//未知对话
 AddItem(163, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 ['Event_00294_00023_Trigger'];
 PlaySound(78);
 SetDlgBox(0);
-//发现灵山仙芝
+//未知对话
 AddItem(47, 0);
 EventSetState(-1, -1, 0);
 

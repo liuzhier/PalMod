@@ -3,7 +3,7 @@ PlaySound(134);
 FadeToScene(0, -1);
 RoleSetDirFrame(1, 0, 0);
 VideoUpdate(0, false);
-//"屏风后面出现一道秘门"
+//未知对话
 EventSetStateSequence(92, 20, 92, 23, 2);
 ReplaceAndPause();
 

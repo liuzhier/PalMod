@@ -24,7 +24,7 @@ EventSetTriggerMode(264, 26, false, -1);
 ['Event_00265_00039_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//获得步云靴
+//未知对话
 AddItem(186, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 

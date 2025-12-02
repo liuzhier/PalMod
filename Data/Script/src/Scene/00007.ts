@@ -17,7 +17,7 @@ EventSetState(-1, -1, 0);
 VideoUpdate(0, false);
 PlaySound(78);
 SetDlgBox(0);
-//摘得止血草
+//未知对话
 AddItem(39, 0);
 
 ['Event_00007_00020_Trigger'];
@@ -25,7 +25,7 @@ EventSetState(-1, -1, 0);
 VideoUpdate(0, false);
 PlaySound(78);
 SetDlgBox(0);
-//摘得龙涎草
+//未知对话
 AddItem(46, 0);
 
 ['Event_00007_00021_Auto'];

@@ -1,15 +1,15 @@
 ['Event_00134_00002_Trigger'];
-//小雪：
-//呜．．我怎么又搞砸了
-//是不是什么地方又弄错了？
-//怎么办．．我一定会被
-//妈妈责罚的！
+//未知对话
+//未知对话
+//未知对话
+//未知对话
+//未知对话
 ReplaceAndPause();
-//小雪：
-//呜．．．我好命苦啊．．
+//未知对话
+//未知对话
 ReplaceAndPause();
-//小雪：
-//不行！　我要更努力
+//未知对话
+//未知对话
 
 ['Event_00134_00003_Auto'];
 NpcMoveToBlock(34, 69, 0, 3);
@@ -30,127 +30,127 @@ PartyWalkToBlock(37, 65, 1, 4);
 PartyWalkToBlock(36, 64, 0, 4);
 WaitEventAutoScriptRun(4, false, false);
 SetDlgLower(0, 0, false);
-//老鸨：
-//她就是小雪姑娘
+//未知对话
+//未知对话
 EventSetDirFrame(134, 0, 2, 0);
 VideoUpdate(0, false);
-//老鸨：
-//小雪！  见过公子
+//未知对话
+//未知对话
 WaitEventAutoScriptRun(2, false, false);
 EventSetDirFrame(133, 2, 3, 0);
 VideoUpdate(0, false);
-//小雪：
-//公子万安～
+//未知对话
+//未知对话
 EventSetDirFrame(134, 0, 3, 0);
 VideoUpdate(0, false);
-//老鸨：
-//咱们小雪呀～
-//琴棋书画、花鸟刺绣、
-//诗词歌赋样样精通
-//是咱们怡红院的才女哟！
+//未知对话
+//未知对话
+//未知对话
+//未知对话
+//未知对话
 EventSetDirFrame(134, 0, 2, 0);
 VideoUpdate(0, false);
 EventSetDirFrame(133, 2, 0, 0);
 VideoUpdate(0, false);
-//老鸨：
-//小雪，好好的伺候公子
-//知道吗！？
+//未知对话
+//未知对话
+//未知对话
 VideoUpdate(0, false);
-//小雪：
-//是．．妈妈．．
+//未知对话
+//未知对话
 EventSetAutoScript(134, 0, "@3EAA");
 WaitEventAutoScriptRun(8, false, false);
 RoleSetDirFrame(0, 0, 0);
 WaitEventAutoScriptRun(10, false, false);
 EventSetDirFrame(134, 0, 2, 0);
 VideoUpdate(0, false);
-//老鸨：
-//记住呀！
-//这次不许又搞砸了
+//未知对话
+//未知对话
+//未知对话
 WaitEventAutoScriptRun(14, false, false);
 RoleSetDirFrame(1, 0, 0);
 WaitEventAutoScriptRun(6, false, false);
 EventSetDirFrame(133, 2, 3, 0);
 WaitEventAutoScriptRun(4, false, false);
 SetDlgUpper(0, 0, false);
-//小雪：
-//公子．．那．．我们开始吧
+//未知对话
+//未知对话
 VideoUpdate(0, false);
 RoleSetDirFrame(0, 0, 0);
 WaitEventAutoScriptRun(6, false, false);
 RoleSetDirFrame(1, 0, 0);
 VideoUpdate(0, false);
 SetDlgLower(0, 0, false);
-//李逍遥：
-//怎么不先来点酒助兴？
+//未知对话
+//未知对话
 VideoUpdate(0, false);
 SetDlgUpper(0, 0, false);
-//小雪：
-//公子．．
-//我．．我不会喝酒．．
+//未知对话
+//未知对话
+//未知对话
 SetDlgLower(0, 0, false);
-//李逍遥：
-//  不会喝酒！？
+//未知对话
+//未知对话
 VideoUpdate(0, false);
 SetDlgUpper(0, 0, false);
-//小雪：
-//我．．我可以弹琴给您听
-//我会很多曲子！
+//未知对话
+//未知对话
+//未知对话
 VideoRestore();
-//那．．．那．．
-//还是．．我陪您下盘棋？
+//未知对话
+//未知对话
 VideoRestore();
-//要不然．．
-//我写字、画画给你看？
-//我会临摹王羲之的真迹哦
+//未知对话
+//未知对话
+//未知对话
 SetDlgLower(0, 0, false);
-//李逍遥：
-//你总该会点特别的吧？
+//未知对话
+//未知对话
 VideoUpdate(0, false);
 SetDlgUpper(0, 0, false);
-//小雪：
-//我．．我还会．．刺绣
-//要不要小雪替您绣一条手绢
+//未知对话
+//未知对话
+//未知对话
 VideoUpdate(0, false);
 SetDlgLower(0, 0, false);
-//李逍遥：
-//算了～不用、不用！
+//未知对话
+//未知对话
 VideoUpdate(0, false);
 SetDlgUpper(0, 0, false);
-//小雪：
-//不．．我还会吟诗作赋！
-//我念一首自己做的诗给您听
+//未知对话
+//未知对话
+//未知对话
 WaitEventAutoScriptRun(4, false, false);
 EventSetDirFrame(133, 2, 0, 0);
 WaitEventAutoScriptRun(6, false, false);
-//床前人成双、衣裳脱光光
-//举头捉小鸟、低头吃香蕉
+//未知对话
+//未知对话
 VideoUpdate(0, false);
 SetDlgLower(0, 0, false);
-//李逍遥：
-//这．．这是什么怪诗！
+//未知对话
+//未知对话
 EventSetDirFrame(133, 2, 3, 0);
 VideoUpdate(0, false);
 SetDlgUpper(0, 0, false);
-//小雪：
-//您～不喜欢吗？
-//可是．．上个月来的
-//那位李公子很喜欢呢
+//未知对话
+//未知对话
+//未知对话
+//未知对话
 VideoRestore();
-//他说他听过这首诗后，突然
-//灵感大发，写出许多首好诗
-//后来，皇上看到他写的诗后
-//还召见他到长乐宫喝酒呢
+//未知对话
+//未知对话
+//未知对话
+//未知对话
 VideoRestore();
-//但是．．后来
-//那位李公子就再也没来了
+//未知对话
+//未知对话
 VideoUpdate(0, false);
 SetDlgLower(0, 0, false);
-//李逍遥：
-//小雪姑娘，我看你还是
-//别当妓女了～不适合你啊
+//未知对话
+//未知对话
+//未知对话
 SetDlgUpper(0, 0, false);
-//小雪：
-//不．．不行啊．．
-//我又不会做别的工作
+//未知对话
+//未知对话
+//未知对话
 

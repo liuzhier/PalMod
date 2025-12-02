@@ -123,54 +123,54 @@ SetBattleMusic(Music.战意昂);
 ['Event_00061_00052_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//获得１００文钱
+//未知对话
 CashModify(100, "");
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 Call("@8E99");
 SetDlgBox(0);
-//获得２００文钱
+//未知对话
 CashModify(200, "");
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 ['Event_00061_00056_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//获得１０００文钱
+//未知对话
 CashModify(1000, "");
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 ['Event_00061_00055_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//获得行军丹
+//未知对话
 AddItem(40, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 Call("@8E99");
 SetDlgBox(0);
-//获得腌肉
+//未知对话
 AddItem(34, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 ['Event_00061_00053_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//获得金创药
+//未知对话
 AddItem(41, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 ['Event_00061_00054_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//获得蜂王蜜
+//未知对话
 AddItem(71, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 ['Event_00061_00051_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//获得梅花镖
+//未知对话
 AddItem(93, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 

@@ -7,7 +7,7 @@ RoleSetDirFrame(0, 0, 0);
 ViewportMove(0, 0, 0);
 WaitEventAutoScriptRun(8, false, false);
 SetDlgCenter(0, false);
-//$12灵儿念出祭雨咒文~60~80
+//未知对话
 EventSetDirFrame(227, 4, 0, 6);
 EventSetDirFrame(227, 5, 0, 6);
 EventSetDirFrame(227, 6, 0, 6);
@@ -19,8 +19,8 @@ FadeOut(2);
 SetPalette(Palette.动画_立命生民祈甘霖);
 PlayRng(0, 0, 8);
 SetDlgUpper(0, 0, false);
-//天地诸神啊～我以女娲圣灵之名
-//请求您赐予这片土地新的生命~90
+//未知对话
+//未知对话
 MusicStop(1);
 FadeOut(3);
 SetPalette(Palette.平常_日夜);
@@ -29,8 +29,8 @@ ReplaceAndPause();
 PartySetPos(36, 65, 0);
 ViewportMove(0, 0, 0);
 SetDlgUpper(0, 0, false);
-//赵灵儿：
-//太好了．．．
+//未知对话
+//未知对话
 FadeOut(0);
 SceneEnter(232);
 

@@ -8,48 +8,48 @@ WaitEventAutoScriptRun(6, false, false);
 EventSetDirFrame(126, 4, 0, 0);
 VideoUpdate(0, false);
 SetDlgLower(0, 0, false);
-//茅山道士：
-//哎呀．．好重的妖气啊
-//妖怪一定就在这附近！
+//未知对话
+//未知对话
+//未知对话
 VideoUpdate(0, false);
 SetDlgUpper(0, 0, false);
-//刘夫人：
-//道长．．请您想想办法
+//未知对话
+//未知对话
 EventSetState(126, 4, 0);
 EventSetState(126, 5, 1);
 VideoUpdate(0, false);
 SetDlgLower(0, 0, false);
-//茅山道士：
-//您放心～
-//本山人是有备而来的
+//未知对话
+//未知对话
+//未知对话
 EventSetDirFrame(126, 5, 0, 1);
 VideoUpdate(0, false);
 SetDlgCenter(0, false);
-//铃～　铃～　铃．．
+//未知对话
 VideoUpdate(0, false);
 SetDlgLower(0, 0, false);
-//茅山道士：
-//天灵灵、地灵灵
-//四方神明听我令．．
+//未知对话
+//未知对话
+//未知对话
 EventSetDirFrame(126, 5, 0, 2);
 VideoUpdate(0, false);
 SetDlgCenter(0, false);
-//唔！？
+//未知对话
 VideoUpdate(0, false);
 EventSetAutoScript(126, 5, "@4CAD");
 WaitEventAutoScriptRun(12, false, false);
 SetDlgLower(0, 0, false);
-//茅山道士：
-//这．．．．！？
+//未知对话
+//未知对话
 SetDlgUpper(0, 0, false);
-//刘夫人：
-//道长，怎么回事？
+//未知对话
+//未知对话
 VideoUpdate(0, false);
 EventSetDirFrame(126, 5, 0, 0);
 VideoUpdate(0, false);
 SetDlgLower(0, 0, false);
-//茅山道士：
-//喔．．没事．．没事！
+//未知对话
+//未知对话
 EventSetDirFrame(126, 5, 0, 13);
 WaitEventAutoScriptRun(2, false, false);
 EventSetDirFrame(126, 5, 0, 14);
@@ -63,13 +63,13 @@ WaitEventAutoScriptRun(2, false, false);
 EventSetDirFrame(126, 5, 0, 16);
 WaitEventAutoScriptRun(2, false, false);
 SetDlgLower(0, 0, false);
-//茅山道士：
-//看我的～张天师金刚降魔符！
+//未知对话
+//未知对话
 WaitEventAutoScriptRun(4, false, false);
 EventSetDirFrame(126, 5, 0, 17);
 VideoUpdate(0, false);
 SetDlgCenter(0, false);
-//咦！？
+//未知对话
 EventSetDirFrame(126, 5, 0, 18);
 WaitEventAutoScriptRun(4, false, false);
 EventSetAutoScript(126, 5, "@4CAD");
@@ -83,12 +83,12 @@ WaitEventAutoScriptRun(5, false, false);
 EventSetDirFrame(126, 4, 3, 0);
 WaitEventAutoScriptRun(4, false, false);
 SetDlgLower(0, 0, false);
-//茅山道士：
-//大胆妖孽，竟敢戏弄本天师
-//还不快给我现形！
+//未知对话
+//未知对话
+//未知对话
 WaitEventAutoScriptRun(5, false, false);
-//茅山道士：
-//．．．．．．．．．。
+//未知对话
+//未知对话
 EventSetState(126, 4, 0);
 EventSetState(126, 5, 1);
 EventSetDirFrame(126, 5, 0, 0);
@@ -102,18 +102,18 @@ WaitEventAutoScriptRun(2, false, false);
 EventSetDirFrame(126, 5, 0, 22);
 WaitEventAutoScriptRun(2, false, false);
 SetDlgLower(0, 0, false);
-//茅山道士：
-//休怪我拿出真本领了！
+//未知对话
+//未知对话
 VideoRestore();
-//太上老君、急急如令
-//天兵天将、速速驾临！
+//未知对话
+//未知对话
 VideoUpdate(0, false);
 EventSetAutoScript(126, 5, "@4CB9");
 WaitEventAutoScriptRun(6, false, false);
 EventSetState(127, 0, 1);
 WaitEventAutoScriptRun(0, false, false);
 SetDlgCenter(0, false);
-//哇．．救命呀！
+//未知对话
 WaitEventAutoScriptRun(8, false, false);
 EventSetAutoScript(126, 2, "@4CCD");
 WaitEventAutoScriptRun(8, false, false);
@@ -122,13 +122,13 @@ WaitEventAutoScriptRun(2, false, false);
 EventSetDirFrame(126, 3, 0, 0);
 WaitEventAutoScriptRun(6, false, false);
 SetDlgUpper(0, 0, false);
-//刘夫人：
-//道长！　道长．．
+//未知对话
+//未知对话
 VideoUpdate(0, false);
 SetDlgLower(0, 0, false);
-//茅山道士：
-//哇～我还想活命啊！
-//您另请高明吧
+//未知对话
+//未知对话
+//未知对话
 EventSetState(126, 4, 0);
 WaitEventAutoScriptRun(4, false, false);
 EventSetDirFrame(126, 2, 1, 0);
@@ -136,26 +136,26 @@ WaitEventAutoScriptRun(6, false, false);
 EventSetDirFrame(126, 2, 0, 0);
 VideoUpdate(0, false);
 SetDlgLower(0, 0, false);
-//刘夫人：
-//怎么办！元儿若是有个三长
-//两短，叫我怎么向刘家列祖
-//列宗交代啊．．
+//未知对话
+//未知对话
+//未知对话
+//未知对话
 EventSetAutoScript(126, 2, "@4CD0");
 WaitEventAutoScriptRun(15, false, false);
 ViewportMove(-2, -1, 20);
 EventSetDirFrame(126, 3, 3, 0);
 WaitEventAutoScriptRun(2, false, false);
 SetDlgUpper(23, 0, false);
-//林月如：
-//花了大把银子
-//就请来这个笨蛋！？
+//未知对话
+//未知对话
+//未知对话
 EventSetDirFrame(126, 3, 2, 0);
 VideoUpdate(0, false);
 SetDlgLower(1, 0, false);
-//李逍遥：
-//可能我们这回遇到的
-//真的是非常厉害的妖怪
-//而且就躲在这尚书府中
+//未知对话
+//未知对话
+//未知对话
+//未知对话
 EventSetState(126, 3, 0);
 PartySetRole(3, 1, 0);
 EventSetState(136, 0, 2);

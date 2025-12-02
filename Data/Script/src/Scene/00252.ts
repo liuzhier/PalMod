@@ -21,8 +21,8 @@ PlaySound(192);
 EventSetDirFrame(251, 1, 0, 2);
 FadeToScene(4, -1);
 SetDlgLower(0, 0, false);
-//李逍遥：
-//娘娘．．．？！
+//未知对话
+//未知对话
 EventSetState(252, 0, 1);
 WaitEventAutoScriptRun(14, false, false);
 RoleSetDirFrame(2, 0, 0);

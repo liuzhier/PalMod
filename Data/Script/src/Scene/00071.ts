@@ -14,14 +14,14 @@ SetBattlefield(FbpWin.鬼阴山_洞内);
 ['Event_00071_00009_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//获得袖里剑
+//未知对话
 AddItem(94, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
 ['Event_00071_00008_Trigger'];
 Call("@8E99");
 SetDlgBox(0);
-//获得吸星锁
+//未知对话
 AddItem(98, 0);
 ReplaceAndPauseWithNop("Event_00185_00003_Trigger", 0);
 
